@@ -1,0 +1,28 @@
+{
+  "name": "Arroz 🔥🍂",
+  "category": "patchouli:crops",
+  "icon": "farmersdelight:rice",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 16$(li)🔥 §6Verão§r 🍂 §4Outono$(li)Preço da Semente: :coin: 64$(li)Colheita: 1$(li)Tempo de Crescimento: 6 days$(li)Tempo de Rebrota: 3 days$(br2)$(l)Notas$()$(br)Deve ser plantado em água rasa sobre terra arada."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Arroz",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["U"],
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "U": "farmersdelight:rice_panicles[age=3]",
+          "0": "farmersdelight:rice[age=3,supporting=true]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

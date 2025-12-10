@@ -1,0 +1,17 @@
+{
+  "name": "Furão",
+  "category": "patchouli:pets",
+  "icon": "minecraft:iron_shovel",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possíveis Presentes:$()$(br)Ovo de Aranha Saltadora$(br)$(l)Item para Domesticar:$()$(br)Coelho Cru$(br2)$(l)Notas$()$(br)Pode ser encontrado em planícies e florestas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "crittersandcompanions:ferret",
+      "scale": 0.7,
+      "text": "Eles podem desenterrar coisas quando você os alimenta com Frango Cru!"
+    }
+  ]
+}

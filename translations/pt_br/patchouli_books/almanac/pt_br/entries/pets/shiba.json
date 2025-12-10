@@ -1,0 +1,17 @@
+{
+  "name": "Shiba",
+  "category": "patchouli:pets",
+  "icon": "minecraft:arrow",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Chapéu Orelhas de Eevee$(br2)$(l)Item de Domesticação:$()$(br)Osso"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "quark:shiba",
+      "scale": 0.7,
+      "text": "Eles adoram brincar de buscar com flechas"
+    }
+  ]
+}

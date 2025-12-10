@@ -1,0 +1,26 @@
+{
+  "name": "Brócolis 🍂",
+  "category": "patchouli:crops",
+  "icon": "veggiesdelight:broccoli",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 54$(li)🍂 §4Outono$(li)Preço da Semente: Não vendido$(li)Colheita: 1$(li)Tempo de Crescimento: 5 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Brócolis",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "veggiesdelight:broccoli_crop[age=5]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

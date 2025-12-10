@@ -1,0 +1,28 @@
+{
+  "name": "Planta Ancestral 🔥",
+  "category": "patchouli:crops",
+  "icon": "minecraft:pitcher_plant",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 128$(li)🔥 §6Verão§r$(li)Colheita: 1$(li)Tempo de Crescimento: 4 days$(br2)$(l)Notas$()$(br)Sementes escavadas por Farejadores (Sniffers)"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Planta Ancestral",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["U"],
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "U": "minecraft:pitcher_crop[age=4,half=upper]",
+          "0": "minecraft:pitcher_crop[age=4,half=lower]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

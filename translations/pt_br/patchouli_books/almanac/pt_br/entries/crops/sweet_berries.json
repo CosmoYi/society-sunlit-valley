@@ -1,0 +1,26 @@
+{
+  "name": "Bagas Doces 🌼🍂",
+  "category": "patchouli:crops",
+  "icon": "minecraft:sweet_berries",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 2$(li)🌼 §2Primavera§r 🍂 §4Outono$(li)Colheita: 1-2/2-3$(li)Tempo de Crescimento: 2/3 days$(li)Tempo de Rebrota: 1/2 days$(br2)$(l)Notas:$()$(br)Encontrado em biomas semelhantes a Taigas.$(br)Sem sementes, basta plantar o fruto.$(br)Tem 2 estágios colheitáveis"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Arbusto de Frutas Doces",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "minecraft:sweet_berry_bush[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

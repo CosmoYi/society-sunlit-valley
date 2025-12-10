@@ -1,0 +1,17 @@
+{
+  "name": "Foxhound",
+  "category": "patchouli:pets",
+  "icon": "minecraft:coal",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possíveis Presentes:$()$(br)Chapéu de Fogos de Artifício$(br2)$(l)Domesticação$()$(br)Tenha o efeito de Resistência ao Fogo e alimente-os com carvão."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "quark:foxhound",
+      "scale": 0.7,
+      "text": "Esses amigos flamejantes aceleram Fornalhas quando se sentam sobre elas."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Beringela 🍂",
+  "category": "patchouli:crops",
+  "icon": "society:eggplant",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 42$(li)🍂 §4Outono$(li)Preço da Semente: :coin: 8$(li)Colheita: 1$(li)Tempo de Crescimento: 6 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Beringela",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "society:eggplant[age=6]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Alho 🌼",
+  "category": "patchouli:crops",
+  "icon": "veggiesdelight:garlic",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 27$(li)🌼 §2Primavera§r$(li)Preço da Semente: :coin: 32$(li)Colheita: 1-3$(li)Tempo de Crescimento: 5 days$(br2)$(l)Notas$()$(br)Sementes compradas apenas do Mestre Cultivador. Semente: 'Garlic Seeds'"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Alho",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "veggiesdelight:garlic_crop[age=5]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

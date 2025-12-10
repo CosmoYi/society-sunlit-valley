@@ -1,0 +1,23 @@
+{
+  "name": "Abobrinha 🔥",
+  "category": "patchouli:crops",
+  "icon": "veggiesdelight:zucchini",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 72$(li)🔥 §6Verão§r $(li)Preço da semente: Não vendido$(li)Rendimento: 1-2$(li)Tempo de crescimento: 7 dias"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Abobrinha",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [["0"], ["F"]],
+        "mapping": {
+          "0": "veggiesdelight:zucchini_crop[age=7]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

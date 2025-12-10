@@ -1,0 +1,17 @@
+{
+  "name": "Ouriço",
+  "category": "patchouli:pets",
+  "icon": "supplementaries:bamboo_spikes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Cabeça Sônica$(br2)$(l)Notas$()$(br)Pode ser encontrado em florestas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:hedgehog",
+      "scale": 0.7,
+      "text": "Um animal erudito conhecido por seus vários dilemas"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Algodão 🔥",
+  "category": "patchouli:crops",
+  "icon": "etcetera:cotton_flower",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 24$(li)🔥 §6Verão§r$(li)Colheita: 2$(li)Tempo de Crescimento: 3 days$(br2)$(l)Notas$()$(br)Encontrado em balões verdes, locais de escavação e Mojos da Floresta."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Algodão",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "etcetera:cotton[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Coruja",
+  "category": "patchouli:pets",
+  "icon": "tanukidecor:owl_clock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Relógio de Coruja$(br)$(l)Item de Domesticação:$()$(br)Carne Podre$(br2)$(l)Notas$()$(br)Pode ser encontrado em florestas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:owl",
+      "scale": 0.7,
+      "text": "Mantenha este animal longe de animais menores..."
+    }
+  ]
+}

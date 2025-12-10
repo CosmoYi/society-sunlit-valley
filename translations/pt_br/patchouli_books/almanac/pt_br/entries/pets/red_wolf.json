@@ -1,0 +1,17 @@
+{
+  "name": "Lobo Vermelho",
+  "category": "patchouli:pets",
+  "icon": "species:wicked_treat",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Bandeira de Caçador de Lobos, Fóssil de Lobo$(br)$(l)Item de Domesticação:$()$(br)Osso$(br2)$(l)Notas$()$(br)Pode ser encontrado em taigas de pinheiros antigas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:red_wolf",
+      "scale": 0.7,
+      "text": "Um lobo que é vermelho! O que mais você quer??"
+    }
+  ]
+}

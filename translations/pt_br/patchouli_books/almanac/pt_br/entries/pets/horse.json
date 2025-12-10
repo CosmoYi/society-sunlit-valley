@@ -1,0 +1,17 @@
+{
+  "name": "Cavalo",
+  "category": "patchouli:pets",
+  "icon": "relics:horse_flute",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Flauta de Cavalo"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:horse",
+      "scale": 0.7,
+      "text": "Mais barato que um carro!"
+    }
+  ]
+}
