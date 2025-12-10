@@ -1,0 +1,158 @@
+{
+  "itemGroup.betterarcheology": "Better Archeology",
+
+  "block.betterarcheology.rotten_log": "Tronco Apodrecido",
+  "block.betterarcheology.rotten_planks": "Tábuas Apodrecidas",
+  "block.betterarcheology.rotten_slab": "Laje Apodrecida",
+  "block.betterarcheology.rotten_stairs": "Escadas Apodrecidas",
+  "block.betterarcheology.rotten_fence": "Cerca Apodrecida",
+  "block.betterarcheology.rotten_fence_gate": "Portão de Cerca Apodrecido",
+  "block.betterarcheology.rotten_trapdoor": "Alçapão Apodrecido",
+  "block.betterarcheology.rotten_door": "Porta Apodrecida",
+  "block.betterarcheology.rotten_pressure_plate": "Placa de Pressão Apodrecida",
+
+  "block.betterarcheology.infested_mud_bricks": "Tijolos de Barro Infestados",
+  "block.betterarcheology.cracked_mud_bricks": "Tijolos de Barro Rachados",
+  "block.betterarcheology.cracked_mud_brick_slab": "Laje de Tijolos de Barro Rachados",
+  "block.betterarcheology.cracked_mud_brick_stairs": "Escadas de Tijolos de Barro Rachados",
+
+  "block.betterarcheology.suspicious_red_sand": "Areia Vermelha Suspeita",
+  "block.betterarcheology.suspicious_dirt": "Terra Suspeita",
+  "block.betterarcheology.fossiliferous_dirt": "Terra Fossilífera",
+
+  "block.betterarcheology.chiseled_bone_block": "Bloco de Ossos Cinzelado",
+  "block.betterarcheology.fossiliferous_dirt_tooltip": "Talvez algo possa ser desenterrado?",
+  
+  "block.betterarcheology.villager_fossil": "Fóssil de Aldeão",
+  "block.betterarcheology.villager_fossil_tooltip": "Seus braços fossilizados podem servir como um tipo de display",
+  "block.betterarcheology.villager_fossil_head": "Crânio de Fóssil de Aldeão",
+  "block.betterarcheology.villager_fossil_head_tooltip": "Eles não parecem ter evoluído muito...",
+  "block.betterarcheology.villager_fossil_body": "Corpo de Fóssil de Aldeão",
+  "block.betterarcheology.villager_fossil_body_tooltip": "Um lembrete assombroso de uma vila perdida no tempo",
+
+  "block.betterarcheology.ocelot_fossil": "Fóssil de Ocelote",
+  "block.betterarcheology.ocelot_fossil_tooltip": "Creepers parecem temê-los ainda mais do que gatos",
+  "block.betterarcheology.ocelot_fossil_head": "Crânio de Fóssil de Ocelote",
+  "block.betterarcheology.ocelot_fossil_head_tooltip": "Ao contrário de seus descendentes, tinham dentes longos e afiados",
+  "block.betterarcheology.ocelot_fossil_body": "Corpo de Fóssil de Ocelote",
+  "block.betterarcheology.ocelot_fossil_body_tooltip": "Parece menos ágil, porém mais forte",
+
+  "block.betterarcheology.wolf_fossil": "Fóssil de Lobo",
+  "block.betterarcheology.wolf_fossil_tooltip": "Esqueletos parecem temê-lo",
+  "block.betterarcheology.wolf_fossil_head": "Crânio de Fóssil de Lobo",
+  "block.betterarcheology.wolf_fossil_head_tooltip": "Dentes bem afiados...",
+  "block.betterarcheology.wolf_fossil_body": "Corpo de Fóssil de Lobo",
+  "block.betterarcheology.wolf_fossil_body_tooltip": "Será que posso coçar sua barriga?",
+
+  "block.betterarcheology.sheep_fossil": "Fóssil de Ovelha",
+  "block.betterarcheology.sheep_fossil_tooltip": "Seus chifres lembram Chifres de Cabra. Será que também fazia um som?",
+  "block.betterarcheology.sheep_fossil_head": "Crânio de Fóssil de Ovelha",
+  "block.betterarcheology.sheep_fossil_head_tooltip": "Provavelmente causava um impacto maior que o das cabras",
+  "block.betterarcheology.sheep_fossil_body": "Corpo de Fóssil de Ovelha",
+  "block.betterarcheology.sheep_fossil_body_tooltip": "Já não tão fofinha...",
+
+  "block.betterarcheology.chicken_fossil": "Fóssil de Galinha",
+  "block.betterarcheology.chicken_fossil_tooltip": "Você se sente mais leve perto dele",
+  "block.betterarcheology.chicken_fossil_head": "Crânio de Fóssil de Galinha",
+  "block.betterarcheology.chicken_fossil_head_tooltip": "Seu bico parece maior que o das galinhas que você conhece",
+  "block.betterarcheology.chicken_fossil_body": "Corpo de Fóssil de Galinha",
+  "block.betterarcheology.chicken_fossil_body_tooltip": "Suas asas também tinham garras afiadas. E parece que tinham uma cauda maior",
+
+  "block.betterarcheology.creeper_fossil": "Fóssil de Creeper",
+  "block.betterarcheology.creeper_fossil_tooltip": "Parece ainda mais assustador que os reais...",
+  "block.betterarcheology.creeper_fossil_head": "Crânio de Fóssil de Creeper",
+  "block.betterarcheology.creeper_fossil_head_tooltip": "Essa cara já te deu calafrios muitas vezes",
+  "block.betterarcheology.creeper_fossil_body": "Corpo de Fóssil de Creeper",
+  "block.betterarcheology.creeper_fossil_body_tooltip": "Então esta é a fonte de seu poder!",
+
+  "block.betterarcheology.guardian_fossil": "Fóssil de Guardião",
+  "block.betterarcheology.guardian_fossil_tooltip": "Parece mais bizarro que o original...",
+  "block.betterarcheology.guardian_fossil_head": "Crânio de Fóssil de Guardião",
+  "block.betterarcheology.guardian_fossil_head_tooltip": "Difícil distinguir cabeça e corpo.",
+  "block.betterarcheology.guardian_fossil_body": "Corpo de Fóssil de Guardião",
+  "block.betterarcheology.guardian_fossil_body_tooltip": "Até suas nadadeiras parecem afiadas.",
+
+  "block.betterarcheology.loot_vase": "Vaso Antigo",
+  "block.betterarcheology.vase": "Vaso Antigo",
+  "block.betterarcheology.loot_vase_creeper": "Vaso Antigo",
+  "block.betterarcheology.vase_creeper": "Vaso Antigo",
+  "block.betterarcheology.loot_vase_green": "Vaso Antigo",
+  "block.betterarcheology.vase_green": "Vaso Antigo",
+
+  "block.betterarcheology.evoker_trap": "Armadilha de Evocador",
+
+  "advancements.shards": "Conhecimento Estilhaçado",
+  "advancements.shards.description": "Encontre um Fragmento de Artefato",
+
+  "advancements.artifact": "Tudo está se encaixando",
+  "advancements.artifact.description": "Faça um Artefato Não Identificado usando Fragmentos. Agora começa a identificação!",
+
+  "advancements.vase": "Sucesso Estrondoso",
+  "advancements.vase.description": "Obtenha loot quebrando um vaso",
+
+  "advancements.fossiliferous_dirt": "Escavando pelo Tempo",
+  "advancements.fossiliferous_dirt.description": "Use um Pincel na Terra Fossilífera para revelar seus segredos",
+
+  "advancements.fossil_found": "Tesouro Antigo",
+  "advancements.fossil_found.description": "Descubra um fóssil dentro da Terra Fossilífera",
+
+  "advancements.all_fossils_found": "Orgulho do Paleontólogo",
+  "advancements.all_fossils_found.description": "Colete todas as partes fósseis!",
+
+  "advancements.growth_totem": "Onde você menos espera",
+  "advancements.growth_totem.description": "Encontre a vida que cresceu entre os mortos",
+
+  "advancements.netherite_brush.title": "Investimento Insano",
+  "advancements.netherite_brush.description": "Às vezes, o caminho para a grandeza é pavimentado com escolhas questionáveis — mas nunca com poeira.",
+
+  "block.betterarcheology.fossil_head_set": " [1/2]",
+  "block.betterarcheology.fossil_body_set": " [2/2]",
+
+  "item.betterarcheology.iron_brush": "Pincel de Ferro",
+  "item.betterarcheology.diamond_brush": "Pincel de Diamante",
+  "item.betterarcheology.netherite_brush": "Pincel de Netherita",
+
+  "block.betterarcheology.archeology_table": "Mesa de Arqueologia",
+
+  "item.betterarcheology.artifact_shards": "Fragmentos de Artefato",
+  "item.betterarcheology.unidentified_artifact": "Artefato Não Identificado",
+  "item.betterarcheology.identified_artifact": "Artefato Identificado",
+
+  "item.betterarcheology.bomb": "Bomba Enferrujada",
+
+  "item.betterarcheology.torrent_totem": "Totem das Torrentes",
+  "item.betterarcheology.torrent_totem_description": "Use em terra para um dash de torrente",
+
+  "item.betterarcheology.soul_totem": "Totem das Almas",
+  "item.betterarcheology.soul_totem_description": "Dano ao alvo e recuperação de vida",
+
+  "block.betterarcheology.growth_totem": "Totem do Crescimento",
+  "block.betterarcheology.growth_totem_tooltip": "Seu brilho acelera o crescimento de plantações próximas",
+
+  "block.betterarcheology.radiance_totem": "Totem da Radiância",
+  "block.betterarcheology.radiance_totem_tooltip": "Seu brilho revela entidades próximas e fere monstros",
+
+  "block.betterarcheology.radiance_totem_message_0": "Exibindo Tudo",
+  "block.betterarcheology.radiance_totem_message_1": "Exibindo Monstros",
+  "block.betterarcheology.radiance_totem_message_2": "Exibindo Animais",
+  "block.betterarcheology.radiance_totem_message_3": "Exibindo Jogadores",
+
+  "entity.minecraft.villager.betterarcheology.archeologist": "Arqueólogo",
+
+  "enchantment.betterarcheology.penetrating_strike": "Golpe Penetrante",
+  "enchantment.betterarcheology.penetrating_strike.desc": "Ignora parcialmente os efeitos dos Encantamentos de Proteção",
+
+  "enchantment.betterarcheology.seas_bounty": "Recompensa do Mar",
+  "enchantment.betterarcheology.seas_bounty.desc": "Pesque uma variedade maior de tesouros das profundezas",
+
+  "enchantment.betterarcheology.soaring_winds": "Ventos Ascendentes",
+  "enchantment.betterarcheology.soaring_winds.desc": "Aproveita os ventos para dar um impulso inicial ao usar uma Élitra",
+
+  "enchantment.betterarcheology.tunneling": "Túnel",
+  "enchantment.betterarcheology.tunneling.desc": "Também quebra o bloco abaixo do bloco minerado. Segure [SHIFT] para desativar",
+
+  "filled_map.catacombs": "Mapa do Explorador de Catacumbas",
+  "filled_map.light": "Mapa do Explorador do Templo da Luz",
+
+  "config.notify.disabled": "Este recurso foi desativado na configuração!"
+}

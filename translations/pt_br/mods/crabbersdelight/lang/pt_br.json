@@ -1,0 +1,120 @@
+{
+  "itemGroup.crabbersdelight": "Delícias do Caranguejo",
+
+  "item.crabbersdelight.crab": "Caranguejo",
+  "item.crabbersdelight.cooked_crab": "Caranguejo Cozido",
+
+  "item.crabbersdelight.clawster": "Lagostim",
+  "item.crabbersdelight.cooked_clawster": "Lagostim Cozido",
+
+  "item.crabbersdelight.shrimp": "Camarão",
+  "item.crabbersdelight.cooked_shrimp": "Camarão Cozido",
+
+  "item.crabbersdelight.clam": "Molusco",
+  "item.crabbersdelight.raw_clam_meat": "Carne de Molusco Crua",
+  "item.crabbersdelight.cooked_clam_meat": "Carne de Molusco Cozida",
+
+  "item.crabbersdelight.raw_squid_tentacles": "Tentáculos de Lula Crus",
+  "item.crabbersdelight.cooked_squid_tentacles": "Tentáculos de Lula Cozidos",
+
+  "item.crabbersdelight.raw_glow_squid_tentacles": "Tentáculos de Lula Brilhante Crus",
+  "item.crabbersdelight.cooked_glow_squid_tentacles": "Tentáculos de Lula Brilhante Cozidos",
+
+  "item.crabbersdelight.raw_frog_leg": "Coxa de Sapo Crua",
+  "item.crabbersdelight.cooked_frog_leg": "Coxa de Sapo Cozida",
+
+  "item.crabbersdelight.kelp_shake": "Vitaminado de Algas",
+  "item.crabbersdelight.crab_cakes": "Bolinhos de Caranguejo",
+  "item.crabbersdelight.crab_legs": "Perna de Caranguejo",
+  "item.crabbersdelight.cooked_tropical_fish": "Peixe Tropical Cozido",
+  "item.crabbersdelight.shrimp_skewer": "Espetinho de Camarão",
+  "item.crabbersdelight.surf_and_turf": "Surf 'n Turf",
+  "item.crabbersdelight.fish_stick": "Palitinho de Peixe",
+  "item.crabbersdelight.clam_bake": "Assado de Molusco",
+  "item.crabbersdelight.clam_chowder": "Ensopado de Molusco",
+  "item.crabbersdelight.tropical_fish_slice": "Fatias de Peixe Tropical Cruas",
+  "item.crabbersdelight.cooked_tropical_fish_slice": "Fatias de Peixe Tropical Cozidas",
+  "item.crabbersdelight.pufferfish_slice": "Fatias de Baiacu Cruas",
+  "item.crabbersdelight.cooked_pufferfish_slice": "Fatias de Baiacu Cozidas",
+  "item.crabbersdelight.bisque": "Bisque",
+  "item.crabbersdelight.seafood_gumbo": "Gumbo de Frutos do Mar",
+  "item.crabbersdelight.stuffed_nautilus_shell": "Concha de Náutilo Recheada",
+  "item.crabbersdelight.shrimp_fried_rice": "Arroz Frito com Camarão",
+  "item.crabbersdelight.jar_of_pickles": "Pote de Picles",
+  "item.crabbersdelight.sea_pickle_juice": "Suco de Pepino-do-Mar",
+  "item.crabbersdelight.squid_kebob": "Kebab de Lula",
+  "item.crabbersdelight.frog_leg_kebob": "Kebab de Coxa de Sapo",
+  "item.crabbersdelight.coral_crunch": "Crocante de Coral",
+
+  "item.crabbersdelight.soggy_flesh": "Carne Encharcada",
+  "item.crabbersdelight.arid_flesh": "Carne Árida",
+
+  "item.crabbersdelight.pearl": "Pérola",
+  "item.crabbersdelight.can": "Lata",
+  "item.crabbersdelight.coral_fragments": "Fragmentos de Coral",
+
+  "item.minecraft.potion.effect.inky_potion": "Poção de Tinta",
+  "item.minecraft.splash_potion.effect.inky_potion": "Poção Arremessável de Tinta",
+  "item.minecraft.lingering_potion.effect.inky_potion": "Poção Prolongada de Tinta",
+  "item.minecraft.tipped_arrow.effect.inky_potion": "Flecha de Tinta",
+
+  "item.crabbersdelight.bucket_of_crab_chum": "Balde de Isca de Caranguejo",
+  "item.crabbersdelight.bucket_of_clawster_chum": "Balde de Isca de Lagostim",
+  "item.crabbersdelight.bucket_of_clam_chum": "Balde de Isca de Molusco",
+  "item.crabbersdelight.bucket_of_shrimp_chum": "Balde de Isca de Camarão",
+
+  "item.crabbersdelight.crab_claw": "Garra de Caranguejo",
+
+  "item.crabbersdelight.crab_spawn_egg": "Ovo Gerador de Caranguejo",
+  "item.crabbersdelight.crab_bucket": "Balde com Caranguejo",
+
+  "block.crabbersdelight.crab_trap": "Armadilha para Caranguejo",
+  "block.crabbersdelight.crab_barrel": "Barril de Caranguejo",
+  "block.crabbersdelight.clam_barrel": "Barril de Molusco",
+  "block.crabbersdelight.clawster_barrel": "Barril de Lagostim",
+  "block.crabbersdelight.shrimp_barrel": "Barril de Camarão",
+  "block.crabbersdelight.cod_barrel": "Barril de Bacalhau",
+  "block.crabbersdelight.salmon_barrel": "Barril de Salmão",
+  "block.crabbersdelight.pufferfish_barrel": "Barril de Baiacu",
+  "block.crabbersdelight.tropical_fish_barrel": "Barril de Peixe Tropical",
+  "block.crabbersdelight.squid_barrel": "Barril de Lula",
+  "block.crabbersdelight.glow_squid_barrel": "Barril de Lula Brilhante",
+  "block.crabbersdelight.frog_leg_barrel": "Barril de Coxa de Sapo",
+  "block.crabbersdelight.lanternfish_barrel": "Barril de Peixe-Lanterna",
+  "block.crabbersdelight.nautilus_shell_block": "Bloco de Concha de Náutilo",
+  "block.crabbersdelight.pearl_block": "Bloco de Pérola",
+
+  "entity.crabbersdelight.crab": "Caranguejo",
+
+  "crabbersdelight.jei.crab_trap_loot": "Armadilha para Caranguejo",
+
+  "crabbersdelight.advancement.root": "Delícias do Caranguejo",
+  "crabbersdelight.advancement.root.desc": "Uma aventura marinha espera por você!",
+
+  "crabbersdelight.advancement.craft_crab_trap": "É uma Armadilha!",
+  "crabbersdelight.advancement.craft_crab_trap.desc": "Use corda, tábuas e gravetos para fazer sua primeira armadilha de caranguejo",
+
+  "crabbersdelight.advancement.cook_crustaceans": "Estação de Cozinha de Crustáceos",
+  "crabbersdelight.advancement.cook_crustaceans.desc": "Cozinhe caranguejos, camarões e lagostins fervendo-os em uma panela de cozinha",
+
+  "crabbersdelight.advancement.get_pearl": "Doce Mãe das Pérolas!",
+  "crabbersdelight.advancement.get_pearl.desc": "Obtenha sua primeira pérola cortando moluscos em uma tábua de corte. Talvez um comerciante misterioso a ache valiosa...",
+
+  "crabbersdelight.advancement.a_shrimp_fried_this_rice": "UM CAMARÃO FRITOU ESTE ARROZ?!",
+  "crabbersdelight.advancement.a_shrimp_fried_this_rice.desc": "Você realmente quer me dizer que um CAMARÃO fritou este arroz?! Impossível.",
+
+  "crabbersdelight.advancement.reach_for_the_sea_stars": "Rumo às Estrelas do Mar!",
+  "crabbersdelight.advancement.reach_for_the_sea_stars.desc": "Obtenha uma garra de caranguejo e aumente seu alcance",
+
+  "crabbersdelight.advancement.frog_killer": "Tem Gosto de Frango",
+  "crabbersdelight.advancement.frog_killer.desc": "Use uma faca para obter coxas de sapo de um sapo",
+
+  "crabbersdelight.advancement.squid_killer": "Assassino do Mar Profundo",
+  "crabbersdelight.advancement.squid_killer.desc": "Use uma faca para obter tentáculos de lula",
+
+  "crabbersdelight.advancement.glow_squid_killer": "Assassino das Profundezas",
+  "crabbersdelight.advancement.glow_squid_killer.desc": "Use uma faca para obter tentáculos de lula brilhante",
+
+  "crabbersdelight.block.crab_trap.not_waterlogged": "A armadilha de caranguejo deve estar submersa em água para funcionar!",
+  "crabbersdelight.block.crab_trap.insufficient_surrounding_water": "A armadilha de caranguejo precisa de um bloco 3x3 de água ao redor para funcionar!"
+}
