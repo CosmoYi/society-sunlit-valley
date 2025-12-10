@@ -1,0 +1,132 @@
+{
+  "creativetab.veggiesdelight_tab": "Veggies Delight",
+
+  "item.veggiesdelight.bellpepper": "Pimentão",
+  "item.veggiesdelight.broccoli": "Brócolis",
+  "item.veggiesdelight.cauliflower": "Couve-Flor",
+  "item.veggiesdelight.dandelion_leaf": "Folha de Dente-de-Leão",
+  "item.veggiesdelight.garlic": "Alho",
+  "item.veggiesdelight.sweet_potato": "Batata-Doce",
+  "item.veggiesdelight.turnip": "Nabo",
+  "item.veggiesdelight.zucchini": "Abobrinha",
+
+  "item.veggiesdelight.bellpepper_seeds": "Sementes de Pimentão",
+  "item.veggiesdelight.broccoli_seeds": "Sementes de Brócolis",
+  "item.veggiesdelight.cauliflower_seeds": "Sementes de Couve-Flor",
+  "item.veggiesdelight.turnip_seeds": "Sementes de Nabo",
+  "item.veggiesdelight.zucchini_seeds": "Sementes de Abobrinha",
+
+  "block.veggiesdelight.bellpepper_crate": "Caixa de Pimentões",
+  "block.veggiesdelight.broccoli_crate": "Caixa de Brócolis",
+  "block.veggiesdelight.cauliflower_crate": "Caixa de Couve-Flor",
+  "block.veggiesdelight.garlic_crate": "Caixa de Alho",
+  "block.veggiesdelight.sweet_potato_crate": "Caixa de Batata-Doce",
+  "block.veggiesdelight.turnip_crate": "Caixa de Nabos",
+  "block.veggiesdelight.zucchini_crate": "Caixa de Abobrinha",
+
+  "block.veggiesdelight.wild_bellpeppers": "Pimentões Selvagens",
+  "block.veggiesdelight.wild_broccoli": "Brócolis Selvagens",
+  "block.veggiesdelight.wild_cauliflowers": "Couves-Flor Selvagens",
+  "block.veggiesdelight.wild_garlic": "Alho Selvagem",
+  "block.veggiesdelight.wild_sweet_potatoes": "Batatas-Doces Selvagens",
+  "block.veggiesdelight.wild_turnips": "Nabos Selvagens",
+  "block.veggiesdelight.wild_zucchinis": "Abobrinhas Selvagens",
+  "block.veggiesdelight.mature_dandelion": "Dente-de-Leão Maduro",
+
+  "item.veggiesdelight.cacciatore": "Frango à Cacciatore",
+  "item.veggiesdelight.chicken_fajitas_wrap": "Enrolado de Fajita de Frango",
+  "item.veggiesdelight.mhadjeb": "Mahjouba",
+  "item.veggiesdelight.shakshouka": "Shakshouka",
+  "item.veggiesdelight.smoked_bellpepper": "Pimentão Defumado",
+  "item.veggiesdelight.stuffed_bellpeppers": "Pimentões Recheados",
+  "item.veggiesdelight.uncooked_mhadjeb": "Mahjouba Cru",
+  "block.veggiesdelight.vegan_pizza": "Pizza Vegana",
+  "item.veggiesdelight.vegan_pizza_slice": "Fatia de Pizza Vegana",
+
+  "item.veggiesdelight.broccoli_salad": "Salada de Brócolis",
+  "item.veggiesdelight.broccoli_soup": "Sopa de Brócolis",
+  "item.veggiesdelight.pasta_with_broccoli": "Massa com Brócolis",
+
+  "item.veggiesdelight.cauliflower_bread": "Pão de Couve-Flor",
+  "item.veggiesdelight.cauliflower_burger": "Hambúrguer de Couve-Flor",
+  "item.veggiesdelight.cauliflower_floret": "Raminho de Couve-Flor",
+  "item.veggiesdelight.cauliflower_kuku": "Kuku de Couve-Flor",
+  "item.veggiesdelight.cauliflower_patty": "Bolinho de Couve-Flor",
+  "item.veggiesdelight.cauliflower_soup": "Sopa de Couve-Flor",
+  "item.veggiesdelight.cooked_cauliflower_patty": "Bolinho de Couve-Flor Cozido",
+  "item.veggiesdelight.fried_cauliflower_floret": "Raminho de Couve-Flor Frito",
+
+  "item.veggiesdelight.dandelion_and_eggs": "Verduras de Dente-de-Leão com Ovos",
+  "item.veggiesdelight.dandelion_juice": "Suco de Dente-de-Leão",
+
+  "item.veggiesdelight.cesar_salad": "Salada Caesar",
+  "item.veggiesdelight.fermented_garlic_honey": "Mel Fermentado com Alho",
+  "item.veggiesdelight.garlic_baked_cod": "Bacalhau Assado com Alho",
+  "item.veggiesdelight.garlic_bread": "Pão de Alho",
+  "item.veggiesdelight.garlic_chicken_stew": "Ensopado de Frango com Alho",
+  "item.veggiesdelight.garlic_clove": "Dente de Alho",
+  "item.veggiesdelight.garlic_rice_with_cauliflower": "Arroz com Alho e Couve-Flor",
+  "item.veggiesdelight.garlic_stuffed_mushrooms": "Cogumelos Recheados com Alho",
+  "item.veggiesdelight.roasted_garlic_clove": "Dente de Alho Assado",
+
+  "item.veggiesdelight.baked_sweet_potato": "Batata-Doce Assada",
+  "item.veggiesdelight.mashed_potatoes": "Purê de Batatas",
+  "item.veggiesdelight.potato_noodle": "Macarrão de Batata",
+  "item.veggiesdelight.potato_noodles": "Macarrões de Batata",
+  "item.veggiesdelight.sweet_potato_cupcake": "Cupcake de Batata-Doce",
+  "item.veggiesdelight.sweet_potato_dough": "Massa de Batata-Doce",
+  "item.veggiesdelight.sweet_potato_pancakes": "Panquecas de Batata-Doce",
+  "block.veggiesdelight.sweet_potato_pie": "Torta de Batata-Doce",
+  "item.veggiesdelight.sweet_potato_pie_slice": "Fatia de Torta de Batata-Doce",
+
+  "item.veggiesdelight.turnip_beef_stew": "Ensopado de Carne com Nabo",
+  "item.veggiesdelight.turnip_cake": "Bolo de Nabo",
+  "item.veggiesdelight.turnip_salad": "Salada de Nabo",
+  "item.veggiesdelight.turnip_water": "Água de Nabo",
+
+  "item.veggiesdelight.roasted_zucchini": "Abobrinha Assada",
+  "item.veggiesdelight.zucchini_sandwich": "Sanduíche de Abobrinha",
+  "item.veggiesdelight.zucchini_slice": "Fatia de Abobrinha",
+  "item.veggiesdelight.stuffed_zucchinis": "Abobrinhas Recheadas",
+
+  "item.veggiesdelight.beetroot_brownie": "Brownie de Beterraba",
+  "block.veggiesdelight.beetroot_brownie_tray": "Assadeira de Brownie de Beterraba",
+  "block.veggiesdelight.carrot_cake": "Bolo de Cenoura",
+  "item.veggiesdelight.carrot_cake_slice": "Fatia de Bolo de Cenoura",
+  "item.veggiesdelight.carrot_juice": "Suco de Cenoura",
+  "item.veggiesdelight.fish_and_chips": "Fish and Chips",
+  "item.veggiesdelight.roasted_vegetables": "Vegetais Assados",
+
+  "veggiesdelight.advancement.root": "Veggies Delight",
+  "veggiesdelight.advancement.root.desc": "Vá buscar seus vegetais!",
+
+  "veggiesdelight.advancement.r_first_veggie": "Que Comece a Salada",
+  "veggiesdelight.advancement.r_first_veggie.desc": "Colete seu primeiro vegetal",
+
+  "veggiesdelight.advancement.r_fruit_veggie": "Isso Não é Uma Fruta?",
+  "veggiesdelight.advancement.r_fruit_veggie.desc": "Um impostor entre nós",
+
+  "veggiesdelight.advancement.r_all_veggies": "Tem que Pegar Todos",
+  "veggiesdelight.advancement.r_all_veggies.desc": "Colete todos os novos vegetais",
+
+  "veggiesdelight.advancement.vd_bellpepper_master": "Dr. Pimentão",
+  "veggiesdelight.advancement.vd_bellpepper_master.desc": "Faça todos os pratos possíveis com pimentões",
+
+  "veggiesdelight.advancement.vd_broccoli_master": "Chefe do Brócolis",
+  "veggiesdelight.advancement.vd_broccoli_master.desc": "Faça todos os pratos possíveis com brócolis",
+
+  "veggiesdelight.advancement.vd_cauliflower_master": "Mestre da Couve-Flor",
+  "veggiesdelight.advancement.vd_cauliflower_master.desc": "Faça todos os pratos possíveis com couves-flor",
+
+  "veggiesdelight.advancement.vd_garlic_master": "Alho Jr.",
+  "veggiesdelight.advancement.vd_garlic_master.desc": "Faça todos os pratos possíveis com alho",
+
+  "veggiesdelight.advancement.vd_sweet_potato_master": "Vitória Doce",
+  "veggiesdelight.advancement.vd_sweet_potato_master.desc": "Faça todos os pratos possíveis com batatas-doces",
+
+  "veggiesdelight.advancement.vd_turnip_master": "Nabo no Talento",
+  "veggiesdelight.advancement.vd_turnip_master.desc": "Faça todos os pratos possíveis com nabos",
+
+  "veggiesdelight.advancement.vd_zucchini_master": "Zênite da Abobrinha",
+  "veggiesdelight.advancement.vd_zucchini_master.desc": "Faça todos os pratos possíveis com abobrinhas"
+}

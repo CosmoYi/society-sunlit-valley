@@ -1,0 +1,127 @@
+{
+  "itemGroup.whimsy_deco": "Whimsy Deco",
+  "itemGroup.whimsy_deco.creative_tab": "Whimsy Deco",
+
+  "block.whimsy_deco.green_atm": "Caixa Eletrônico Verde",
+  "block.whimsy_deco.yellow_atm": "Caixa Eletrônico Amarelo",
+  "block.whimsy_deco.red_atm": "Caixa Eletrônico Vermelho",
+  "block.whimsy_deco.blue_atm": "Caixa Eletrônico Azul",
+  "block.whimsy_deco.black_atm": "Caixa Eletrônico Preto",
+
+  "block.whimsy_deco.fufu_plushie": "Pelúcia Fufu",
+  "block.whimsy_deco.flower_pig_plushie": "Porquinho de Flores de Pelúcia",
+  "block.whimsy_deco.golden_pig_plushie": "Porquinho Dourado de Pelúcia",
+  "block.whimsy_deco.big_panda_plushie": "Panda Grande de Pelúcia",
+  "block.whimsy_deco.vocal_doll": "Boneca Vocal",
+  "block.whimsy_deco.red_vocal_doll": "Boneca Vocal Vermelha",
+  
+  "block.whimsy_deco.bamboo_candle": "Vela de Bambu",
+
+  "block.whimsy_deco.bathroom_rack": "Prateleira de Banheiro",
+  "block.whimsy_deco.oak_desk_mirror": "Espelho de Mesa de Carvalho",
+  "block.whimsy_deco.spruce_desk_mirror": "Espelho de Mesa de Pinheiro",
+  "block.whimsy_deco.dark_oak_desk_mirror": "Espelho de Mesa de Carvalho Escuro",
+
+  "block.whimsy_deco.cash_register": "Caixa Registradora",
+  "block.whimsy_deco.black_cash_register": "Caixa Registradora Preta",
+  "block.whimsy_deco.gray_cash_register": "Caixa Registradora Cinza",
+
+  "block.whimsy_deco.black_curio_cash_register": "Caixa Registradora Preta (Curio)",
+  "block.whimsy_deco.gold_curio_cash_register": "Caixa Registradora Dourada (Curio)",
+  "block.whimsy_deco.copper_curio_cash_register": "Caixa Registradora de Cobre (Curio)",
+  "block.whimsy_deco.iron_curio_cash_register": "Caixa Registradora de Ferro (Curio)",
+
+  "block.whimsy_deco.horseshoe": "Ferradura",
+  "block.whimsy_deco.golden_horseshoe": "Ferradura Dourada",
+  "block.whimsy_deco.dartboard": "Alvo de Dardos",
+  "block.whimsy_deco.caution_floor_sign": "Placa de Piso Molhado",
+  "block.whimsy_deco.washing_machine": "Máquina de Lavar",
+
+  "block.whimsy_deco.gatcha_machine": "Máquina Gacha",
+
+  "block.whimsy_deco.gnome": "Gnomo",
+  "block.whimsy_deco.lantern_gnome": "Gnomo com Lanterna",
+
+  "block.whimsy_deco.froggy_chair": "Cadeira de Sapo",
+  "block.whimsy_deco.yellow_froggy_chair": "Cadeira de Sapo Amarela",
+  "block.whimsy_deco.pink_froggy_chair": "Cadeira de Sapo Rosa",
+  "block.whimsy_deco.orange_froggy_chair": "Cadeira de Sapo Laranja",
+  "block.whimsy_deco.blue_froggy_chair": "Cadeira de Sapo Azul",
+
+  "block.whimsy_deco.red_lawn_mower": "Cortador de Grama Vermelho",
+  "block.whimsy_deco.orange_lawn_mower": "Cortador de Grama Laranja",
+  "block.whimsy_deco.blue_lawn_mower": "Cortador de Grama Azul",
+  "block.whimsy_deco.yellow_lawn_mower": "Cortador de Grama Amarelo",
+
+  "block.whimsy_deco.matryoshka_doll": "Boneca Matrioshka",
+
+  "block.whimsy_deco.paper_lantern": "Lanterna de Papel",
+  "block.whimsy_deco.red_paper_lantern": "Lanterna de Papel Vermelha",
+  "block.whimsy_deco.blue_paper_lantern": "Lanterna de Papel Azul",
+  "block.whimsy_deco.wood_framed_paper_lantern": "Lanterna de Papel com Moldura de Madeira",
+  "block.whimsy_deco.bamboo_framed_paper_lantern": "Lanterna de Papel com Moldura de Bambu",
+  "block.whimsy_deco.tree_paper_lantern": "Lanterna de Papel com Moldura Natural",
+
+  "block.whimsy_deco.phone": "Telefone",
+  "block.whimsy_deco.black_phone": "Telefone Preto",
+  "block.whimsy_deco.red_phone": "Telefone Vermelho",
+  "block.whimsy_deco.blue_phone": "Telefone Azul",
+
+  "block.whimsy_deco.vine_rattan_chair": "Cadeira de Rattan com Vinhas",
+  "block.whimsy_deco.warped_rattan_chair": "Cadeira de Rattan Deformado",
+
+  "block.whimsy_deco.rattan_stool": "Banquinho de Rattan",
+  
+  "block.whimsy_deco.rubber_duck": "Patinho de Borracha",
+  
+  "block.whimsy_deco.ship_helm": "Timonete de Navio",
+
+  "block.whimsy_deco.shower": "Chuveiro",
+
+  "block.whimsy_deco.red_stocking": "Meia Vermelha",
+  "block.whimsy_deco.green_stocking": "Meia Verde",
+  "block.whimsy_deco.orange_stocking": "Meia Laranja",
+  "block.whimsy_deco.blue_stocking": "Meia Azul",
+
+  "block.whimsy_deco.flamingo_swimming_ring": "Boia de Flamingo",
+  "block.whimsy_deco.swan_swimming_ring": "Boia de Cisne",
+  "block.whimsy_deco.black_swan_swimming_ring": "Boia de Cisne Negro",
+
+  "block.whimsy_deco.traffic_cone": "Cone de Trânsito",
+
+  "block.whimsy_deco.yellow_toy_plane": "Aviãozinho Amarelo",
+  "block.whimsy_deco.red_toy_plane": "Aviãozinho Vermelho",
+  "block.whimsy_deco.blue_toy_plane": "Aviãozinho Azul",
+
+  "block.whimsy_deco.cowbell": "Sino de Vaca",
+  "block.whimsy_deco.bronze_cowbell": "Sino de Vaca de Bronze",
+  "block.whimsy_deco.lucky_cat": "Gato da Sorte",
+  "block.whimsy_deco.gold_lucky_cat": "Gato da Sorte Dourado",
+  "block.whimsy_deco.singing_frog": "Sapo Cantor",
+  "block.whimsy_deco.fan": "Ventilador",
+  "block.whimsy_deco.vintage_globe": "Globo Vintage",
+  "block.whimsy_deco.antique_vintage_globe": "Globo Vintage Antigo",
+
+  "block.whimsy_deco.classic_tile": "Tijolos Monocromáticos Pretos",
+  "block.whimsy_deco.light_tile": "Tijolos Monocromáticos",
+
+  "block.whimsy_deco.cast_iron_ledge": "Prateleira de Ferro Fundido",
+  "block.whimsy_deco.cast_iron_trapdoor": "Alçapão de Ferro Fundido",
+  "block.whimsy_deco.broom": "Vassoura",
+  "block.whimsy_deco.push_broom": "Vassoura de Empurrar",
+  "block.whimsy_deco.recorder": "Flauta Doce",
+  "block.whimsy_deco.moroccan_sofa": "Sofá Marroquino",
+
+  "block.whimsy_deco.yellow_life_preserver_ring": "Boia Salva-Vidas Amarela",
+  "block.whimsy_deco.red_life_preserver_ring": "Boia Salva-Vidas Vermelha",
+  "block.whimsy_deco.orange_life_preserver_ring": "Boia Salva-Vidas Laranja",
+  "block.whimsy_deco.blue_life_preserver_ring": "Boia Salva-Vidas Azul",
+
+  "item.whimsy_deco.gatcha_capsule": "Cápsula Gacha",
+
+  "jei.whimsy_deco.category.gatcha_opening": "Abertura Gacha",
+  "jei.whimsy_deco.category.purchasing": "Compra",
+
+  "subtitle.block.whimsy_deco.squeak": "Quiinque!",
+  "subtitle.block.whimsy_deco.kaching": "Ca-Ching!"
+}

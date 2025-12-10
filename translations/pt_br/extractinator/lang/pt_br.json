@@ -1,0 +1,18 @@
+{
+  "itemGroup.extractinator.main": "Extratinador",
+  "block.extractinator.extractinator": "Extratinador",
+  "block.extractinator.silt": "Limo",
+  "block.extractinator.slush": "Lama Gelada",
+  "emi.category.extractinator.extractinator": "Extratinador",
+  "text.extractinator.drop_chance": "Chance de Drop: %s%%",
+  "text.resourcefulconfig.extractinator.option.extractTicks": "Ticks de Extração",
+  "text.resourcefulconfig.extractinator.option.extractTicks.tooltip": "Quanto tempo o extratinador leva para extrair um único bloco",
+  "text.resourcefulconfig.extractinator.option.extractinatorDurability": "Durabilidade do Extratinador",
+  "text.resourcefulconfig.extractinator.option.extractinatorDurability.tooltip": "Quantidade de usos antes do extratinador quebrar",
+  "text.resourcefulconfig.extractinator.option.lootMultiplier": "Multiplicador de Loot",
+  "text.resourcefulconfig.extractinator.option.lootMultiplier.tooltip": "Multiplica a quantidade de loot derrubado pelo valor definido",
+  "text.resourcefulconfig.extractinator.option.silent": "Silencioso",
+  "text.resourcefulconfig.extractinator.option.silent.tooltip": "Define se o extratinador deve ou não fazer som"
+  "text.resourcefulconfig.extractinator.option.worldgen": "Geração de Mundo",
+  "text.resourcefulconfig.extractinator.option.worldgen.tooltip": "[Fabric Apenas] Gera minérios de Limo e Lama Gelada"
+}
