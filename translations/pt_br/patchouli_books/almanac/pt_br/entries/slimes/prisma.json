@@ -1,0 +1,17 @@
+{
+  "name": "Prismatico",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:prisma\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Armadilhas de Caranguejo: Deluxe Crab Trap Bait (Isca de Armadilha de Caranguejo Deluxe)$(li)Fusão de Coração de Slime (Slime Heart Fusion)$(br2)$(l)Riscos:$()$(br)Tem espinhos e causará o efeito Fadiga de Mineração (Mining Fatigue) quando irritado. Fica infeliz quando está fora d'água!"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Prisma",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:prisma\"}",
+      "scale": 0.9
+    }
+  ]
+}

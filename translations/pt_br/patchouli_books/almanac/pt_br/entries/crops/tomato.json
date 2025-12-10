@@ -1,0 +1,26 @@
+{
+  "name": "Tomate 🌼🔥🍂",
+  "category": "patchouli:crops",
+  "icon": "farmersdelight:tomato",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 24$(li)🌼 §2Primavera§r 🔥 §6Verão§r 🍂 §4Outono$(li)Preço da Semente: :coin: 4$(li)Colheita: 1$(li)Tempo de Crescimento: 4 days$(li)Tempo de Rebrota: 3 days$(br2)$(l)Notas$()$(br)Pode crescer em corda por cima.$(br)Raramente dropa Tomates Podres."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Tomate",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "farmersdelight:tomatoes[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

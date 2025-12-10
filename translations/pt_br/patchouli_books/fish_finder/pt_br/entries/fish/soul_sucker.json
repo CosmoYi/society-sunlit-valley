@@ -1,0 +1,19 @@
+{
+  "name": "Sugador de Almas",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:soulsucker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 312$(li)Dimensão: Nether$(li)Bioma: Soul Sand Valley"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:soulsucker",
+      "scale": 0.5,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Eu não vou fazer a piada, pode fazer você."
+    }
+  ]
+}

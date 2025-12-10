@@ -1,0 +1,18 @@
+{
+  "name": "Achigã-boca-pequena",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:smallmouth_bass",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 40$(li)§0🌼 §2Primavera§0 🔥 §6Verão§0 🍂 §4Outono§0$(li)Água: Rio$(li)Clima: Qualquer$(li)Horário: Primavera (noite), Verão (noite/dia), Outono (dia)"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:smallmouth_bass",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "ME LEVE AO RIO."
+    }
+  ]
+}

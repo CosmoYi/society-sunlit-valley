@@ -1,0 +1,17 @@
+{
+  "name": "Mordigelo",
+  "category": "patchouli:animals",
+  "icon": "windswept:frozen_branch",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Leite$(li)Recarga do Leite: 1 dia$(li)Coleta: Galho Congelado, Fragmentos de Artefato$(br2)$(l)Notas$()$(br)Coletar requer 5+ corações. Pode ser domado com Bagas de Azevinho."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "windswept:frostbiter",
+      "scale": 0.6,
+      "text": "Amigo ou Congelado?"
+    }
+  ]
+}

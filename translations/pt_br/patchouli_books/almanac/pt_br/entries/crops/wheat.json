@@ -1,0 +1,26 @@
+{
+  "name": "Trigo 🔥🍂",
+  "category": "patchouli:crops",
+  "icon": "minecraft:wheat",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 46$(li)🔥 §6Verão§r 🍂 §4Outono$(li)Preço da semente: :coin: 8$(li)Rendimento: 1$(li)Tempo de crescimento: 7 dias"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Cultivo de Trigo",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "minecraft:wheat[age=7]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

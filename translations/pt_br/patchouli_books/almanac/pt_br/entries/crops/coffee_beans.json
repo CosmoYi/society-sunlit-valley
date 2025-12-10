@@ -1,0 +1,26 @@
+{
+  "name": "Grãos de Café 🌼",
+  "category": "patchouli:crops",
+  "icon": "herbalbrews:coffee_beans",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 8$(li)🌼 §2Primavera§r$(li)Colheita: 1-2$(li)Tempo de Crescimento: 3 days$(br2)$(l)Notas$()$(br)Encontrado em biomas tipo Selva.$(br)Sem sementes, apenas plante o fruto."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Grãos de Café",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "herbalbrews:coffee_plant[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1500 @@
+{"block.create.railway_casing.tooltip": "REVESTIMENTO FERROVIÁRIO",
+"block.create.railway_casing.tooltip.summary": "Pressione a tecla _Abrir Menu do Bogey_ (padrão _ALT_) para selecionar o _estilo de bogey_ a ser colocado.",
+
+"block.create.track_station.tooltip": "ESTAÇÃO DE TREM",
+"block.create.track_station.tooltip.summary": "Um _deployer_ segurando uma _chave inglesa_ pode montar e desmontar trens automaticamente atingindo uma _estação_. _Dica_: funis podem ser usados para colocar uma chave inglesa em um deployer.",
+
+"block.railways.big_buffer": "Batente Grande",
+
+"block.railways.black_brass_wrapped_locometal": "Locometal Preto Revestido de Latão",
+"block.railways.black_brass_wrapped_locometal_boiler": "Caldeira de Locometal Preto Revestida de Latão",
+"block.railways.black_copper_wrapped_locometal": "Locometal Preto Revestido de Cobre",
+"block.railways.black_copper_wrapped_locometal_boiler": "Caldeira de Locometal Preto Revestida de Cobre",
+"block.railways.black_flat_riveted_locometal": "Locometal Preto Plano Rebitado",
+"block.railways.black_flat_slashed_locometal": "Locometal Preto Plano Talhado",
+"block.railways.black_iron_wrapped_locometal": "Locometal Preto Revestido de Ferro",
+"block.railways.black_iron_wrapped_locometal_boiler": "Caldeira de Locometal Preto Revestida de Ferro",
+"block.railways.black_locometal_boiler": "Caldeira de Locometal Preto",
+"block.railways.black_locometal_pillar": "Pilar de Locometal Preto",
+"block.railways.black_locometal_smokebox": "Caixa de Fumaça de Locometal Preto",
+"block.railways.black_plated_locometal": "Locometal Preto Chapeado",
+"block.railways.black_riveted_locometal": "Locometal Preto Rebitado",
+"block.railways.black_slashed_locometal": "Locometal Preto Talhado",
+
+"block.railways.blue_brass_wrapped_locometal": "Locometal Azul Revestido de Latão",
+"block.railways.blue_brass_wrapped_locometal_boiler": "Caldeira de Locometal Azul Revestida de Latão",
+"block.railways.blue_copper_wrapped_locometal": "Locometal Azul Revestido de Cobre",
+"block.railways.blue_copper_wrapped_locometal_boiler": "Caldeira de Locometal Azul Revestida de Cobre",
+"block.railways.blue_flat_riveted_locometal": "Locometal Azul Plano Rebitado",
+"block.railways.blue_flat_slashed_locometal": "Locometal Azul Plano Talhado",
+"block.railways.blue_iron_wrapped_locometal": "Locometal Azul Revestido de Ferro",
+"block.railways.blue_iron_wrapped_locometal_boiler": "Caldeira de Locometal Azul Revestida de Ferro",
+"block.railways.blue_locometal_boiler": "Caldeira de Locometal Azul",
+"block.railways.blue_locometal_pillar": "Pilar de Locometal Azul",
+"block.railways.blue_locometal_smokebox": "Caixa de Fumaça de Locometal Azul",
+"block.railways.blue_plated_locometal": "Locometal Azul Chapeado",
+"block.railways.blue_riveted_locometal": "Locometal Azul Rebitado",
+"block.railways.blue_slashed_locometal": "Locometal Azul Talhado",
+
+"block.railways.boiler.tooltip": "CALDEIRA",
+"block.railways.boiler.tooltip.summary": "Use uma _chave inglesa_ na frente da caldeira para transformá-la em uma _porta de caixa de fumaça_. Agache ao colocar para _erguer_ a caldeira em _meio bloco_.",
+
+"block.railways.brass_wrapped_locometal": "Locometal Revestido de Latão",
+"block.railways.brass_wrapped_locometal_boiler": "Caldeira de Locometal Revestida de Latão",
+
+"block.railways.brown_brass_wrapped_locometal": "Locometal Marrom Revestido de Latão",
+"block.railways.brown_brass_wrapped_locometal_boiler": "Caldeira de Locometal Marrom Revestida de Latão",
+"block.railways.brown_copper_wrapped_locometal": "Locometal Marrom Revestido de Cobre",
+"block.railways.brown_copper_wrapped_locometal_boiler": "Caldeira de Locometal Marrom Revestida de Cobre",
+"block.railways.brown_flat_riveted_locometal": "Locometal Marrom Plano Rebitado",
+"block.railways.brown_flat_slashed_locometal": "Locometal Marrom Plano Talhado",
+"block.railways.brown_iron_wrapped_locometal": "Locometal Marrom Revestido de Ferro",
+"block.railways.brown_iron_wrapped_locometal_boiler": "Caldeira de Locometal Marrom Revestida de Ferro",
+"block.railways.brown_locometal_boiler": "Caldeira de Locometal Marrom",
+"block.railways.brown_locometal_pillar": "Pilar de Locometal Marrom",
+"block.railways.brown_locometal_smokebox": "Caixa de Fumaça de Locometal Marrom",
+"block.railways.brown_plated_locometal": "Locometal Marrom Chapeado",
+"block.railways.brown_riveted_locometal": "Locometal Marrom Rebitado",
+"block.railways.brown_slashed_locometal": "Locometal Marrom Talhado",
+
+"block.railways.buffer": "Batente de Trilho",
+"block.railways.buffer.tooltip": "BATENTE",
+"block.railways.buffer.tooltip.summary": "Pode ser tingido ao _clicar_ com corante.",
+
+"block.railways.buffer_mono": "Batente de Mon trilho",
+"block.railways.buffer_narrow": "Batente de Trilho Estreito",
+"block.railways.buffer_wide": "Batente de Trilho Largo",
+
+"block.railways.casing_collision": "Bloco de Colisão do Revestimento de Trilho",
+
+"block.railways.conductor_vent": "Duto do Condutor",
+"block.railways.conductor_whistle": "Apito do Condutor",
+
+"block.railways.copper_wrapped_locometal": "Locometal Revestido de Cobre",
+"block.railways.copper_wrapped_locometal_boiler": "Caldeira de Locometal Revestida de Cobre",
+
+"block.railways.copycat_headstock": "Cabeçote Imitador",
+"block.railways.copycat_headstock_bars": "Barras do Cabeçote Imitador",
+
+"block.railways.cyan_brass_wrapped_locometal": "Locometal Ciano Revestido de Latão",
+"block.railways.cyan_brass_wrapped_locometal_boiler": "Caldeira de Locometal Ciano Revestida de Latão",
+"block.railways.cyan_copper_wrapped_locometal": "Locometal Ciano Revestido de Cobre",
+"block.railways.cyan_copper_wrapped_locometal_boiler": "Caldeira de Locometal Ciano Revestida de Cobre",
+"block.railways.cyan_flat_riveted_locometal": "Locometal Ciano Plano Rebitado",
+"block.railways.cyan_flat_slashed_locometal": "Locometal Ciano Plano Talhado",
+"block.railways.cyan_iron_wrapped_locometal": "Locometal Ciano Revestido de Ferro",
+"block.railways.cyan_iron_wrapped_locometal_boiler": "Caldeira de Locometal Ciano Revestida de Ferro",
+"block.railways.cyan_locometal_boiler": "Caldeira de Locometal Ciano",
+"block.railways.cyan_locometal_pillar": "Pilar de Locometal Ciano",
+"block.railways.cyan_locometal_smokebox": "Caixa de Fumaça de Locometal Ciano",
+"block.railways.cyan_plated_locometal": "Locometal Ciano Chapeado",
+"block.railways.cyan_riveted_locometal": "Locometal Ciano Rebitado",
+"block.railways.cyan_slashed_locometal": "Locometal Ciano Talhado",
+
+"block.railways.doubleaxle_bogey": "Bogey de Eixo Duplo",
+
+"block.railways.flat_riveted_locometal": "Locometal Plano Rebitado",
+"block.railways.flat_slashed_locometal": "Locometal Plano Talhado",
+
+"block.railways.fuel_tank": "Tanque de Combustível",
+
+"block.railways.generic_crossing": "Cruzamento Genérico",
+
+"block.railways.generic_radial.tooltip": "RADIAL GENÉRICO",
+"block.railways.generic_radial.tooltip.summary": "Segure a tecla _Abrir Menu de Ciclo_ (padrão _ALT_) para selecionar variantes deste bloco.",
+
+"block.railways.gray_brass_wrapped_locometal": "Locometal Cinza Revestido de Latão",
+"block.railways.gray_brass_wrapped_locometal_boiler": "Caldeira de Locometal Cinza Revestida de Latão",
+"block.railways.gray_copper_wrapped_locometal": "Locometal Cinza Revestido de Cobre",
+"block.railways.gray_copper_wrapped_locometal_boiler": "Caldeira de Locometal Cinza Revestida de Cobre",
+"block.railways.gray_flat_riveted_locometal": "Locometal Cinza Plano Rebitado",
+"block.railways.gray_flat_slashed_locometal": "Locometal Cinza Plano Talhado",
+"block.railways.gray_iron_wrapped_locometal": "Locometal Cinza Revestido de Ferro",
+"block.railways.gray_iron_wrapped_locometal_boiler": "Caldeira de Locometal Cinza Revestida de Ferro",
+"block.railways.gray_locometal_boiler": "Caldeira de Locometal Cinza",
+"block.railways.gray_locometal_pillar": "Pilar de Locometal Cinza",
+"block.railways.gray_locometal_smokebox": "Caixa de Fumaça de Locometal Cinza",
+"block.railways.gray_plated_locometal": "Locometal Cinza Chapeado",
+"block.railways.gray_riveted_locometal": "Locometal Cinza Rebitado",
+"block.railways.gray_slashed_locometal": "Locometal Cinza Talhado",
+
+"block.railways.green_brass_wrapped_locometal": "Locometal Verde Revestido de Latão",
+"block.railways.green_brass_wrapped_locometal_boiler": "Caldeira de Locometal Verde Revestida de Latão",
+"block.railways.green_copper_wrapped_locometal": "Locometal Verde Revestido de Cobre",
+"block.railways.green_copper_wrapped_locometal_boiler": "Caldeira de Locometal Verde Revestida de Cobre",
+"block.railways.green_flat_riveted_locometal": "Locometal Verde Plano Rebitado",
+"block.railways.green_flat_slashed_locometal": "Locometal Verde Plano Talhado",
+"block.railways.green_iron_wrapped_locometal": "Locometal Verde Revestido de Ferro",
+"block.railways.green_iron_wrapped_locometal_boiler": "Caldeira de Locometal Verde Revestida de Ferro",
+"block.railways.green_locometal_boiler": "Caldeira de Locometal Verde",
+"block.railways.green_locometal_pillar": "Pilar de Locometal Verde",
+"block.railways.green_locometal_smokebox": "Caixa de Fumaça de Locometal Verde",
+"block.railways.green_plated_locometal": "Locometal Verde Chapeado",
+"block.railways.green_riveted_locometal": "Locometal Verde Rebitado",
+"block.railways.green_slashed_locometal": "Locometal Verde Talhado",
+
+"block.railways.handcar": "Drezina",
+"block.railways.handcar.summary": "Use uma chave inglesa para recolher.",
+"block.railways.handcar.tooltip": "DREZINA",
+
+"block.railways.headstock": "Cabeçote",
+"block.railways.headstock.tooltip": "CABEÇOTE",
+"block.railways.headstock.tooltip.summary": "Segure _ALT_ para alternar variantes. Pode ser tingido com corante ao clicar.",
+
+"block.railways.headstock_wood.tooltip": "CABEÇOTE DE MADEIRA",
+"block.railways.headstock_wood.tooltip.summary": "Segure _ALT_ para alternar variantes. Pode ser tingido com corante. A madeira traseira pode ser trocada com tábuas.",
+
+"block.railways.invisible_bogey": "Bogey Invisível",
+"block.railways.invisible_mono_bogey": "Bogey Monotrilho Invisível",
+
+"block.railways.iron_wrapped_locometal": "Locometal Revestido de Ferro",
+"block.railways.iron_wrapped_locometal_boiler": "Caldeira de Locometal Revestida de Ferro",
+
+"block.railways.large_create_styled_0_10_0": "Grande Estilo Create 0-10-0",
+"block.railways.large_create_styled_0_12_0": "Grande Estilo Create 0-12-0",
+"block.railways.large_create_styled_0_4_0": "Grande Estilo Create 0-4-0",
+"block.railways.large_create_styled_0_6_0": "Grande Estilo Create 0-6-0",
+"block.railways.large_create_styled_0_8_0": "Grande Estilo Create 0-8-0",
+
+"block.railways.large_platform_doubleaxle_bogey": "Bogey de Plataforma Grande de Eixo Duplo",
+
+"block.railways.light_blue_brass_wrapped_locometal": "Locometal Azul-Claro Revestido de Latão",
+"block.railways.light_blue_brass_wrapped_locometal_boiler": "Caldeira de Locometal Azul-Claro Revestida de Latão",
+"block.railways.light_blue_copper_wrapped_locometal": "Locometal Azul-Claro Revestido de Cobre",
+"block.railways.light_blue_copper_wrapped_locometal_boiler": "Caldeira de Locometal Azul-Claro Revestida de Cobre",
+"block.railways.light_blue_flat_riveted_locometal": "Locometal Azul-Claro Plano Rebitado",
+"block.railways.light_blue_flat_slashed_locometal": "Locometal Azul-Claro Plano Talhado",
+"block.railways.light_blue_iron_wrapped_locometal": "Locometal Azul-Claro Revestido de Ferro",
+"block.railways.light_blue_iron_wrapped_locometal_boiler": "Caldeira de Locometal Azul-Claro Revestida de Ferro",
+"block.railways.light_blue_locometal_boiler": "Caldeira de Locometal Azul-Claro",
+"block.railways.light_blue_locometal_pillar": "Pilar de Locometal Azul-Claro",
+"block.railways.light_blue_locometal_smokebox": "Caixa de Fumaça de Locometal Azul-Claro",
+"block.railways.light_blue_plated_locometal": "Locometal Azul-Claro Chapeado",
+"block.railways.light_blue_riveted_locometal": "Locometal Azul-Claro Rebitado",
+"block.railways.light_blue_slashed_locometal": "Locometal Azul-Claro Talhado",
+
+"block.railways.light_gray_brass_wrapped_locometal": "Locometal Cinza-Claro Revestido de Latão",
+"block.railways.light_gray_brass_wrapped_locometal_boiler": "Caldeira de Locometal Cinza-Claro Revestida de Latão",
+"block.railways.light_gray_copper_wrapped_locometal": "Locometal Cinza-Claro Revestido de Cobre",
+"block.railways.light_gray_copper_wrapped_locometal_boiler": "Caldeira de Locometal Cinza-Claro Revestida de Cobre",
+"block.railways.light_gray_flat_riveted_locometal": "Locometal Cinza-Claro Plano Rebitado",
+"block.railways.light_gray_flat_slashed_locometal": "Locometal Cinza-Claro Plano Talhado",
+"block.railways.light_gray_iron_wrapped_locometal": "Locometal Cinza-Claro Revestido de Ferro",
+"block.railways.light_gray_iron_wrapped_locometal_boiler": "Caldeira de Locometal Cinza-Claro Revestida de Ferro",
+"block.railways.light_gray_locometal_boiler": "Caldeira de Locometal Cinza-Claro",
+"block.railways.light_gray_locometal_pillar": "Pilar de Locometal Cinza-Claro",
+"block.railways.light_gray_locometal_smokebox": "Caixa de Fumaça de Locometal Cinza-Claro",
+"block.railways.light_gray_plated_locometal": "Locometal Cinza-Claro Chapeado",
+"block.railways.light_gray_riveted_locometal": "Locometal Cinza-Claro Rebitado",
+"block.railways.light_gray_slashed_locometal": "Locometal Cinza-Claro Talhado",
+
+"block.railways.lime_brass_wrapped_locometal": "Locometal Limão Revestido de Latão",
+"block.railways.lime_brass_wrapped_locometal_boiler": "Caldeira de Locometal Limão Revestida de Latão",
+"block.railways.lime_copper_wrapped_locometal": "Locometal Limão Revestido de Cobre",
+"block.railways.lime_copper_wrapped_locometal_boiler": "Caldeira de Locometal Limão Revestida de Cobre",
+"block.railways.lime_flat_riveted_locometal": "Locometal Limão Plano Rebitado",
+"block.railways.lime_flat_slashed_locometal": "Locometal Limão Plano Talhado",
+"block.railways.lime_iron_wrapped_locometal": "Locometal Limão Revestido de Ferro",
+"block.railways.lime_iron_wrapped_locometal_boiler": "Caldeira de Locometal Limão Revestida de Ferro",
+"block.railways.lime_locometal_boiler": "Caldeira de Locometal Limão",
+"block.railways.lime_locometal_pillar": "Pilar de Locometal Limão",
+"block.railways.lime_locometal_smokebox": "Caixa de Fumaça de Locometal Limão",
+"block.railways.lime_plated_locometal": "Locometal Limão Chapeado",
+"block.railways.lime_riveted_locometal": "Locometal Limão Rebitado",
+"block.railways.lime_slashed_locometal": "Locometal Limão Talhado",
+
+"block.railways.link_and_pin": "Acoplador Decorativo",
+
+"block.railways.locometal_boiler": "Caldeira de Locometal",
+"block.railways.locometal_pillar": "Pilar de Locometal",
+"block.railways.locometal_smokebox": "Caixa de Fumaça de Locometal",
+
+"block.railways.magenta_brass_wrapped_locometal": "Locometal Magenta Revestido de Latão",
+"block.railways.magenta_brass_wrapped_locometal_boiler": "Caldeira de Locometal Magenta Revestida de Latão",
+"block.railways.magenta_copper_wrapped_locometal": "Locometal Magenta Revestido de Cobre",
+"block.railways.magenta_copper_wrapped_locometal_boiler": "Caldeira de Locometal Magenta Revestida de Cobre",
+"block.railways.magenta_flat_riveted_locometal": "Locometal Magenta Plano Rebitado",
+"block.railways.magenta_flat_slashed_locometal": "Locometal Magenta Plano Talhado",
+"block.railways.magenta_iron_wrapped_locometal": "Locometal Magenta Revestido de Ferro",
+"block.railways.magenta_iron_wrapped_locometal_boiler": "Caldeira de Locometal Magenta Revestida de Ferro",
+"block.railways.magenta_locometal_boiler": "Caldeira de Locometal Magenta",
+"block.railways.magenta_locometal_pillar": "Pilar de Locometal Magenta",
+"block.railways.magenta_locometal_smokebox": "Caixa de Fumaça de Locometal Magenta",
+"block.railways.magenta_plated_locometal": "Locometal Magenta Chapeado",
+"block.railways.magenta_riveted_locometal": "Locometal Magenta Rebitado",
+"block.railways.magenta_slashed_locometal": "Locometal Magenta Talhado",
+
+"block.railways.medium_2_0_2_trailing": "Bogey Médio 2-0-2 Traseiro",
+"block.railways.medium_4_0_4_trailing": "Bogey Médio 4-0-4 Traseiro",
+"block.railways.medium_bogey": "Bogey Médio",
+"block.railways.medium_quadruple_wheel": "Bogey Médio Quadruplo",
+"block.railways.medium_quintuple_wheel": "Bogey Médio Quíntuplo",
+"block.railways.medium_triple_wheel": "Bogey Médio Triplo",
+
+"block.railways.mono_bogey": "Bogey Monotrilho",
+
+"block.railways.narrow_double_scotch_bogey": "Bogey Estreito Scotch Duplo",
+"block.railways.narrow_scotch_bogey": "Bogey Estreito Scotch",
+"block.railways.narrow_small_bogey": "Bogey Pequeno Estreito",
+
+"block.railways.orange_brass_wrapped_locometal": "Locometal Laranja Revestido de Latão",
+"block.railways.orange_brass_wrapped_locometal_boiler": "Caldeira de Locometal Laranja Revestida de Latão",
+"block.railways.orange_copper_wrapped_locometal": "Locometal Laranja Revestido de Cobre",
+"block.railways.orange_copper_wrapped_locometal_boiler": "Caldeira de Locometal Laranja Revestida de Cobre",
+"block.railways.orange_flat_riveted_locometal": "Locometal Laranja Plano Rebitado",
+"block.railways.orange_flat_slashed_locometal": "Locometal Laranja Plano Talhado",
+"block.railways.orange_iron_wrapped_locometal": "Locometal Laranja Revestido de Ferro",
+"block.railways.orange_iron_wrapped_locometal_boiler": "Caldeira de Locometal Revestida de Ferro Laranja",
+"block.railways.orange_locometal_boiler": "Caldeira de Locometal Laranja",
+"block.railways.orange_locometal_pillar": "Pilar de Locometal Laranja",
+"block.railways.orange_locometal_smokebox": "Caixa de Fumaça de Locometal Laranja",
+"block.railways.orange_plated_locometal": "Locometal Laranja Chapeado",
+"block.railways.orange_riveted_locometal": "Locometal Laranja Rebitado",
+"block.railways.orange_slashed_locometal": "Locometal Laranja Talhado",
+
+"block.railways.pink_brass_wrapped_locometal": "Locometal Rosa Revestido de Latão",
+"block.railways.pink_brass_wrapped_locometal_boiler": "Caldeira de Locometal Rosa Revestida de Latão",
+"block.railways.pink_copper_wrapped_locometal": "Locometal Rosa Revestido de Cobre",
+"block.railways.pink_copper_wrapped_locometal_boiler": "Caldeira de Locometal Rosa Revestida de Cobre",
+"block.railways.pink_flat_riveted_locometal": "Locometal Rosa Plano Rebitado",
+"block.railways.pink_flat_slashed_locometal": "Locometal Rosa Plano Talhado",
+"block.railways.pink_iron_wrapped_locometal": "Locometal Rosa Revestido de Ferro",
+"block.railways.pink_iron_wrapped_locometal_boiler": "Caldeira de Locometal Rosa Revestida de Ferro",
+"block.railways.pink_locometal_boiler": "Caldeira de Locometal Rosa",
+"block.railways.pink_locometal_pillar": "Pilar de Locometal Rosa",
+"block.railways.pink_locometal_smokebox": "Caixa de Fumaça de Locometal Rosa",
+"block.railways.pink_plated_locometal": "Locometal Rosa Chapeado",
+"block.railways.pink_riveted_locometal": "Locometal Rosa Rebitado",
+"block.railways.pink_slashed_locometal": "Locometal Rosa Talhado",
+
+"block.railways.plated_locometal": "Locometal Chapeado",
+
+"block.railways.portable_fuel_interface": "Interface Portátil de Combustível",
+
+"block.railways.purple_brass_wrapped_locometal": "Locometal Roxo Revestido de Latão",
+"block.railways.purple_brass_wrapped_locometal_boiler": "Caldeira de Locometal Roxo Revestida de Latão",
+"block.railways.purple_copper_wrapped_locometal": "Locometal Roxo Revestido de Cobre",
+"block.railways.purple_copper_wrapped_locometal_boiler": "Caldeira de Locometal Roxo Revestida de Cobre",
+"block.railways.purple_flat_riveted_locometal": "Locometal Roxo Plano Rebitado",
+"block.railways.purple_flat_slashed_locometal": "Locometal Roxo Plano Talhado",
+"block.railways.purple_iron_wrapped_locometal": "Locometal Roxo Revestido de Ferro",
+"block.railways.purple_iron_wrapped_locometal_boiler": "Caldeira de Locometal Roxo Revestida de Ferro",
+"block.railways.purple_locometal_boiler": "Caldeira de Locometal Roxo",
+"block.railways.purple_locometal_pillar": "Pilar de Locometal Roxo",
+"block.railways.purple_locometal_smokebox": "Caixa de Fumaça de Locometal Roxo",
+"block.railways.purple_plated_locometal": "Locometal Roxo Chapeado",
+"block.railways.purple_riveted_locometal": "Locometal Roxo Rebitado",
+"block.railways.purple_slashed_locometal": "Locometal Roxo Talhado",
+
+"block.railways.red_brass_wrapped_locometal": "Locometal Vermelho Revestido de Latão",
+"block.railways.red_brass_wrapped_locometal_boiler": "Caldeira de Locometal Vermelho Revestida de Latão",
+"block.railways.red_copper_wrapped_locometal": "Locometal Vermelho Revestido de Cobre",
+"block.railways.red_copper_wrapped_locometal_boiler": "Caldeira de Locometal Vermelho Revestida de Cobre",
+"block.railways.red_flat_riveted_locometal": "Locometal Vermelho Plano Rebitado",
+"block.railways.red_flat_slashed_locometal": "Locometal Vermelho Plano Talhado",
+"block.railways.red_iron_wrapped_locometal": "Locometal Vermelho Revestido de Ferro",
+"block.railways.red_iron_wrapped_locometal_boiler": "Caldeira de Locometal Vermelho Revestida de Ferro",
+"block.railways.red_locometal_boiler": "Caldeira de Locometal Vermelho",
+"block.railways.red_locometal_pillar": "Pilar de Locometal Vermelho",
+"block.railways.red_locometal_smokebox": "Caixa de Fumaça de Locometal Vermelho",
+"block.railways.red_plated_locometal": "Locometal Vermelho Chapeado",
+"block.railways.red_riveted_locometal": "Locometal Vermelho Rebitado",
+"block.railways.red_slashed_locometal": "Locometal Vermelho Talhado",
+
+"block.railways.riveted_locometal": "Locometal Rebitado",
+
+"block.railways.semaphore": "Semáforo",
+
+"block.railways.singleaxle_bogey": "Bogey de Eixo Único",
+
+"block.railways.slashed_locometal": "Locometal Talhado",
+
+"block.railways.small_buffer": "Batente Pequeno",
+
+"block.railways.smokestack.tooltip": "CHAMINÉ",
+"block.railways.smokestack.tooltip.behaviour1": "A _fumaça emitida_ mudará de cor",
+"block.railways.smokestack.tooltip.behaviour2": "A _fumaça emitida_ mudará para _fumaça de alma_",
+"block.railways.smokestack.tooltip.condition1": "Quando você usa um corante em uma chaminé",
+"block.railways.smokestack.tooltip.condition2": "Quando você usa areia das almas ou terra das almas em uma chaminé",
+"block.railways.smokestack.tooltip.summary": "Segure a tecla _Focar Sobreposição de Esquema_ (padrão _ALT_) para selecionar variantes deste bloco.",
+
+"block.railways.smokestack_caboosestyle": "Chaminé de Caboose",
+"block.railways.smokestack_coalburner": "Chaminé Queimadora de Carvão",
+"block.railways.smokestack_diesel": "Ventoinha do Radiador",
+"block.railways.smokestack_long": "Chaminé Dupla",
+"block.railways.smokestack_oilburner": "Chaminé Queimadora de Óleo",
+"block.railways.smokestack_streamlined": "Chaminé Aerodinâmica",
+"block.railways.smokestack_woodburner": "Chaminé Queimadora de Lenha",
+
+"block.railways.track_acacia": "Trilho de Acácia",
+"block.railways.track_acacia_narrow": "Trilho Estreito de Acácia",
+"block.railways.track_acacia_wide": "Trilho Largo de Acácia",
+
+"block.railways.track_bamboo": "Trilho de Bambu",
+"block.railways.track_bamboo_narrow": "Trilho Estreito de Bambu",
+"block.railways.track_bamboo_wide": "Trilho Largo de Bambu",
+
+"block.railways.track_biomesoplenty_dead": "Trilho Morto",
+"block.railways.track_biomesoplenty_dead_narrow": "Trilho Morto Estreito",
+"block.railways.track_biomesoplenty_dead_wide": "Trilho Morto Largo",
+
+"block.railways.track_biomesoplenty_fir": "Trilho de Abeto",
+"block.railways.track_biomesoplenty_fir_narrow": "Trilho Estreito de Abeto",
+"block.railways.track_biomesoplenty_fir_wide": "Trilho Largo de Abeto",
+
+"block.railways.track_biomesoplenty_hellbark": "Trilho de Hellbark",
+"block.railways.track_biomesoplenty_hellbark_narrow": "Trilho Estreito de Hellbark",
+"block.railways.track_biomesoplenty_hellbark_wide": "Trilho Largo de Hellbark",
+
+"block.railways.track_biomesoplenty_jacaranda": "Trilho de Jacarandá",
+"block.railways.track_biomesoplenty_jacaranda_narrow": "Trilho Estreito de Jacarandá",
+"block.railways.track_biomesoplenty_jacaranda_wide": "Trilho Largo de Jacarandá",
+
+"block.railways.track_biomesoplenty_magic": "Trilho Mágico",
+"block.railways.track_biomesoplenty_magic_narrow": "Trilho Mágico Estreito",
+"block.railways.track_biomesoplenty_magic_wide": "Trilho Mágico Largo",
+
+"block.railways.track_biomesoplenty_mahogany": "Trilho de Mogno",
+"block.railways.track_biomesoplenty_mahogany_narrow": "Trilho Estreito de Mogno",
+"block.railways.track_biomesoplenty_mahogany_wide": "Trilho Largo de Mogno",
+
+"block.railways.track_biomesoplenty_palm": "Trilho de Palmeira",
+"block.railways.track_biomesoplenty_palm_narrow": "Trilho Estreito de Palmeira",
+"block.railways.track_biomesoplenty_palm_wide": "Trilho Largo de Palmeira",
+
+"block.railways.track_biomesoplenty_redwood": "Trilho de Sequoia",
+"block.railways.track_biomesoplenty_redwood_narrow": "Trilho Estreito de Sequoia",
+"block.railways.track_biomesoplenty_redwood_wide": "Trilho Largo de Sequoia",
+
+"block.railways.track_biomesoplenty_umbran": "Trilho de Umbran",
+"block.railways.track_biomesoplenty_umbran_narrow": "Trilho Estreito de Umbran",
+"block.railways.track_biomesoplenty_umbran_wide": "Trilho Largo de Umbran",
+
+"block.railways.track_biomesoplenty_willow": "Trilho de Salgueiro",
+"block.railways.track_biomesoplenty_willow_narrow": "Trilho Estreito de Salgueiro",
+"block.railways.track_biomesoplenty_willow_wide": "Trilho Largo de Salgueiro",
+
+"block.railways.track_birch": "Trilho de Bétula",
+"block.railways.track_birch_narrow": "Trilho Estreito de Bétula",
+"block.railways.track_birch_wide": "Trilho Largo de Bétula",
+
+"block.railways.track_blackstone": "Trilho de Pedra Negra",
+"block.railways.track_blackstone_narrow": "Trilho Estreito de Pedra Negra",
+"block.railways.track_blackstone_wide": "Trilho Largo de Pedra Negra",
+
+"block.railways.track_blue_skies_bluebright": "Trilho de Bluebright",
+"block.railways.track_blue_skies_bluebright_narrow": "Trilho Estreito de Bluebright",
+"block.railways.track_blue_skies_bluebright_wide": "Trilho Largo de Bluebright",
+
+"block.railways.track_blue_skies_dusk": "Trilho de Dusk",
+"block.railways.track_blue_skies_dusk_narrow": "Trilho Estreito de Dusk",
+"block.railways.track_blue_skies_dusk_wide": "Trilho Largo de Dusk",
+
+"block.railways.track_blue_skies_frostbright": "Trilho de Frostbright",
+"block.railways.track_blue_skies_frostbright_narrow": "Trilho Estreito de Frostbright",
+"block.railways.track_blue_skies_frostbright_wide": "Trilho Largo de Frostbright",
+
+"block.railways.track_blue_skies_lunar": "Trilho Lunar",
+"block.railways.track_blue_skies_lunar_narrow": "Trilho Lunar Estreito",
+"block.railways.track_blue_skies_lunar_wide": "Trilho Lunar Largo",
+
+"block.railways.track_blue_skies_maple": "Trilho de Bordo",
+"block.railways.track_blue_skies_maple_narrow": "Trilho Estreito de Bordo",
+"block.railways.track_blue_skies_maple_wide": "Trilho Largo de Bordo",
+
+"block.railways.track_blue_skies_starlit": "Trilho Estrelado",
+"block.railways.track_blue_skies_starlit_narrow": "Trilho Estrelado Estreito",
+"block.railways.track_blue_skies_starlit_wide": "Trilho Estrelado Largo",
+
+"block.railways.track_buffer.tooltip": "BATENTE DE TRILHO",
+"block.railways.track_buffer.tooltip.summary": "_A variante_ pode ser alterada _girando a face frontal_ com a chave inglesa, pode ser tingido com corante e a placa de madeira pode ser trocada com tábuas.",
+
+"block.railways.track_byg_aspen": "Trilho de Álamo",
+"block.railways.track_byg_aspen_narrow": "Trilho Estreito de Álamo",
+"block.railways.track_byg_aspen_wide": "Trilho Largo de Álamo",
+
+"block.railways.track_byg_baobab": "Trilho de Baobá",
+"block.railways.track_byg_baobab_narrow": "Trilho Estreito de Baobá",
+"block.railways.track_byg_baobab_wide": "Trilho Largo de Baobá",
+
+"block.railways.track_byg_blue_enchanted": "Trilho Encantado Azul",
+"block.railways.track_byg_blue_enchanted_narrow": "Trilho Encantado Azul Estreito",
+"block.railways.track_byg_blue_enchanted_wide": "Trilho Encantado Azul Largo",
+
+"block.railways.track_byg_bulbis": "Trilho de Bulbis",
+"block.railways.track_byg_bulbis_narrow": "Trilho Estreito de Bulbis",
+"block.railways.track_byg_bulbis_wide": "Trilho Largo de Bulbis",
+
+"block.railways.track_byg_cika": "Trilho de Cika",
+"block.railways.track_byg_cika_narrow": "Trilho Estreito de Cika",
+"block.railways.track_byg_cika_wide": "Trilho Largo de Cika",
+
+"block.railways.track_byg_cypress": "Trilho de Cipreste",
+"block.railways.track_byg_cypress_narrow": "Trilho Estreito de Cipreste",
+"block.railways.track_byg_cypress_wide": "Trilho Largo de Cipreste",
+
+"block.railways.track_byg_ebony": "Trilho de Ébano",
+"block.railways.track_byg_ebony_narrow": "Trilho Estreito de Ébano",
+"block.railways.track_byg_ebony_wide": "Trilho Largo de Ébano",
+
+"block.railways.track_byg_embur": "Trilho de Embur",
+"block.railways.track_byg_embur_narrow": "Trilho Estreito de Embur",
+"block.railways.track_byg_embur_wide": "Trilho Largo de Embur",
+
+"block.railways.track_byg_ether": "Trilho de Ether",
+"block.railways.track_byg_ether_narrow": "Trilho Estreito de Ether",
+"block.railways.track_byg_ether_wide": "Trilho Largo de Ether",
+
+"block.railways.track_byg_fir": "Trilho de Abeto",
+"block.railways.track_byg_fir_narrow": "Trilho Estreito de Abeto",
+"block.railways.track_byg_fir_wide": "Trilho Largo de Abeto",
+
+"block.railways.track_byg_green_enchanted": "Trilho Encantado Verde",
+"block.railways.track_byg_green_enchanted_narrow": "Trilho Encantado Verde Estreito",
+"block.railways.track_byg_green_enchanted_wide": "Trilho Encantado Verde Largo",
+
+"block.railways.track_byg_holly": "Trilho de Azevinho",
+"block.railways.track_byg_holly_narrow": "Trilho Estreito de Azevinho",
+"block.railways.track_byg_holly_wide": "Trilho Largo de Azevinho",
+
+"block.railways.track_byg_imparius": "Trilho de Imparius",
+"block.railways.track_byg_imparius_narrow": "Trilho Estreito de Imparius",
+"block.railways.track_byg_imparius_wide": "Trilho Largo de Imparius",
+
+"block.railways.track_byg_jacaranda": "Trilho de Jacarandá",
+"block.railways.track_byg_jacaranda_narrow": "Trilho Estreito de Jacarandá",
+"block.railways.track_byg_jacaranda_wide": "Trilho Largo de Jacarandá",
+
+"block.railways.track_byg_lament": "Trilho de Lament",
+"block.railways.track_byg_lament_narrow": "Trilho Estreito de Lament",
+"block.railways.track_byg_lament_wide": "Trilho Largo de Lament",
+
+"block.railways.track_byg_mahogany": "Trilho de Mogno",
+"block.railways.track_byg_mahogany_narrow": "Trilho Estreito de Mogno",
+"block.railways.track_byg_mahogany_wide": "Trilho Largo de Mogno",
+
+"block.railways.track_byg_maple": "Trilho de Bordo",
+"block.railways.track_byg_maple_narrow": "Trilho Estreito de Bordo",
+"block.railways.track_byg_maple_wide": "Trilho Largo de Bordo",
+
+"block.railways.track_byg_nightshade": "Trilho de Nightshade",
+"block.railways.track_byg_nightshade_narrow": "Trilho Estreito de Nightshade",
+"block.railways.track_byg_nightshade_wide": "Trilho Largo de Nightshade",
+
+"block.railways.track_byg_palm": "Trilho de Palmeira",
+"block.railways.track_byg_palm_narrow": "Trilho Estreito de Palmeira",
+"block.railways.track_byg_palm_wide": "Trilho Largo de Palmeira",
+
+"block.railways.track_byg_pine": "Trilho de Pinheiro",
+"block.railways.track_byg_pine_narrow": "Trilho Estreito de Pinheiro",
+"block.railways.track_byg_pine_wide": "Trilho Largo de Pinheiro",
+
+"block.railways.track_byg_rainbow_eucalyptus": "Trilho de Eucalipto Arco-Íris",
+"block.railways.track_byg_rainbow_eucalyptus_narrow": "Trilho Estreito de Eucalipto Arco-Íris",
+"block.railways.track_byg_rainbow_eucalyptus_wide": "Trilho Largo de Eucalipto Arco-Íris",
+
+"block.railways.track_byg_redwood": "Trilho de Sequoia",
+"block.railways.track_byg_redwood_narrow": "Trilho Estreito de Sequoia",
+"block.railways.track_byg_redwood_wide": "Trilho Largo de Sequoia",
+
+"block.railways.track_byg_skyris": "Trilho de Skyris",
+"block.railways.track_byg_skyris_narrow": "Trilho Estreito de Skyris",
+"block.railways.track_byg_skyris_wide": "Trilho Largo de Skyris",
+
+"block.railways.track_byg_sythian": "Trilho de Sythian",
+"block.railways.track_byg_sythian_narrow": "Trilho Estreito de Sythian",
+"block.railways.track_byg_sythian_wide": "Trilho Largo de Sythian",
+
+"block.railways.track_byg_white_mangrove": "Trilho de Mangue Branco",
+"block.railways.track_byg_white_mangrove_narrow": "Trilho Estreito de Mangue Branco",
+"block.railways.track_byg_white_mangrove_wide": "Trilho Largo de Mangue Branco",
+
+"block.railways.track_byg_willow": "Trilho de Salgueiro",
+"block.railways.track_byg_willow_narrow": "Trilho Estreito de Salgueiro",
+"block.railways.track_byg_willow_wide": "Trilho Largo de Salgueiro",
+
+"block.railways.track_byg_witch_hazel": "Trilho de Hamamélis",
+"block.railways.track_byg_witch_hazel_narrow": "Trilho Estreito de Hamamélis",
+"block.railways.track_byg_witch_hazel_wide": "Trilho Largo de Hamamélis",
+
+"block.railways.track_byg_zelkova": "Trilho de Zelkova",
+"block.railways.track_byg_zelkova_narrow": "Trilho Estreito de Zelkova",
+"block.railways.track_byg_zelkova_wide": "Trilho Largo de Zelkova",
+
+"block.railways.track_cherry": "Trilho de Cerejeira",
+"block.railways.track_cherry_narrow": "Trilho Estreito de Cerejeira",
+"block.railways.track_cherry_wide": "Trilho Largo de Cerejeira",
+
+"block.railways.track_coupler": "Acoplador de Trilho",
+
+"block.railways.track_create_andesite_narrow": "Trilho Estreito de Andesito",
+"block.railways.track_create_andesite_wide": "Trilho Largo de Andesito",
+
+"block.railways.track_create_dd_rose": "Trilho de Rosa",
+"block.railways.track_create_dd_rose_narrow": "Trilho Estreito de Rosa",
+"block.railways.track_create_dd_rose_wide": "Trilho Largo de Rosa",
+
+"block.railways.track_create_dd_rubber": "Trilho de Borracha",
+"block.railways.track_create_dd_rubber_narrow": "Trilho Estreito de Borracha",
+"block.railways.track_create_dd_rubber_wide": "Trilho Largo de Borracha",
+
+"block.railways.track_create_dd_smoked": "Trilho Defumado",
+"block.railways.track_create_dd_smoked_narrow": "Trilho Defumado Estreito",
+"block.railways.track_create_dd_smoked_wide": "Trilho Defumado Largo",
+
+"block.railways.track_create_dd_spirit": "Trilho Espiritual",
+"block.railways.track_create_dd_spirit_narrow": "Trilho Espiritual Estreito",
+"block.railways.track_create_dd_spirit_wide": "Trilho Espiritual Largo",
+"block.railways.track_crimson": "Trilho Carmesim",
+"block.railways.track_crimson_narrow": "Trilho Carmesim Estreito",
+"block.railways.track_crimson_wide": "Trilho Carmesim Largo",
+
+"block.railways.track_dark_oak": "Trilho de Carvalho Escuro",
+"block.railways.track_dark_oak_narrow": "Trilho Estreito de Carvalho Escuro",
+"block.railways.track_dark_oak_wide": "Trilho Largo de Carvalho Escuro",
+
+"block.railways.track_ender": "Trilho do Ender",
+"block.railways.track_ender_narrow": "Trilho Estreito do Ender",
+"block.railways.track_ender_wide": "Trilho Largo do Ender",
+
+"block.railways.track_hexcasting_edified": "Trilho Edified",
+"block.railways.track_hexcasting_edified_narrow": "Trilho Edified Estreito",
+"block.railways.track_hexcasting_edified_wide": "Trilho Edified Largo",
+
+"block.railways.track_jungle": "Trilho da Selva",
+"block.railways.track_jungle_narrow": "Trilho Estreito da Selva",
+"block.railways.track_jungle_wide": "Trilho Largo da Selva",
+
+"block.railways.track_mangrove": "Trilho de Mangue",
+"block.railways.track_mangrove_narrow": "Trilho Estreito de Mangue",
+"block.railways.track_mangrove_wide": "Trilho Largo de Mangue",
+
+"block.railways.track_monorail": "Monotrilho",
+
+"block.railways.track_natures_spirit_aspen": "Trilho de Aspen",
+"block.railways.track_natures_spirit_aspen_narrow": "Trilho Estreito de Aspen",
+"block.railways.track_natures_spirit_aspen_wide": "Trilho Largo de Aspen",
+
+"block.railways.track_natures_spirit_cypress": "Trilho de Cipreste",
+"block.railways.track_natures_spirit_cypress_narrow": "Trilho Estreito de Cipreste",
+"block.railways.track_natures_spirit_cypress_wide": "Trilho Largo de Cipreste",
+
+"block.railways.track_natures_spirit_fir": "Trilho de Abeto (Fir)",
+"block.railways.track_natures_spirit_fir_narrow": "Trilho Estreito de Abeto (Fir)",
+"block.railways.track_natures_spirit_fir_wide": "Trilho Largo de Abeto (Fir)",
+
+"block.railways.track_natures_spirit_ghaf": "Trilho de Ghaf",
+"block.railways.track_natures_spirit_ghaf_narrow": "Trilho Estreito de Ghaf",
+"block.railways.track_natures_spirit_ghaf_wide": "Trilho Largo de Ghaf",
+
+"block.railways.track_natures_spirit_joshua": "Trilho de Joshua",
+"block.railways.track_natures_spirit_joshua_narrow": "Trilho Estreito de Joshua",
+"block.railways.track_natures_spirit_joshua_wide": "Trilho Largo de Joshua",
+
+"block.railways.track_natures_spirit_maple": "Trilho de Bordo (Maple)",
+"block.railways.track_natures_spirit_maple_narrow": "Trilho Estreito de Bordo",
+"block.railways.track_natures_spirit_maple_wide": "Trilho Largo de Bordo",
+
+"block.railways.track_natures_spirit_olive": "Trilho de Oliveira",
+"block.railways.track_natures_spirit_olive_narrow": "Trilho Estreito de Oliveira",
+"block.railways.track_natures_spirit_olive_wide": "Trilho Largo de Oliveira",
+
+"block.railways.track_natures_spirit_palo_verde": "Trilho de Palo Verde",
+"block.railways.track_natures_spirit_palo_verde_narrow": "Trilho Estreito de Palo Verde",
+"block.railways.track_natures_spirit_palo_verde_wide": "Trilho Largo de Palo Verde",
+
+"block.railways.track_natures_spirit_redwood": "Trilho de Redwood",
+"block.railways.track_natures_spirit_redwood_narrow": "Trilho Estreito de Redwood",
+"block.railways.track_natures_spirit_redwood_wide": "Trilho Largo de Redwood",
+
+"block.railways.track_natures_spirit_sugi": "Trilho de Sugi",
+"block.railways.track_natures_spirit_sugi_narrow": "Trilho Estreito de Sugi",
+"block.railways.track_natures_spirit_sugi_wide": "Trilho Largo de Sugi",
+
+"block.railways.track_natures_spirit_willow": "Trilho de Salgueiro",
+"block.railways.track_natures_spirit_willow_narrow": "Trilho Estreito de Salgueiro",
+"block.railways.track_natures_spirit_willow_wide": "Trilho Largo de Salgueiro",
+
+"block.railways.track_natures_spirit_wisteria": "Trilho de Glicínia (Wisteria)",
+"block.railways.track_natures_spirit_wisteria_narrow": "Trilho Estreito de Glicínia",
+"block.railways.track_natures_spirit_wisteria_wide": "Trilho Largo de Glicínia",
+
+"block.railways.track_oak": "Trilho de Carvalho",
+"block.railways.track_oak_narrow": "Trilho Estreito de Carvalho",
+"block.railways.track_oak_wide": "Trilho Largo de Carvalho",
+
+"block.railways.track_phantom": "Trilho Fantasma",
+"block.railways.track_phantom.summary": "_Trilhos Fantasmas_ são compatíveis com _todos_ os tipos de bogey",
+"block.railways.track_phantom.tooltip": "TRILHO FANTASMA",
+"block.railways.track_phantom.tooltip.behaviour1": "Os _Trilhos Fantasmas_ no mundo ficarão _visíveis_",
+"block.railways.track_phantom.tooltip.behaviour2": "Os _Trilhos Fantasmas_ no mundo ficarão _invisíveis_",
+"block.railways.track_phantom.tooltip.condition1": "Quando você segura um Trilho Fantasma na mão",
+"block.railways.track_phantom.tooltip.condition2": "Quando você não segura um Trilho Fantasma na mão",
+
+"block.railways.track_quark_ancient": "Trilho Envelhecido (Ashen)",
+"block.railways.track_quark_ancient_narrow": "Trilho Estreito Envelhecido",
+"block.railways.track_quark_ancient_wide": "Trilho Largo Envelhecido",
+
+"block.railways.track_quark_azalea": "Trilho de Azaleia",
+"block.railways.track_quark_azalea_narrow": "Trilho Estreito de Azaleia",
+"block.railways.track_quark_azalea_wide": "Trilho Largo de Azaleia",
+
+"block.railways.track_quark_blossom": "Trilho de Blossom",
+"block.railways.track_quark_blossom_narrow": "Trilho Estreito de Blossom",
+"block.railways.track_quark_blossom_wide": "Trilho Largo de Blossom",
+
+"block.railways.track_spruce": "Trilho de Pinheiro",
+"block.railways.track_spruce_narrow": "Trilho Estreito de Pinheiro",
+"block.railways.track_spruce_wide": "Trilho Largo de Pinheiro",
+
+"block.railways.track_stripped_bamboo": "Trilho de Bambu Descascado",
+"block.railways.track_stripped_bamboo_narrow": "Trilho Estreito de Bambu Descascado",
+"block.railways.track_stripped_bamboo_wide": "Trilho Largo de Bambu Descascado",
+
+"block.railways.track_switch_andesite": "Mudança de Trilho de Andesito",
+"block.railways.track_switch_brass": "Mudança de Trilho de Latão",
+
+"block.railways.track_tfc_acacia": "Trilho de Acácia",
+"block.railways.track_tfc_acacia_narrow": "Trilho Estreito de Acácia",
+"block.railways.track_tfc_acacia_wide": "Trilho Largo de Acácia",
+
+"block.railways.track_tfc_ash": "Trilho de Cinza (Ash)",
+"block.railways.track_tfc_ash_narrow": "Trilho Estreito de Cinza",
+"block.railways.track_tfc_ash_wide": "Trilho Largo de Cinza",
+
+"block.railways.track_tfc_aspen": "Trilho de Aspen",
+"block.railways.track_tfc_aspen_narrow": "Trilho Estreito de Aspen",
+"block.railways.track_tfc_aspen_wide": "Trilho Largo de Aspen",
+
+"block.railways.track_tfc_birch": "Trilho de Bétula",
+"block.railways.track_tfc_birch_narrow": "Trilho Estreito de Bétula",
+"block.railways.track_tfc_birch_wide": "Trilho Largo de Bétula",
+
+"block.railways.track_tfc_blackwood": "Trilho de Blackwood",
+"block.railways.track_tfc_blackwood_narrow": "Trilho Estreito de Blackwood",
+"block.railways.track_tfc_blackwood_wide": "Trilho Largo de Blackwood",
+
+"block.railways.track_tfc_chestnut": "Trilho de Castanheira",
+"block.railways.track_tfc_chestnut_narrow": "Trilho Estreito de Castanheira",
+"block.railways.track_tfc_chestnut_wide": "Trilho Largo de Castanheira",
+
+"block.railways.track_tfc_douglas_fir": "Trilho de Abeto Douglas",
+"block.railways.track_tfc_douglas_fir_narrow": "Trilho Estreito de Abeto Douglas",
+"block.railways.track_tfc_douglas_fir_wide": "Trilho Largo de Abeto Douglas",
+
+"block.railways.track_tfc_hickory": "Trilho de Hickory",
+"block.railways.track_tfc_hickory_narrow": "Trilho Estreito de Hickory",
+"block.railways.track_tfc_hickory_wide": "Trilho Largo de Hickory",
+
+"block.railways.track_tfc_kapok": "Trilho de Kapok",
+"block.railways.track_tfc_kapok_narrow": "Trilho Estreito de Kapok",
+"block.railways.track_tfc_kapok_wide": "Trilho Largo de Kapok",
+
+"block.railways.track_tfc_mangrove": "Trilho de Mangue",
+"block.railways.track_tfc_mangrove_narrow": "Trilho Estreito de Mangue",
+"block.railways.track_tfc_mangrove_wide": "Trilho Largo de Mangue",
+
+"block.railways.track_tfc_maple": "Trilho de Bordo",
+"block.railways.track_tfc_maple_narrow": "Trilho Estreito de Bordo",
+"block.railways.track_tfc_maple_wide": "Trilho Largo de Bordo",
+
+"block.railways.track_tfc_oak": "Trilho de Carvalho",
+"block.railways.track_tfc_oak_narrow": "Trilho Estreito de Carvalho",
+"block.railways.track_tfc_oak_wide": "Trilho Largo de Carvalho",
+
+"block.railways.track_tfc_palm": "Trilho de Palmeira",
+"block.railways.track_tfc_palm_narrow": "Trilho Estreito de Palmeira",
+"block.railways.track_tfc_palm_wide": "Trilho Largo de Palmeira",
+
+"block.railways.track_tfc_pine": "Trilho de Pinho",
+"block.railways.track_tfc_pine_narrow": "Trilho Estreito de Pinho",
+"block.railways.track_tfc_pine_wide": "Trilho Largo de Pinho",
+
+"block.railways.track_tfc_rosewood": "Trilho de Rosewood",
+"block.railways.track_tfc_rosewood_narrow": "Trilho Estreito de Rosewood",
+"block.railways.track_tfc_rosewood_wide": "Trilho Largo de Rosewood",
+
+"block.railways.track_tfc_sequoia": "Trilho de Sequoia",
+"block.railways.track_tfc_sequoia_narrow": "Trilho Estreito de Sequoia",
+"block.railways.track_tfc_sequoia_wide": "Trilho Largo de Sequoia",
+
+"block.railways.track_tfc_spruce": "Trilho de Pinheiro",
+"block.railways.track_tfc_spruce_narrow": "Trilho Estreito de Pinheiro",
+"block.railways.track_tfc_spruce_wide": "Trilho Largo de Pinheiro",
+
+"block.railways.track_tfc_sycamore": "Trilho de Sicômoro",
+"block.railways.track_tfc_sycamore_narrow": "Trilho Estreito de Sicômoro",
+"block.railways.track_tfc_sycamore_wide": "Trilho Largo de Sicômoro",
+
+"block.railways.track_tfc_white_cedar": "Trilho de Cedro Branco",
+"block.railways.track_tfc_white_cedar_narrow": "Trilho Estreito de Cedro Branco",
+"block.railways.track_tfc_white_cedar_wide": "Trilho Largo de Cedro Branco",
+
+"block.railways.track_tfc_willow": "Trilho de Salgueiro",
+"block.railways.track_tfc_willow_narrow": "Trilho Estreito de Salgueiro",
+"block.railways.track_tfc_willow_wide": "Trilho Largo de Salgueiro",
+
+"block.railways.track_tieless": "Trilho Sem Dormentes",
+"block.railways.track_tieless_narrow": "Trilho Estreito Sem Dormentes",
+"block.railways.track_tieless_wide": "Trilho Largo Sem Dormentes",
+
+"block.railways.track_twilightforest_canopy": "Trilho de Copas (Canopy)",
+"block.railways.track_twilightforest_canopy_narrow": "Trilho Estreito de Copas",
+"block.railways.track_twilightforest_canopy_wide": "Trilho Largo de Copas",
+
+"block.railways.track_twilightforest_darkwood": "Trilho de Darkwood",
+"block.railways.track_twilightforest_darkwood_narrow": "Trilho Estreito de Darkwood",
+"block.railways.track_twilightforest_darkwood_wide": "Trilho Largo de Darkwood",
+
+"block.railways.track_twilightforest_mangrove": "Trilho de Mangue",
+"block.railways.track_twilightforest_mangrove_narrow": "Trilho Estreito de Mangue",
+"block.railways.track_twilightforest_mangrove_wide": "Trilho Largo de Mangue",
+
+"block.railways.track_twilightforest_minewood": "Trilho de Minewood",
+"block.railways.track_twilightforest_minewood_narrow": "Trilho Estreito de Minewood",
+"block.railways.track_twilightforest_minewood_wide": "Trilho Largo de Minewood",
+
+"block.railways.track_twilightforest_sortingwood": "Trilho de Sortingwood",
+"block.railways.track_twilightforest_sortingwood_narrow": "Trilho Estreito de Sortingwood",
+"block.railways.track_twilightforest_sortingwood_wide": "Trilho Largo de Sortingwood",
+
+"block.railways.track_twilightforest_timewood": "Trilho de Timewood",
+"block.railways.track_twilightforest_timewood_narrow": "Trilho Estreito de Timewood",
+"block.railways.track_twilightforest_timewood_wide": "Trilho Largo de Timewood",
+
+"block.railways.track_twilightforest_transwood": "Trilho de Transwood",
+"block.railways.track_twilightforest_transwood_narrow": "Trilho Estreito de Transwood",
+"block.railways.track_twilightforest_transwood_wide": "Trilho Largo de Transwood",
+
+"block.railways.track_twilightforest_twilight_oak": "Trilho de Carvalho Crepuscular",
+"block.railways.track_twilightforest_twilight_oak_narrow": "Trilho Estreito de Carvalho Crepuscular",
+"block.railways.track_twilightforest_twilight_oak_wide": "Trilho Largo de Carvalho Crepuscular",
+
+"block.railways.track_warped": "Trilho Distorcido",
+"block.railways.track_warped_narrow": "Trilho Estreito Distorcido",
+"block.railways.track_warped_wide": "Trilho Largo Distorcido",
+
+"block.railways.tripleaxle_bogey": "Bogey de Três Eixos",
+
+"block.railways.white_brass_wrapped_locometal": "Locometal Envolto em Latão Branco",
+"block.railways.white_brass_wrapped_locometal_boiler": "Caldeira de Locometal Envolta em Latão Branco",
+
+"block.railways.white_copper_wrapped_locometal": "Locometal Envolto em Cobre Branco",
+"block.railways.white_copper_wrapped_locometal_boiler": "Caldeira de Locometal Envolta em Cobre Branco",
+
+"block.railways.white_flat_riveted_locometal": "Locometal Branco Rebitado Liso",
+"block.railways.white_flat_slashed_locometal": "Locometal Branco Cortado Liso",
+
+"block.railways.white_iron_wrapped_locometal": "Locometal Envolto em Ferro Branco",
+"block.railways.white_iron_wrapped_locometal_boiler": "Caldeira de Locometal Envolta em Ferro Branco",
+
+"block.railways.white_locometal_boiler": "Caldeira de Locometal Branco",
+"block.railways.white_locometal_pillar": "Pilar de Locometal Branco",
+"block.railways.white_locometal_smokebox": "Caixa de Fumaça de Locometal Branco",
+
+"block.railways.white_plated_locometal": "Locometal Branco Chapeado",
+"block.railways.white_riveted_locometal": "Locometal Branco Rebitado",
+"block.railways.white_slashed_locometal": "Locometal Branco Cortado",
+
+"block.railways.wide_comically_large_bogey": "Bogey de Bitola Larga Comicamente Grande",
+"block.railways.wide_doubleaxle_bogey": "Bogey de Bitola Larga com Dois Eixos",
+"block.railways.wide_scotch_bogey": "Bogey de Bitola Larga Scotch Yoke",
+
+"block.railways.yellow_brass_wrapped_locometal": "Locometal Envolto em Latão Amarelo",
+"block.railways.yellow_brass_wrapped_locometal_boiler": "Caldeira de Locometal Envolta em Latão Amarelo",
+
+"block.railways.yellow_copper_wrapped_locometal": "Locometal Envolto em Cobre Amarelo",
+"block.railways.yellow_copper_wrapped_locometal_boiler": "Caldeira de Locometal Envolta em Cobre Amarelo",
+
+"block.railways.yellow_flat_riveted_locometal": "Locometal Amarelo Rebitado Liso",
+"block.railways.yellow_flat_slashed_locometal": "Locometal Amarelo Cortado Liso",
+
+"block.railways.yellow_iron_wrapped_locometal": "Locometal Envolto em Ferro Amarelo",
+"block.railways.yellow_iron_wrapped_locometal_boiler": "Caldeira de Locometal Envolta em Ferro Amarelo",
+
+"block.railways.yellow_locometal_boiler": "Caldeira de Locometal Amarelo",
+"block.railways.yellow_locometal_pillar": "Pilar de Locometal Amarelo",
+"block.railways.yellow_locometal_smokebox": "Caixa de Fumaça de Locometal Amarelo",
+
+"block.railways.yellow_plated_locometal": "Locometal Amarelo Chapeado",
+"block.railways.yellow_riveted_locometal": "Locometal Amarelo Rebitado",
+"block.railways.yellow_slashed_locometal": "Locometal Amarelo Cortado",
+
+"create.contraptions.roller_mode.track_replace": "Substituir Trilhos",
+"create.display_source.track_signal_source": "Estado do Sinal",
+
+"create.gui.bogey_menu.category.standard": "Estilos Padrão",
+
+"create.railways.semaphore.search_mode": "Direção de Busca do Sinal",
+"create.railways.semaphore.search_mode.search_down": "Para Baixo",
+"create.railways.semaphore.search_mode.search_up": "Para Cima",
+
+"create.railways.switch.auto_mode.auto": "Trens Manuais e Programados",
+"create.railways.switch.auto_mode.manual_only": "Apenas Trens Manuais",
+
+"create.schedule.instruction.waypoint_destination.summary": "Próximo ponto:",
+
+"create.sliding_door.mode": "Modo de Abertura",
+"create.sliding_door.mode.manual": "Manual",
+"create.sliding_door.mode.normal": "Normal (Padrão)",
+"create.sliding_door.mode.special": "Especial",
+"create.sliding_door.mode.special_inverted": "Especial Invertido",
+
+"entity.railways.benchcart": "Carrinho com Banco de Trabalho",
+"entity.railways.conductor": "Condutor",
+"entity.railways.jukeboxcart": "Carrinho com Jukebox",
+
+"item.railways.benchcart": "Carrinho com Banco de Trabalho",
+
+"item.railways.black_conductor_cap": "Chapéu de Condutor Preto",
+"item.railways.black_incomplete_conductor_cap": "Chapéu de Condutor Preto Incompleto",
+
+"item.railways.blue_conductor_cap": "Chapéu de Condutor Azul",
+"item.railways.blue_incomplete_conductor_cap": "Chapéu de Condutor Azul Incompleto",
+
+"item.railways.brown_conductor_cap": "Chapéu de Condutor Marrom",
+"item.railways.brown_incomplete_conductor_cap": "Chapéu de Condutor Marrom Incompleto",
+
+"item.railways.copycat_headstock": "Cabeçote Copycat",
+"item.railways.copycat_headstock_buffer": "Cabeçote Copycat (Buffer)",
+"item.railways.copycat_headstock_knuckle_coupler": "Cabeçote Copycat (Engate Knuckle)",
+"item.railways.copycat_headstock_link_and_pin": "Cabeçote Copycat (Link 'n Pin)",
+"item.railways.copycat_headstock_link_and_pin_linkless": "Cabeçote Copycat (Link 'n Pin Sem Pino)",
+"item.railways.copycat_headstock_screwlink_coupler": "Cabeçote Copycat (Engate com Rosca)",
+"item.railways.copycat_headstock_split_knuckle_coupler": "Cabeçote Copycat (Engate Knuckle Dividido)",
+
+"item.railways.cyan_conductor_cap": "Chapéu de Condutor Ciano",
+"item.railways.cyan_incomplete_conductor_cap": "Chapéu de Condutor Ciano Incompleto",
+
+"item.railways.gray_conductor_cap": "Chapéu de Condutor Cinza",
+"item.railways.gray_incomplete_conductor_cap": "Chapéu de Condutor Cinza Incompleto",
+
+"item.railways.green_conductor_cap": "Chapéu de Condutor Verde",
+"item.railways.green_incomplete_conductor_cap": "Chapéu de Condutor Verde Incompleto",
+
+"item.railways.jukeboxcart": "Carrinho com Jukebox",
+
+"item.railways.knuckle_coupler": "Engate Knuckle",
+
+"item.railways.light_blue_conductor_cap": "Chapéu de Condutor Azul Claro",
+"item.railways.light_blue_incomplete_conductor_cap": "Chapéu de Condutor Azul Claro Incompleto",
+
+"item.railways.light_gray_conductor_cap": "Chapéu de Condutor Cinza Claro",
+"item.railways.light_gray_incomplete_conductor_cap": "Chapéu de Condutor Cinza Claro Incompleto",
+
+"item.railways.lime_conductor_cap": "Chapéu de Condutor Verde Lima",
+"item.railways.lime_incomplete_conductor_cap": "Chapéu de Condutor Verde Lima Incompleto",
+
+"item.railways.link_and_pin": "Link 'n Pin",
+"item.railways.link_and_pin_linkless": "Link 'n Pin Sem Pino",
+
+"item.railways.magenta_conductor_cap": "Chapéu de Condutor Magenta",
+"item.railways.magenta_incomplete_conductor_cap": "Chapéu de Condutor Magenta Incompleto",
+
+"item.railways.orange_conductor_cap": "Chapéu de Condutor Laranja",
+"item.railways.orange_incomplete_conductor_cap": "Chapéu de Condutor Laranja Incompleto",
+
+"item.railways.pink_conductor_cap": "Chapéu de Condutor Rosa",
+"item.railways.pink_incomplete_conductor_cap": "Chapéu de Condutor Rosa Incompleto",
+
+"item.railways.purple_conductor_cap": "Chapéu de Condutor Roxo",
+"item.railways.purple_incomplete_conductor_cap": "Chapéu de Condutor Roxo Incompleto",
+
+"item.railways.red_conductor_cap": "Chapéu de Condutor Vermelho",
+"item.railways.red_incomplete_conductor_cap": "Chapéu de Condutor Vermelho Incompleto",
+
+"item.railways.remote_lens": "Lente Remota",
+
+"item.railways.screwlink_coupler": "Engate de Rosca",
+
+"item.railways.smokestack_caboosestyle": "Chaminé de Caboose",
+
+"item.railways.smokestack_coalburner": "Chaminé a Carvão",
+"item.railways.smokestack_coalburner_brass": "Chaminé a Carvão de Latão",
+"item.railways.smokestack_coalburner_brass_cap_copper": "Chaminé a Carvão de Latão com Tampa de Cobre",
+"item.railways.smokestack_coalburner_brass_cap_steel": "Chaminé a Carvão de Latão com Tampa de Aço",
+"item.railways.smokestack_coalburner_copper": "Chaminé a Carvão de Cobre",
+"item.railways.smokestack_coalburner_copper_cap_brass": "Chaminé a Carvão de Cobre com Tampa de Latão",
+"item.railways.smokestack_coalburner_copper_cap_steel": "Chaminé a Carvão de Cobre com Tampa de Aço",
+
+"item.railways.smokestack_long": "Chaminé Dupla",
+"item.railways.smokestack_long_brass": "Chaminé Dupla de Latão",
+"item.railways.smokestack_long_brass_cap_copper": "Chaminé Dupla de Latão com Tampa de Cobre",
+"item.railways.smokestack_long_brass_cap_steel": "Chaminé Dupla de Latão com Tampa de Aço",
+"item.railways.smokestack_long_copper": "Chaminé Dupla de Cobre",
+"item.railways.smokestack_long_copper_cap_brass": "Chaminé Dupla de Cobre com Tampa de Latão",
+"item.railways.smokestack_long_copper_cap_steel": "Chaminé Dupla de Cobre com Tampa de Aço",
+
+"item.railways.smokestack_oilburner": "Chaminé a Óleo",
+"item.railways.smokestack_oilburner_brass": "Chaminé a Óleo de Latão",
+"item.railways.smokestack_oilburner_brass_cap_copper": "Chaminé a Óleo de Latão com Tampa de Cobre",
+"item.railways.smokestack_oilburner_brass_cap_steel": "Chaminé a Óleo de Latão com Tampa de Aço",
+"item.railways.smokestack_oilburner_copper": "Chaminé a Óleo de Cobre",
+"item.railways.smokestack_oilburner_copper_cap_brass": "Chaminé a Óleo de Cobre com Tampa de Latão",
+"item.railways.smokestack_oilburner_copper_cap_steel": "Chaminé a Óleo de Cobre com Tampa de Aço",
+
+"item.railways.smokestack_streamlined": "Chaminé Aerodinâmica",
+"item.railways.smokestack_streamlined_brass": "Chaminé Aerodinâmica de Latão",
+"item.railways.smokestack_streamlined_brass_cap_copper": "Chaminé Aerodinâmica de Latão com Tampa de Cobre",
+"item.railways.smokestack_streamlined_brass_cap_steel": "Chaminé Aerodinâmica de Latão com Tampa de Aço",
+"item.railways.smokestack_streamlined_copper": "Chaminé Aerodinâmica de Cobre",
+"item.railways.smokestack_streamlined_copper_cap_brass": "Chaminé Aerodinâmica de Cobre com Tampa de Latão",
+"item.railways.smokestack_streamlined_copper_cap_steel": "Chaminé Aerodinâmica de Cobre com Tampa de Aço",
+
+"item.railways.smokestack_woodburner": "Chaminé a Lenha",
+"item.railways.smokestack_woodburner_brass": "Chaminé a Lenha de Latão",
+"item.railways.smokestack_woodburner_brass_cap_copper": "Chaminé a Lenha de Latão com Tampa de Cobre",
+"item.railways.smokestack_woodburner_brass_cap_steel": "Chaminé a Lenha de Latão com Tampa de Aço",
+"item.railways.smokestack_woodburner_copper": "Chaminé a Lenha de Cobre",
+"item.railways.smokestack_woodburner_copper_cap_brass": "Chaminé a Lenha de Cobre com Tampa de Latão",
+"item.railways.smokestack_woodburner_copper_cap_steel": "Chaminé a Lenha de Cobre com Tampa de Aço",
+
+"item.railways.split_knuckle_coupler": "Engate Knuckle Dividido",
+
+"item.railways.track_incomplete_acacia": "Trilho de Acácia Incompleto",
+"item.railways.track_incomplete_acacia_narrow": "Trilho Estreito de Acácia Incompleto",
+"item.railways.track_incomplete_acacia_wide": "Trilho Largo de Acácia Incompleto",
+
+"item.railways.track_incomplete_bamboo": "Trilho de Bambu Incompleto",
+"item.railways.track_incomplete_bamboo_narrow": "Trilho Estreito de Bambu Incompleto",
+"item.railways.track_incomplete_bamboo_wide": "Trilho Largo de Bambu Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_dead": "Trilho de Madeira Morta Incompleto",
+"item.railways.track_incomplete_biomesoplenty_dead_narrow": "Trilho Estreito de Madeira Morta Incompleto",
+"item.railways.track_incomplete_biomesoplenty_dead_wide": "Trilho Largo de Madeira Morta Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_fir": "Trilho de Abeto (Fir) Incompleto",
+"item.railways.track_incomplete_biomesoplenty_fir_narrow": "Trilho Estreito de Abeto (Fir) Incompleto",
+"item.railways.track_incomplete_biomesoplenty_fir_wide": "Trilho Largo de Abeto (Fir) Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_hellbark": "Trilho de Hellbark Incompleto",
+"item.railways.track_incomplete_biomesoplenty_hellbark_narrow": "Trilho Estreito de Hellbark Incompleto",
+"item.railways.track_incomplete_biomesoplenty_hellbark_wide": "Trilho Largo de Hellbark Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_jacaranda": "Trilho de Jacarandá Incompleto",
+"item.railways.track_incomplete_biomesoplenty_jacaranda_narrow": "Trilho Estreito de Jacarandá Incompleto",
+"item.railways.track_incomplete_biomesoplenty_jacaranda_wide": "Trilho Largo de Jacarandá Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_magic": "Trilho de Madeira Mágica Incompleto",
+"item.railways.track_incomplete_biomesoplenty_magic_narrow": "Trilho Estreito de Madeira Mágica Incompleto",
+"item.railways.track_incomplete_biomesoplenty_magic_wide": "Trilho Largo de Madeira Mágica Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_mahogany": "Trilho de Mogno Incompleto",
+"item.railways.track_incomplete_biomesoplenty_mahogany_narrow": "Trilho Estreito de Mogno Incompleto",
+"item.railways.track_incomplete_biomesoplenty_mahogany_wide": "Trilho Largo de Mogno Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_palm": "Trilho de Palma Incompleto",
+"item.railways.track_incomplete_biomesoplenty_palm_narrow": "Trilho Estreito de Palma Incompleto",
+"item.railways.track_incomplete_biomesoplenty_palm_wide": "Trilho Largo de Palma Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_redwood": "Trilho de Sequoia Vermelha (Redwood) Incompleto",
+"item.railways.track_incomplete_biomesoplenty_redwood_narrow": "Trilho Estreito de Sequoia Vermelha Incompleto",
+"item.railways.track_incomplete_biomesoplenty_redwood_wide": "Trilho Largo de Sequoia Vermelha Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_umbran": "Trilho de Umbran Incompleto",
+"item.railways.track_incomplete_biomesoplenty_umbran_narrow": "Trilho Estreito de Umbran Incompleto",
+"item.railways.track_incomplete_biomesoplenty_umbran_wide": "Trilho Largo de Umbran Incompleto",
+
+"item.railways.track_incomplete_biomesoplenty_willow": "Trilho de Salgueiro Incompleto",
+"item.railways.track_incomplete_biomesoplenty_willow_narrow": "Trilho Estreito de Salgueiro Incompleto",
+"item.railways.track_incomplete_biomesoplenty_willow_wide": "Trilho Largo de Salgueiro Incompleto",
+
+"item.railways.track_incomplete_birch": "Trilho de Bétula Incompleto",
+"item.railways.track_incomplete_birch_narrow": "Trilho Estreito de Bétula Incompleto",
+"item.railways.track_incomplete_birch_wide": "Trilho Largo de Bétula Incompleto",
+
+"item.railways.track_incomplete_blackstone": "Trilho de Blackstone Incompleto",
+"item.railways.track_incomplete_blackstone_narrow": "Trilho Estreito de Blackstone Incompleto",
+"item.railways.track_incomplete_blackstone_wide": "Trilho Largo de Blackstone Incompleto",
+
+"item.railways.track_incomplete_blue_skies_bluebright": "Trilho de Bluebright Incompleto",
+"item.railways.track_incomplete_blue_skies_bluebright_narrow": "Trilho Estreito de Bluebright Incompleto",
+"item.railways.track_incomplete_blue_skies_bluebright_wide": "Trilho Largo de Bluebright Incompleto",
+
+"item.railways.track_incomplete_blue_skies_dusk": "Trilho de Dusk Incompleto",
+"item.railways.track_incomplete_blue_skies_dusk_narrow": "Trilho Estreito de Dusk Incompleto",
+"item.railways.track_incomplete_blue_skies_dusk_wide": "Trilho Largo de Dusk Incompleto",
+
+"item.railways.track_incomplete_blue_skies_frostbright": "Trilho de Frostbright Incompleto",
+"item.railways.track_incomplete_blue_skies_frostbright_narrow": "Trilho Estreito de Frostbright Incompleto",
+"item.railways.track_incomplete_blue_skies_frostbright_wide": "Trilho Largo de Frostbright Incompleto",
+
+"item.railways.track_incomplete_blue_skies_lunar": "Trilho Lunar Incompleto",
+"item.railways.track_incomplete_blue_skies_lunar_narrow": "Trilho Estreito Lunar Incompleto",
+"item.railways.track_incomplete_blue_skies_lunar_wide": "Trilho Largo Lunar Incompleto",
+
+"item.railways.track_incomplete_blue_skies_maple": "Trilho de Bordo (Maple) Incompleto",
+"item.railways.track_incomplete_blue_skies_maple_narrow": "Trilho Estreito de Bordo Incompleto",
+"item.railways.track_incomplete_blue_skies_maple_wide": "Trilho Largo de Bordo Incompleto",
+
+"item.railways.track_incomplete_blue_skies_starlit": "Trilho de Starlit Incompleto",
+"item.railways.track_incomplete_blue_skies_starlit_narrow": "Trilho Estreito de Starlit Incompleto",
+"item.railways.track_incomplete_blue_skies_starlit_wide": "Trilho Largo de Starlit Incompleto",
+
+"item.railways.track_incomplete_byg_aspen": "Trilho de Aspen Incompleto",
+"item.railways.track_incomplete_byg_aspen_narrow": "Trilho Estreito de Aspen Incompleto",
+"item.railways.track_incomplete_byg_aspen_wide": "Trilho Largo de Aspen Incompleto",
+
+"item.railways.track_incomplete_byg_baobab": "Trilho de Baobá Incompleto",
+"item.railways.track_incomplete_byg_baobab_narrow": "Trilho Estreito de Baobá Incompleto",
+"item.railways.track_incomplete_byg_baobab_wide": "Trilho Largo de Baobá Incompleto",
+"item.railways.track_incomplete_natures_spirit_fir": "Trilho de Abeto (Fir) Incompleto",
+"item.railways.track_incomplete_natures_spirit_fir_narrow": "Trilho Estreito de Abeto (Fir) Incompleto",
+"item.railways.track_incomplete_natures_spirit_fir_wide": "Trilho Largo de Abeto (Fir) Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_ghaf": "Trilho de Ghaf Incompleto",
+"item.railways.track_incomplete_natures_spirit_ghaf_narrow": "Trilho Estreito de Ghaf Incompleto",
+"item.railways.track_incomplete_natures_spirit_ghaf_wide": "Trilho Largo de Ghaf Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_joshua": "Trilho de Joshua Incompleto",
+"item.railways.track_incomplete_natures_spirit_joshua_narrow": "Trilho Estreito de Joshua Incompleto",
+"item.railways.track_incomplete_natures_spirit_joshua_wide": "Trilho Largo de Joshua Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_maple": "Trilho de Bordo (Maple) Incompleto",
+"item.railways.track_incomplete_natures_spirit_maple_narrow": "Trilho Estreito de Bordo (Maple) Incompleto",
+"item.railways.track_incomplete_natures_spirit_maple_wide": "Trilho Largo de Bordo (Maple) Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_olive": "Trilho de Oliveira Incompleto",
+"item.railways.track_incomplete_natures_spirit_olive_narrow": "Trilho Estreito de Oliveira Incompleto",
+"item.railways.track_incomplete_natures_spirit_olive_wide": "Trilho Largo de Oliveira Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_palo_verde": "Trilho de Palo Verde Incompleto",
+"item.railways.track_incomplete_natures_spirit_palo_verde_narrow": "Trilho Estreito de Palo Verde Incompleto",
+"item.railways.track_incomplete_natures_spirit_palo_verde_wide": "Trilho Largo de Palo Verde Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_redwood": "Trilho de Sequóia Incompleto",
+"item.railways.track_incomplete_natures_spirit_redwood_narrow": "Trilho Estreito de Sequóia Incompleto",
+"item.railways.track_incomplete_natures_spirit_redwood_wide": "Trilho Largo de Sequóia Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_sugi": "Trilho de Sugi Incompleto",
+"item.railways.track_incomplete_natures_spirit_sugi_narrow": "Trilho Estreito de Sugi Incompleto",
+"item.railways.track_incomplete_natures_spirit_sugi_wide": "Trilho Largo de Sugi Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_willow": "Trilho de Salgueiro Incompleto",
+"item.railways.track_incomplete_natures_spirit_willow_narrow": "Trilho Estreito de Salgueiro Incompleto",
+"item.railways.track_incomplete_natures_spirit_willow_wide": "Trilho Largo de Salgueiro Incompleto",
+
+"item.railways.track_incomplete_natures_spirit_wisteria": "Trilho de Glicínia Incompleto",
+"item.railways.track_incomplete_natures_spirit_wisteria_narrow": "Trilho Estreito de Glicínia Incompleto",
+"item.railways.track_incomplete_natures_spirit_wisteria_wide": "Trilho Largo de Glicínia Incompleto",
+
+"item.railways.track_incomplete_oak": "Trilho de Carvalho Incompleto",
+"item.railways.track_incomplete_oak_narrow": "Trilho Estreito de Carvalho Incompleto",
+"item.railways.track_incomplete_oak_wide": "Trilho Largo de Carvalho Incompleto",
+
+"item.railways.track_incomplete_phantom": "Trilho Fantasma Incompleto",
+
+"item.railways.track_incomplete_quark_ancient": "Trilho de Cinza Antiga (Ashen) Incompleto",
+"item.railways.track_incomplete_quark_ancient_narrow": "Trilho Estreito de Cinza Antiga Incompleto",
+"item.railways.track_incomplete_quark_ancient_wide": "Trilho Largo de Cinza Antiga Incompleto",
+
+"item.railways.track_incomplete_quark_azalea": "Trilho de Azaleia Incompleto",
+"item.railways.track_incomplete_quark_azalea_narrow": "Trilho Estreito de Azaleia Incompleto",
+"item.railways.track_incomplete_quark_azalea_wide": "Trilho Largo de Azaleia Incompleto",
+
+"item.railways.track_incomplete_quark_blossom": "Trilho de Trombeta (Blossom) Incompleto",
+"item.railways.track_incomplete_quark_blossom_narrow": "Trilho Estreito de Trombeta Incompleto",
+"item.railways.track_incomplete_quark_blossom_wide": "Trilho Largo de Trombeta Incompleto",
+
+"item.railways.track_incomplete_spruce": "Trilho de Abeto Incompleto",
+"item.railways.track_incomplete_spruce_narrow": "Trilho Estreito de Abeto Incompleto",
+"item.railways.track_incomplete_spruce_wide": "Trilho Largo de Abeto Incompleto",
+
+"item.railways.track_incomplete_stripped_bamboo": "Trilho de Bambu Descascado Incompleto",
+"item.railways.track_incomplete_stripped_bamboo_narrow": "Trilho Estreito de Bambu Descascado Incompleto",
+"item.railways.track_incomplete_stripped_bamboo_wide": "Trilho Largo de Bambu Descascado Incompleto",
+
+"item.railways.track_incomplete_tfc_acacia": "Trilho de Acácia Incompleto",
+"item.railways.track_incomplete_tfc_acacia_narrow": "Trilho Estreito de Acácia Incompleto",
+"item.railways.track_incomplete_tfc_acacia_wide": "Trilho Largo de Acácia Incompleto",
+
+"item.railways.track_incomplete_tfc_ash": "Trilho de Freixo (Ash) Incompleto",
+"item.railways.track_incomplete_tfc_ash_narrow": "Trilho Estreito de Freixo Incompleto",
+"item.railways.track_incomplete_tfc_ash_wide": "Trilho Largo de Freixo Incompleto",
+
+"item.railways.track_incomplete_tfc_aspen": "Trilho de Álamo (Aspen) Incompleto",
+"item.railways.track_incomplete_tfc_aspen_narrow": "Trilho Estreito de Álamo Incompleto",
+"item.railways.track_incomplete_tfc_aspen_wide": "Trilho Largo de Álamo Incompleto",
+
+"item.railways.track_incomplete_tfc_birch": "Trilho de Bétula Incompleto",
+"item.railways.track_incomplete_tfc_birch_narrow": "Trilho Estreito de Bétula Incompleto",
+"item.railways.track_incomplete_tfc_birch_wide": "Trilho Largo de Bétula Incompleto",
+
+"item.railways.track_incomplete_tfc_blackwood": "Trilho de Blackwood Incompleto",
+"item.railways.track_incomplete_tfc_blackwood_narrow": "Trilho Estreito de Blackwood Incompleto",
+"item.railways.track_incomplete_tfc_blackwood_wide": "Trilho Largo de Blackwood Incompleto",
+
+"item.railways.track_incomplete_tfc_chestnut": "Trilho de Castanheira Incompleto",
+"item.railways.track_incomplete_tfc_chestnut_narrow": "Trilho Estreito de Castanheira Incompleto",
+"item.railways.track_incomplete_tfc_chestnut_wide": "Trilho Largo de Castanheira Incompleto",
+
+"item.railways.track_incomplete_tfc_douglas_fir": "Trilho de Abeto-de-Douglas Incompleto",
+"item.railways.track_incomplete_tfc_douglas_fir_narrow": "Trilho Estreito de Abeto-de-Douglas Incompleto",
+"item.railways.track_incomplete_tfc_douglas_fir_wide": "Trilho Largo de Abeto-de-Douglas Incompleto",
+
+"item.railways.track_incomplete_tfc_hickory": "Trilho de Nogal Americano (Hickory) Incompleto",
+"item.railways.track_incomplete_tfc_hickory_narrow": "Trilho Estreito de Hickory Incompleto",
+"item.railways.track_incomplete_tfc_hickory_wide": "Trilho Largo de Hickory Incompleto",
+
+"item.railways.track_incomplete_tfc_kapok": "Trilho de Kapok Incompleto",
+"item.railways.track_incomplete_tfc_kapok_narrow": "Trilho Estreito de Kapok Incompleto",
+"item.railways.track_incomplete_tfc_kapok_wide": "Trilho Largo de Kapok Incompleto",
+
+"item.railways.track_incomplete_tfc_mangrove": "Trilho de Mangue Incompleto",
+"item.railways.track_incomplete_tfc_mangrove_narrow": "Trilho Estreito de Mangue Incompleto",
+"item.railways.track_incomplete_tfc_mangrove_wide": "Trilho Largo de Mangue Incompleto",
+
+"item.railways.track_incomplete_tfc_maple": "Trilho de Bordo (Maple) Incompleto",
+"item.railways.track_incomplete_tfc_maple_narrow": "Trilho Estreito de Bordo (Maple) Incompleto",
+"item.railways.track_incomplete_tfc_maple_wide": "Trilho Largo de Bordo (Maple) Incompleto",
+
+"item.railways.track_incomplete_tfc_oak": "Trilho de Carvalho Incompleto",
+"item.railways.track_incomplete_tfc_oak_narrow": "Trilho Estreito de Carvalho Incompleto",
+"item.railways.track_incomplete_tfc_oak_wide": "Trilho Largo de Carvalho Incompleto",
+
+"item.railways.track_incomplete_tfc_palm": "Trilho de Palmeira Incompleto",
+"item.railways.track_incomplete_tfc_palm_narrow": "Trilho Estreito de Palmeira Incompleto",
+"item.railways.track_incomplete_tfc_palm_wide": "Trilho Largo de Palmeira Incompleto",
+
+"item.railways.track_incomplete_tfc_pine": "Trilho de Pinheiro Incompleto",
+"item.railways.track_incomplete_tfc_pine_narrow": "Trilho Estreito de Pinheiro Incompleto",
+"item.railways.track_incomplete_tfc_pine_wide": "Trilho Largo de Pinheiro Incompleto",
+
+"item.railways.track_incomplete_tfc_rosewood": "Trilho de Rosewood Incompleto",
+"item.railways.track_incomplete_tfc_rosewood_narrow": "Trilho Estreito de Rosewood Incompleto",
+"item.railways.track_incomplete_tfc_rosewood_wide": "Trilho Largo de Rosewood Incompleto",
+
+"item.railways.track_incomplete_tfc_sequoia": "Trilho de Sequóia Incompleto",
+"item.railways.track_incomplete_tfc_sequoia_narrow": "Trilho Estreito de Sequóia Incompleto",
+"item.railways.track_incomplete_tfc_sequoia_wide": "Trilho Largo de Sequóia Incompleto",
+
+"item.railways.track_incomplete_tfc_spruce": "Trilho de Abeto Incompleto",
+"item.railways.track_incomplete_tfc_spruce_narrow": "Trilho Estreito de Abeto Incompleto",
+"item.railways.track_incomplete_tfc_spruce_wide": "Trilho Largo de Abeto Incompleto",
+
+"item.railways.track_incomplete_tfc_sycamore": "Trilho de Sicômoro Incompleto",
+"item.railways.track_incomplete_tfc_sycamore_narrow": "Trilho Estreito de Sicômoro Incompleto",
+"item.railways.track_incomplete_tfc_sycamore_wide": "Trilho Largo de Sicômoro Incompleto",
+
+"item.railways.track_incomplete_tfc_white_cedar": "Trilho de Cedro-Branco Incompleto",
+"item.railways.track_incomplete_tfc_white_cedar_narrow": "Trilho Estreito de Cedro-Branco Incompleto",
+"item.railways.track_incomplete_tfc_white_cedar_wide": "Trilho Largo de Cedro-Branco Incompleto",
+
+"item.railways.track_incomplete_tfc_willow": "Trilho de Salgueiro Incompleto",
+"item.railways.track_incomplete_tfc_willow_narrow": "Trilho Estreito de Salgueiro Incompleto",
+"item.railways.track_incomplete_tfc_willow_wide": "Trilho Largo de Salgueiro Incompleto",
+
+"item.railways.track_incomplete_tieless": "Trilho Sem Dormentes Incompleto",
+"item.railways.track_incomplete_tieless_narrow": "Trilho Estreito Sem Dormentes Incompleto",
+"item.railways.track_incomplete_tieless_wide": "Trilho Largo Sem Dormentes Incompleto",
+
+"item.railways.track_incomplete_twilightforest_canopy": "Trilho de Copa (Canopy) Incompleto",
+"item.railways.track_incomplete_twilightforest_canopy_narrow": "Trilho Estreito de Copa Incompleto",
+"item.railways.track_incomplete_twilightforest_canopy_wide": "Trilho Largo de Copa Incompleto",
+
+"item.railways.track_incomplete_twilightforest_darkwood": "Trilho de Darkwood Incompleto",
+"item.railways.track_incomplete_twilightforest_darkwood_narrow": "Trilho Estreito de Darkwood Incompleto",
+"item.railways.track_incomplete_twilightforest_darkwood_wide": "Trilho Largo de Darkwood Incompleto",
+
+"item.railways.track_incomplete_twilightforest_mangrove": "Trilho de Mangue Incompleto",
+"item.railways.track_incomplete_twilightforest_mangrove_narrow": "Trilho Estreito de Mangue Incompleto",
+"item.railways.track_incomplete_twilightforest_mangrove_wide": "Trilho Largo de Mangue Incompleto",
+
+"item.railways.track_incomplete_twilightforest_minewood": "Trilho de Minewood Incompleto",
+"item.railways.track_incomplete_twilightforest_minewood_narrow": "Trilho Estreito de Minewood Incompleto",
+"item.railways.track_incomplete_twilightforest_minewood_wide": "Trilho Largo de Minewood Incompleto",
+
+"item.railways.track_incomplete_twilightforest_sortingwood": "Trilho de Sortingwood Incompleto",
+"item.railways.track_incomplete_twilightforest_sortingwood_narrow": "Trilho Estreito de Sortingwood Incompleto",
+"item.railways.track_incomplete_twilightforest_sortingwood_wide": "Trilho Largo de Sortingwood Incompleto",
+
+"item.railways.track_incomplete_twilightforest_timewood": "Trilho de Timewood Incompleto",
+"item.railways.track_incomplete_twilightforest_timewood_narrow": "Trilho Estreito de Timewood Incompleto",
+"item.railways.track_incomplete_twilightforest_timewood_wide": "Trilho Largo de Timewood Incompleto",
+
+"item.railways.track_incomplete_twilightforest_transwood": "Trilho de Transwood Incompleto",
+"item.railways.track_incomplete_twilightforest_transwood_narrow": "Trilho Estreito de Transwood Incompleto",
+"item.railways.track_incomplete_twilightforest_transwood_wide": "Trilho Largo de Transwood Incompleto",
+
+"item.railways.track_incomplete_twilightforest_twilight_oak": "Trilho de Carvalho Crepuscular Incompleto",
+"item.railways.track_incomplete_twilightforest_twilight_oak_narrow": "Trilho Estreito de Carvalho Crepuscular Incompleto",
+"item.railways.track_incomplete_twilightforest_twilight_oak_wide": "Trilho Largo de Carvalho Crepuscular Incompleto",
+
+"item.railways.track_incomplete_warped": "Trilho Distorcido Incompleto",
+"item.railways.track_incomplete_warped_narrow": "Trilho Estreito Distorcido Incompleto",
+"item.railways.track_incomplete_warped_wide": "Trilho Largo Distorcido Incompleto",
+
+"item.railways.white_conductor_cap": "Chapéu de Condutor Branco",
+"item.railways.white_incomplete_conductor_cap": "Chapéu de Condutor Branco Incompleto",
+
+"item.railways.wooden_headstock": "Cabeçote de Madeira",
+"item.railways.wooden_headstock_buffer": "Cabeçote de Madeira (Amortecedor)",
+"item.railways.wooden_headstock_knuckle_coupler": "Cabeçote de Madeira (Engate de Cunha)",
+"item.railways.wooden_headstock_link_and_pin": "Cabeçote de Madeira (Link ‘n Pin)",
+"item.railways.wooden_headstock_link_and_pin_linkless": "Cabeçote de Madeira (Link ‘n Pin Sem Link)",
+"item.railways.wooden_headstock_screwlink_coupler": "Cabeçote de Madeira (Engate de Parafuso)",
+"item.railways.wooden_headstock_split_knuckle_coupler": "Cabeçote de Madeira (Engate de Cunha Dividido)",
+
+"item.railways.yellow_conductor_cap": "Chapéu de Condutor Amarelo",
+"item.railways.yellow_incomplete_conductor_cap": "Chapéu de Condutor Amarelo Incompleto",
+
+"itemGroup.railways": "Steam 'n' Rails",
+"itemGroup.railways_caps": "Steam 'n' Rails: Chapéus de Condutor",
+"itemGroup.railways_palettes": "Steam 'n' Rails: Paletas",
+"itemGroup.railways_tracks": "Steam 'n' Rails: Trilhos",
+
+"railways.bogeys.styles.archbar": "Archbar",
+"railways.bogeys.styles.blomberg": "Blomberg",
+"railways.bogeys.styles.coilspring": "Coilspring",
+"railways.bogeys.styles.freight": "Carga",
+"railways.bogeys.styles.handcar": "Drezina",
+"railways.bogeys.styles.heavyweight": "Peso-Pesado",
+"railways.bogeys.styles.invisible": "Invisível",
+"railways.bogeys.styles.invisible_monobogey": "Monobogie Invisível",
+
+"railways.bogeys.styles.large_create_style_0_10_0": "Estilo Create Grande 0-10-0",
+"railways.bogeys.styles.large_create_style_0_12_0": "Estilo Create Grande 0-12-0",
+"railways.bogeys.styles.large_create_style_0_4_0": "Estilo Create Grande 0-4-0",
+"railways.bogeys.styles.large_create_style_0_6_0": "Estilo Create Grande 0-6-0",
+"railways.bogeys.styles.large_create_style_0_8_0": "Estilo Create Grande 0-8-0",
+
+"railways.bogeys.styles.leafspring": "Leafspring",
+
+"railways.bogeys.styles.medium_10_0_10_tender": "Médio 10-0-10 (Tender)",
+"railways.bogeys.styles.medium_2_0_2_trailing": "Médio 2-0-2 (Traseiro)",
+"railways.bogeys.styles.medium_4_0_4_trailing": "Médio 4-0-4 (Traseiro)",
+"railways.bogeys.styles.medium_6_0_6_tender": "Médio 6-0-6 (Tender)",
+"railways.bogeys.styles.medium_6_0_6_trailing": "Médio 6-0-6 (Traseiro)",
+"railways.bogeys.styles.medium_8_0_8_tender": "Médio 8-0-8 (Tender)",
+
+"railways.bogeys.styles.medium_quadruple_wheel": "Médio Quádruplo",
+"railways.bogeys.styles.medium_quintuple_wheel": "Médio Quíntuplo",
+"railways.bogeys.styles.medium_single_wheel": "Médio Simples",
+"railways.bogeys.styles.medium_standard": "Médio Padrão",
+"railways.bogeys.styles.medium_triple_wheel": "Médio Triplo",
+
+"railways.bogeys.styles.modern": "Moderno",
+"railways.bogeys.styles.monobogey": "Monobogie",
+"railways.bogeys.styles.narrow_default": "Estreito",
+"railways.bogeys.styles.narrow_double_scotch": "Estreito Double Scotch Yoke",
+"railways.bogeys.styles.passenger": "Passageiro",
+"railways.bogeys.styles.radial": "Radial",
+"railways.bogeys.styles.singleaxle": "Eixo Único",
+"railways.bogeys.styles.wide_comically_large": "Enormemente Largo",
+"railways.bogeys.styles.wide_default": "Largo",
+"railways.bogeys.styles.y25": "Y25",
+
+"railways.buffer.invalid_shape": "Os amortecedores devem ser colocados em um trilho reto.",
+
+"railways.coupler.edge_spacing": "Espaçamento dos Vagões",
+"railways.coupler.edge_spacing.meters": "Metros",
+"railways.coupler.mode.both": "→ Acoplar & Desacoplar",
+"railways.coupler.mode.coupling": "→ Acoplar",
+"railways.coupler.mode.decoupling": "→ Desacoplar",
+
+"railways.display_source.coupler.coupling": "Acoplando: ",
+"railways.display_source.coupler.coupling.to": "para: ",
+"railways.display_source.coupler.decoupling": "Desacoplando: ",
+"railways.display_source.coupler.no_action": "Nenhuma Ação Disponível",
+
+"railways.display_source.signal.green": "Livre",
+"railways.display_source.signal.invalid": "Inválido",
+"railways.display_source.signal.red": "Perigo",
+"railways.display_source.signal.yellow": "Atenção",
+
+"railways.display_source.switch.normal": "Reto",
+"railways.display_source.switch.reverse_left": "Esquerda",
+"railways.display_source.switch.reverse_right": "Direita",
+
+"railways.display_source.track_coupler_info": "Informações do Acoplador de Trilho",
+"railways.display_source.track_switch_andesite_source": "Estado da Chave",
+"railways.display_source.track_switch_brass_source": "Estado da Chave",
+
+"railways.display_target.semaphore.distant": "Estado do Sinal Distante",
+"railways.display_target.semaphore.normal": "Estado do Sinal Normal",
+
+"railways.gui.bogey_menu.category.doubleaxles": "Eixos Duplos",
+"railways.gui.bogey_menu.category.favorites": "Favoritos",
+"railways.gui.bogey_menu.category.quadrupleaxles": "Eixos Quádruplos",
+"railways.gui.bogey_menu.category.quintupleaxles": "Eixos Quíntuplos",
+"railways.gui.bogey_menu.category.sextupleaxles": "Eixos Séxtuplos",
+"railways.gui.bogey_menu.category.singleaxles": "Eixo Único",
+"railways.gui.bogey_menu.category.tripleaxles": "Eixos Triplos",
+
+"railways.gui.bogey_menu.gauge_description": "Compatível com:",
+"railways.gui.bogey_menu.narrow_gauge": "Bitola Estreita",
+"railways.gui.bogey_menu.standard_gauge": "Bitola Padrão",
+"railways.gui.bogey_menu.title": "Prévia do Bogie",
+"railways.gui.bogey_menu.wide_gauge": "Bitola Larga",
+
+"railways.journeymap.train_marker_toggle": "Alternar Marcadores de Trem",
+
+"railways.keyinfo.bogey_menu": "Abrir Menu de Bogie",
+"railways.keyinfo.cycle_menu": "Abrir Menu Cíclico",
+
+"railways.ponder.conductor_constructing.header": "Construindo um Condutor",
+"railways.ponder.conductor_constructing.text_1": "Condutores são construídos com uma carcaça de andesito.",
+
+"railways.ponder.conductor_redstoning.header": "Redstone Remota com Condutores",
+"railways.ponder.conductor_redstoning.text_1": "Condutores podem apertar botões quando um jogador olha para eles.",
+"railways.ponder.conductor_redstoning.text_2": "Eles também alternam alavancas quando observados.",
+"railways.ponder.conductor_redstoning.text_3": "Condutores não ativam redstone se o jogador estiver usando um chapéu de cor diferente.",
+
+"railways.ponder.conductor_toolboxing.header": "Transporte de Caixas de Ferramentas com Condutores",
+"railways.ponder.conductor_toolboxing.text_1": "Caixas de ferramentas funcionam normalmente quando equipadas em Condutores.",
+
+"railways.ponder.door_modes.header": "Modos de Porta",
+"railways.ponder.door_modes.text_1": "Portas possuem vários modos: Normal, Manual e Especial.",
+"railways.ponder.door_modes.text_2": "Nos modos normal e manual, a porta pode ser operada manualmente.",
+"railways.ponder.door_modes.text_3": "E a operação por redstone funciona no modo normal e especial.",
+"railways.ponder.door_modes.text_4": "Portas nos modos normal e especial abrem e fecham quando a estrutura se move.",
+"railways.ponder.door_modes.text_5": "Portas no modo manual só mudam quando o jogador interage.",
+"railways.ponder.door_modes.text_6": "Portas no modo especial não podem ser alternadas apenas usando-as.",
+"railways.ponder.door_modes.text_7": "Agachar, porém, permite alternar a porta mesmo assim.",
+
+"railways.ponder.train_coupler.header": "Usando um Acoplador",
+"railways.ponder.train_coupler.text_1": "Selecione um Trilho e coloque o Acoplador próximo.",
+"railways.ponder.train_coupler.text_2": "O Acoplador permite acoplar e desacoplar trens sem desmontá-los.",
+"railways.ponder.train_coupler.text_3": "Com a chave inglesa, altere a distância entre as almofadas de acoplamento.",
+"railways.ponder.train_coupler.text_4": "Com a chave inglesa, alterne entre acoplar, desacoplar e ambos.",
+"railways.ponder.train_coupler.text_5": "Estações ajudam a alinhar trens para acoplamento.",
+"railways.ponder.train_coupler.text_6": "Ao energizar o acoplador, você acopla/desacopla um trem alinhado.",
+
+"railways.ponder.train_semaphore.header": "Visualizando Estados de Sinal com Semáforos",
+"railways.ponder.train_semaphore.text_1": "Semáforos são colocados sobre postes acima dos Sinais.",
+"railways.ponder.train_semaphore.text_2": "Postes de semáforo podem ser feitos de vários materiais.",
+"railways.ponder.train_semaphore.text_3": "Eles mostram o estado atual do sinal abaixo.",
+"railways.ponder.train_semaphore.text_4": "Se um sinal de latão tiver múltiplos caminhos válidos...",
+"railways.ponder.train_semaphore.text_5": "... um segundo semáforo pode ser colocado acima.",
+"railways.ponder.train_semaphore.text_6": "O semáforo inferior fecha se algum caminho estiver bloqueado.",
+"railways.ponder.train_semaphore.text_7": "O superior fecha se todos estiverem bloqueados.",
+"railways.ponder.train_semaphore.text_8": "Em sinais não-latão, ambos fecham simultaneamente.",
+
+"railways.ponder.train_switch.header": "Usando Chaves de Trilho",
+"railways.ponder.train_switch.text_1": "Selecione um Trilho e coloque a Chave próxima.",
+"railways.ponder.train_switch.text_2": "A Chave direciona trens que passam sobre o marcador.",
+"railways.ponder.train_switch.text_3": "Use para alternar para a direita.",
+"railways.ponder.train_switch.text_4": "Agache para alternar para a esquerda.",
+"railways.ponder.train_switch.text_5": "Chaves fornecem sinais de comparador: 1 esquerda, 0 reto, 2 direita.",
+"railways.ponder.train_switch.text_6": "A direção pode ser definida por redstone e bloqueada energizando a base.",
+"railways.ponder.train_switch.text_7": "Projéteis também alternam chaves ao atingir.",
+
+"railways.remote_lens.clear": "Lente remota limpa.",
+"railways.remote_lens.set": "Lente remota vinculada.",
+"railways.remote_lens.tool.bound_usage": "Use para espiar pelos olhos do condutor vinculado!",
+"railways.remote_lens.tool.not_bound": "Não vinculada — use em um condutor com óculos.",
+
+"railways.schedule.condition.loaded": "Chunk Carregado",
+"railways.schedule.condition.loaded.status": "Aguardando carregamento do chunk",
+
+"railways.schedule.instruction.redstone_link": "Energizar Link de Redstone",
+"railways.schedule.instruction.redstone_link.power": "Nível de Energia: %s",
+"railways.schedule.instruction.redstone_link.power_edit_box": "Nível de Energia",
+
+"railways.schedule.instruction.waypoint_destination": "Rota via Estação",
+
+"railways.smokestack.goggle.tooltip": "Estilo Selecionado: %s",
+"railways.smokestack.goggle.tooltip.color": "Cor do Corante Selecionada: %s",
+
+"railways.station.open_left": "Abrir Portas da Esquerda",
+"railways.station.open_right": "Abrir Portas da Direita",
+
+"railways.station.train_limit": "Limite",
+"railways.station.train_limit.tooltip.1": "Reservar estação antes do trem se aproximar",
+"railways.station.train_limit.tooltip.2": "para espaçar melhor trens em estações múltiplas.",
+
+"railways.switch.auto_mode": "Modo de Comutação",
+"railways.switch.state.normal": "→ Reto",
+"railways.switch.state.reverse_left": "→ Esquerda",
+"railways.switch.state.reverse_right": "→ Direita",
+
+"railways.tooltip.coupler.action.coupling": "Ação: Acoplar",
+"railways.tooltip.coupler.action.decoupling": "Ação: Desacoplar",
+"railways.tooltip.coupler.action.none": "Ação: Nenhuma disponível",
+
+"railways.tooltip.coupler.error.carriage_alignment": "Vagões desalinhados. Dica: o centro do bogie deve alinhar com o ponto do acoplador.",
+"railways.tooltip.coupler.error.carriage_orientation": "Vagões devem estar voltados na mesma direção. Use a chave inglesa.",
+"railways.tooltip.coupler.error.missing_train": "Requer ambos pontos ocupados.",
+"railways.tooltip.coupler.error.mode_not_permitted": "Ação não permitida neste modo.",
+
+"railways.tooltip.coupler.header": "Informações do Acoplador",
+"railways.tooltip.coupler.mode": "Modo do Acoplador:",
+"railways.tooltip.coupler.train1": "§lTrem 1: §r%s",
+"railways.tooltip.coupler.train2": "§lTrem 2: §r%s",
+
+"railways.tooltip.switch.header": "Informações da Chave",
+"railways.tooltip.switch.state": "Estado da Chave:",
+
+"railways.whistle.clear": "Apito desvinculado.",
+"railways.whistle.failure.conductor_missing": "Condutor não encontrado ou não está no trem vinculado.",
+"railways.whistle.failure.no_space": "Sem espaço para colocar bandeira.",
+"railways.whistle.failure.not_bound": "O apito deve ser vinculado primeiro.",
+"railways.whistle.failure.not_owner": "Você deve ser o dono do trem para cancelar a rota.",
+"railways.whistle.failure.train_missing": "Trem vinculado não encontrado.",
+"railways.whistle.not_owner": "Você deve ser o dono do trem para vincular o apito.",
+"railways.whistle.set": "Apito vinculado.",
+"railways.whistle.success": "O trem está a caminho.",
+"railways.whistle.tool.bound": "Vinculado a:",
+"railways.whistle.tool.bound_auto_clear": "Ou no ar para limpar a rota automática.",
+"railways.whistle.tool.bound_auto_usage": "Máquinas podem usar apitos em estações para chamar trens.",
+"railways.whistle.tool.bound_usage": "Use em um trilho ou estação para chamar o trem vinculado!",
+"railways.whistle.tool.conductor_id": "Condutor: §6%s§r",
+"railways.whistle.tool.not_bound": "Não vinculado — use em um condutor no trem.",
+"railways.whistle.tool.train_id": "Trem: §e%1$s§r (§6%2$s§r)",
+
+"sounds.railways.conductor_whistle": "Apitos de Condutor",
+
+"tag.block.railways.conductor_spy_usable": "Usável para Espiar Condutor",
+"tag.block.railways.locometal": "Locometal",
+"tag.block.railways.locometal_boilers": "Caldeiras de Locometal",
+"tag.block.railways.semaphore_poles": "Postes de Semáforo",
+"tag.block.railways.track_casing_blacklist": "Lista Negra de Envoltórios de Trilho",
+
+"tag.item.forge.string": "Corda",
+"tag.item.railways.caboosestyle_stack": "Chaminé Estilo Caboose",
+"tag.item.railways.coalburner_stack": "Chaminé Queima-Carvão",
+"tag.item.railways.conductor_caps": "Chapéus de Condutor",
+"tag.item.railways.copycat_headstocks": "Cabeçotes Copycat",
+"tag.item.railways.deco_couplers": "Acopladores Decorativos",
+"tag.item.railways.long_stack": "Chaminé Dupla",
+"tag.item.railways.not_train_fuel": "Não é Combustível de Trem",
+"tag.item.railways.oilburner_stack": "Chaminé Queima-Óleo",
+
+"tag.item.railways.palettes.cycle_groups.base": "Locometal",
+"tag.item.railways.palettes.cycle_groups.black": "Locometal Preto",
+"tag.item.railways.palettes.cycle_groups.blue": "Locometal Azul",
+"tag.item.railways.palettes.cycle_groups.brown": "Locometal Marrom",
+"tag.item.railways.palettes.cycle_groups.cyan": "Locometal Ciano",
+"tag.item.railways.palettes.cycle_groups.gray": "Locometal Cinza",
+"tag.item.railways.palettes.cycle_groups.green": "Locometal Verde",
+"tag.item.railways.palettes.cycle_groups.light_blue": "Locometal Azul-Claro",
+"tag.item.railways.palettes.cycle_groups.light_gray": "Locometal Cinza-Claro",
+"tag.item.railways.palettes.cycle_groups.lime": "Locometal Lima",
+"tag.item.railways.palettes.cycle_groups.magenta": "Locometal Magenta",
+"tag.item.railways.palettes.cycle_groups.orange": "Locometal Laranja",
+"tag.item.railways.palettes.cycle_groups.pink": "Locometal Rosa",
+"tag.item.railways.palettes.cycle_groups.purple": "Locometal Roxo",
+"tag.item.railways.palettes.cycle_groups.red": "Locometal Vermelho",
+"tag.item.railways.palettes.cycle_groups.white": "Locometal Branco",
+"tag.item.railways.palettes.cycle_groups.yellow": "Locometal Amarelo",
+
+"tag.item.railways.palettes.dye_groups.boiler": "Caldeiras de Locometal",
+"tag.item.railways.palettes.dye_groups.brass_wrapped_boiler": "Caldeiras de Locometal Revestidas de Latão",
+"tag.item.railways.palettes.dye_groups.brass_wrapped_slashed": "Locometal Revestido de Latão",
+"tag.item.railways.palettes.dye_groups.copper_wrapped_boiler": "Caldeiras de Locometal Revestidas de Cobre",
+"tag.item.railways.palettes.dye_groups.copper_wrapped_slashed": "Locometal Revestido de Cobre",
+"tag.item.railways.palettes.dye_groups.flat_riveted": "Locometal Rebitado Plano",
+"tag.item.railways.palettes.dye_groups.flat_slashed": "Locometal Listrado Plano",
+"tag.item.railways.palettes.dye_groups.iron_wrapped_boiler": "Caldeiras de Locometal Revestidas de Ferro",
+"tag.item.railways.palettes.dye_groups.iron_wrapped_slashed": "Locometal Revestido de Ferro",
+"tag.item.railways.palettes.dye_groups.pillar": "Pilares de Locometal",
+"tag.item.railways.palettes.dye_groups.plated": "Locometal Chapeado",
+"tag.item.railways.palettes.dye_groups.riveted": "Locometal Rebitado",
+"tag.item.railways.palettes.dye_groups.slashed": "Locometal Listrado",
+"tag.item.railways.palettes.dye_groups.smokebox": "Caixas de Fumaça de Locometal",
+
+"tag.item.railways.phantom_track_revealing": "Revelação de Trilho Fantasma",
+"tag.item.railways.streamlined_stack": "Chaminé Aerodinâmica",
+"tag.item.railways.woodburner_stack": "Chaminé Queima-Madeira",
+"tag.item.railways.wooden_headstocks": "Cabeçotes de Madeira"
+}

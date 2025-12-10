@@ -1,0 +1,26 @@
+{
+  "name": "Beterraba 🍂",
+  "category": "patchouli:crops",
+  "icon": "minecraft:beetroot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 24$(li)🍂 §4Outono$(li)Preço da Semente: :coin: 4$(li)Colheita: 1$(li)Tempo de Crescimento: 3 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Beterraba",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "minecraft:beetroots[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

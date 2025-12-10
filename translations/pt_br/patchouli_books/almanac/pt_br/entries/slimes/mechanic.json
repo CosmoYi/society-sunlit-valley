@@ -1,0 +1,17 @@
+{
+  "name": "Slime Mecânico",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:mechanic\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Fusão de Coração$(br2)$(l)Riscos:$()$(br)Segurará um item que lhe for dado até ser morto/dividido."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Mecânico",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:mechanic\"}",
+      "scale": 0.9
+    }
+  ]
+}

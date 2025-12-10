@@ -1,0 +1,17 @@
+{
+  "name": "Explogato",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:boomcat\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Bioma: Skull Caves (Caverna da Caveira)$(li)Fusão de Coração$(li)Locais de Escavação: Gelo, Bloco de Neve$(li)Matando Creepers (20% de chance)$(br2)$(l)Riscos:$()$(br)Causa explosões quando faminto que não quebram blocos."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Explogato",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:boomcat\"}",
+      "scale": 0.9
+    }
+  ]
+}

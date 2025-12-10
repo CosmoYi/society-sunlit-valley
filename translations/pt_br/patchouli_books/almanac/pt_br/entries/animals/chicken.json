@@ -1,0 +1,17 @@
+{
+  "name": "Galinha",
+  "category": "patchouli:animals",
+  "icon": "minecraft:egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: :coin: 256$(li)Ovo: Ovo$(li)Drops: Frango Cru, Pena$(br2)$(l)Notas$()$(br)Galinhas com fome não botam ovos, e galinhas infelizes botam muito menos."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:chicken",
+      "scale": 0.8,
+      "text": "Essas aves humildes exigem pouca atenção, apenas comida."
+    }
+  ]
+}

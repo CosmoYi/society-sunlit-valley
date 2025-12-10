@@ -1,0 +1,17 @@
+{
+  "name": "Sapo",
+  "category": "patchouli:animals",
+  "icon": "society:ribbit_gadget",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Coleta: Seiva (30% de chance), Coxa de Sapo (10% de chance), Gadget Ribbit (5% de chance), Froglights (25% de chance)$(br2)$(l)Notas$()$(br)Coletar requer 1+ coração. Pode ser encontrado em biomas de Pântano."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:frog",
+      "scale": 0.7,
+      "text": "Ama completar recompensas, odeia Slimes!"
+    }
+  ]
+}

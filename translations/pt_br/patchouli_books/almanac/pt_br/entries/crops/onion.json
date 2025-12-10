@@ -1,0 +1,26 @@
+{
+  "name": "Cebola 🌼",
+  "category": "patchouli:crops",
+  "icon": "farm_and_charm:onion",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 12$(li)🌼 §2Primavera§r$(li)Preço da Semente: :coin: 4$(li)Colheita: 1-4$(li)Tempo de Crescimento: 4 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Cebola",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "farm_and_charm:onion_crop[age=4]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

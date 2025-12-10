@@ -1,0 +1,18 @@
+{
+  "name": "Perca Comum",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:perch",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 16$(li)§0🌼 §2Primavera§0 §0🍂 §4Outono§0 §0❆ §bInverno§0$(li)Água: Água Doce$(li)Clima: Qualquer$(li)Horário: Primavera, Outono (Dia), Inverno (Noite)"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:perch",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Pensei que só pássaros fizessem isso."
+    }
+  ]
+}

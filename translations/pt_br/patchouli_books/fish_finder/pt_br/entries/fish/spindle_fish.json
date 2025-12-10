@@ -1,0 +1,18 @@
+{
+  "name": "Peixe Fuso",
+  "category": "patchouli:fish",
+  "icon": "unusualfishmod:raw_spindlefish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 368$(li)§0🌼 §2Spring§0$(li)Água: Oceano$(li)Clima: Qualquer$(li)Horário: Noite"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:spindlefish",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Está destinado a viver uma vida de coleta de Sparkstone."
+    }
+  ]
+}

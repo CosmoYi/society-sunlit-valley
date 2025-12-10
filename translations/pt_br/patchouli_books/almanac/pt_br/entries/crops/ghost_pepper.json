@@ -1,0 +1,26 @@
+{
+  "name": "Pimenta Fantasma 🔥",
+  "category": "patchouli:crops",
+  "icon": "vintagedelight:ghost_pepper",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 36$(li)🔥 §6Verão§r$(li)Preço da Semente: :coin: 64$(li)Colheita: 2-3$(li)Tempo de Crescimento: 7 days$(br2)$(l)Notas$()$(br)Sementes compradas apenas do Mestre Cultivador."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Pimenta Fantasma",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "vintagedelight:ghost_pepper_crop[age=7]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ender",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:ender\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Estrutura: Spawners de Slime de Umbra Barrens (Caverna da Caveira)$(br2)$(l)Riscos:$()$(br)Teleportará entidades para si mesmo e se teletransportará para fontes de alimento."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Ender",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:ender\"}",
+      "scale": 0.9
+    }
+  ]
+}

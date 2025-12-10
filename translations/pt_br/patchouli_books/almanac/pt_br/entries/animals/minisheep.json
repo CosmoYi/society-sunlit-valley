@@ -1,0 +1,17 @@
+{
+  "name": "Mini Ovelha",
+  "category": "patchouli:animals",
+  "icon": "society:fine_wool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li)Preço: :coin: 1.024$(li)Leite: Leite de Ovelha$(li)Tempo de Recarga do Leite: 2 dias$(li)Drops ao Tosquiar: Lã, Lã Fina $(li)Drops: Carneiro Cru, Lã$(br2)$(l)Notas$()$(br)Lã Fina só dropa com 6+ corações de afeição"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:minisheep",
+      "scale": 0.8,
+      "text": "A mais fofa das fofuras! A mais fina das lãs finas!"
+    }
+  ]
+}

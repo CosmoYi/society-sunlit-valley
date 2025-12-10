@@ -1,0 +1,41 @@
+{
+  "name": "Uvas 🌐",
+  "category": "patchouli:crops",
+  "icon": "vinery:red_grape",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 4$(li)🌐 §5O ano todo$(br2)$(l)Notas$()$(br)Uvas podem ser encontradas em Biomas específicos dependendo do nome. Elas podem ser cultivadas na grama ou na metade superior dos Caules de Videira para um impulso."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Caule de Videira",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "vinery:grapevine_stem[age=4,grape=red]",
+          "F": "vinery:grapevine_stem"
+        }
+      }
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Arbusto de Uva",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "vinery:red_grape_bush[age=3]",
+          "F": "minecraft:grass_block"
+        }
+      }
+    }
+  ]
+}

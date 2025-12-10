@@ -1,0 +1,26 @@
+{
+  "name": "Lúpulo 🔥",
+  "category": "patchouli:crops",
+  "icon": "brewery:hops",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 21$(li)🔥 §6Verão§r$(li)Colheita: 2$(li)Tempo de Crescimento: 6 days$(br2)$(l)Notas$()$(br)Encontrado em biomas tipo Taiga."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Lúpulo",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "brewery:hop_trellis[age=6]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

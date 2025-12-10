@@ -1,0 +1,17 @@
+{
+  "name": "Cachorro",
+  "category": "patchouli:pets",
+  "icon": "farm_and_charm:dog_food",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possíveis Presentes:$()$(br)Fóssil de Ovelha$(br)$(l)Item para Domesticar:$()$(br)Osso$(br2)$(l)Notas$()$(br)Pode ser encontrado em planícies."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:dog",
+      "scale": 0.7,
+      "text": "Não é muito fã de gatos."
+    }
+  ]
+}

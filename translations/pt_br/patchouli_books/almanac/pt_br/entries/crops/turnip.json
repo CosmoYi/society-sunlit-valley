@@ -1,0 +1,26 @@
+{
+  "name": "Nabo 🌼",
+  "category": "patchouli:crops",
+  "icon": "veggiesdelight:turnip",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Atributos$()$(li):coin: 36$(li)🌼 §2Primavera§r$(li)Preço da Semente: :coin: 6$(li)Rendimento: 1$(li)Tempo de Crescimento: 5 dias"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Nabo",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "veggiesdelight:turnip_crop[age=5]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

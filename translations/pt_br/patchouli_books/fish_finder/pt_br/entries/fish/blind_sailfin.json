@@ -1,0 +1,18 @@
+{
+  "name": "Valeiro Cego",
+  "category": "patchouli:fish",
+  "icon": "unusualfishmod:raw_blind_sailfin",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 224$(li)§0🌼 §2Primavera§0$(li)Água: Rio$(li)Clima: Qualquer$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:blindsailfin",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Cego? E velejando? Parece meio perigoso."
+    }
+  ]
+}

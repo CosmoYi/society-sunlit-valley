@@ -1,0 +1,48 @@
+{
+  "itemGroup.farmlife": "Vida na Fazenda",
+
+  "item.farmlife.tribull_shank": "Pernil de Tri-Touro Cru",
+  "item.farmlife.cooked_tribull_shank": "Pernil de Tri-Touro Cozido",
+  "item.farmlife.music_disc_life_on_the_farm": "Disco de Música",
+  "item.farmlife.music_disc_life_on_the_farm.desc": "Mr. Esuoh - Vida na Fazenda",
+  "item.farmlife.galliraptor_egg": "Ovo de Galiraptor",
+  "item.farmlife.galliraptor": "Galiraptor Cru",
+  "item.farmlife.cooked_galliraptor": "Galiraptor Cozido",
+  "item.farmlife.tribull_milk": "Balde de Leite de Tri-Touro",
+  "item.farmlife.tribull_cheese_wedge": "Fatia de Queijo de Tri-Touro",
+  "item.farmlife.cooked_fuli": "Fuli Cozido",
+  "item.farmlife.fuli": "Fuli Cru",
+
+  "item.farmlife.domestic_tribull_spawn_egg": "Ovo de Invocação de Tri-Touro Doméstico",
+  "item.farmlife.galliraptor_spawn_egg": "Ovo de Invocação de Galiraptor",
+  "item.farmlife.platefish_spawn_egg": "Ovo de Invocação de Platefish",
+
+  "block.farmlife.peacock_burst_poppy": "Papoula Iridescente",
+  "block.farmlife.electric_burst_poppy": "Papoula Elétrica",
+  "block.farmlife.fancy_burst_poppy": "Papoula Elegante",
+  "block.farmlife.olive_burst_poppy": "Papoula Oliva",
+  "block.farmlife.rusty_burst_poppy": "Papoula Enferrujada",
+  "block.farmlife.sunstreak_burst_poppy": "Papoula Raio-de-Sol",
+  "block.farmlife.potted_peacock_burst_poppy": "Papoula Iridescente em Vaso",
+  "block.farmlife.potted_electric_burst_poppy": "Papoula Elétrica em Vaso",
+  "block.farmlife.potted_fancy_burst_poppy": "Papoula Elegante em Vaso",
+  "block.farmlife.potted_olive_burst_poppy": "Papoula Oliva em Vaso",
+  "block.farmlife.potted_rusty_burst_poppy": "Papoula Enferrujada em Vaso",
+  "block.farmlife.potted_sunstreak_burst_poppy": "Papoula Raio-de-Sol em Vaso",
+  "block.farmlife.tribull_milk_cauldron": "Caldeirão de Leite de Tri-Touro",
+  "block.farmlife.tribull_cheese_wheel": "Roda de Queijo de Tri-Touro",
+  "block.farmlife.platefish_plate": "Prato de Platefish",
+
+  "entity.farmlife.domestic_tribull": "Tri-Touro Doméstico",
+  "entity.farmlife.galliraptor": "Galiraptor",
+  "entity.farmlife.galliraptor_egg": "Ovo de Galiraptor",
+  "entity.farmlife.platefish": "Platefish",
+
+  "farmlife.domestic_tribull.ambient": "Tri-Touro Doméstico grunhe",
+  "farmlife.domestic_tribull.hurt": "Tri-Touro Doméstico se machuca",
+  "farmlife.domestic_tribull.death": "Tri-Touro Doméstico morre",
+
+  "farmlife.galliraptor.ambient": "Galiraptor cacareja",
+  "farmlife.galliraptor.hurt": "Galiraptor se machuca",
+  "farmlife.galliraptor.death": "Galiraptor morre"
+}

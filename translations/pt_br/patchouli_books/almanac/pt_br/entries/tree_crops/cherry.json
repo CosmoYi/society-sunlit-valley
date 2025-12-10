@@ -1,0 +1,26 @@
+{
+    "name": "Cereja 🌼",
+    "category": "patchouli:colheitas_de_árvores",
+    "icon": "vinery:cherry",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Estatísticas$()$(li):coin: 12$(li)🌼 §2Primavera§r $(li)Colheita: 4$(li)Fases de crescimento: 8$(br2)$(l)Notas$()$(li)Ver: $(l:trees/pams/cherry)Árvore de Cereja$(/l)$(li)Ver: $(l:trees/letsdo/darkcherry)Árvore de Cereja Escura$(/l)"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Árvore de Cereja",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "F": "pamhc2trees:pamcherry[age=7]"
+                },
+                "pattern": [
+                    ["0"],
+                    ["F"]
+                ]
+            }
+        }
+    ]
+}

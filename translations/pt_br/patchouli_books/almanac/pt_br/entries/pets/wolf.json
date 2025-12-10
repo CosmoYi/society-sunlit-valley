@@ -1,0 +1,17 @@
+{
+  "name": "Lobo",
+  "category": "patchouli:pets",
+  "icon": "minecraft:bone",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Chapéu Orelhas de Raposa Longas, Fóssil de Lobo$(br2)$(l)Item de Domesticação:$()$(br)Osso"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:wolf",
+      "scale": 0.7,
+      "text": "O melhor amigo de todos"
+    }
+  ]
+}

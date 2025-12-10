@@ -1,0 +1,26 @@
+{
+  "name": "Fruta Antiga 🌼🔥🍂",
+  "category": "patchouli:crops",
+  "icon": "society:ancient_fruit",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 128$(li)🌼 §2Primavera§r 🔥 §6Verão§r 🍂 §4Outono$(li)Colheita: 1$(li)Tempo de Crescimento: 10 dias$(br2)$(l)Notas$()$(br)As sementes são incrivelmente raras. Uma Ancient Cog (Engrenagem Antiga) provavelmente será o caminho mais fácil."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Fruta Antiga",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "society:ancient_fruit[age=10]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

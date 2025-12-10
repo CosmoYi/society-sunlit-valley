@@ -1,0 +1,26 @@
+{
+  "name": "Gengibre ❆",
+  "category": "patchouli:crops",
+  "icon": "snowyspirit:ginger",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 24$(li)❆ §bInverno$(li)Preço da Semente: :coin: 4$(li)Colheita: 1$(li)Tempo de Crescimento: 7 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Gengibre",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "snowyspirit:ginger[age=7]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

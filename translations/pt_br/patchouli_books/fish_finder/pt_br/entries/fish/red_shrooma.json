@@ -1,0 +1,18 @@
+{
+  "name": "Peixomelo Vermelho",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:red_shrooma",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 264$(li)§0🍂 §4Outono§0$(li)Água: Oceano$(li)Clima: Chuva Neve$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:red_shrooma",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Aposto que é seguro comer."
+    }
+  ]
+}

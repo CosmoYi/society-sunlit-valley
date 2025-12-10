@@ -1,0 +1,17 @@
+{
+  "name": "Empoeirado",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:dusty\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Biomas: Desert Caves, Desert Fault (Caverna da Caveira)$(li)Locais de Escavação: Areia/pedra$(br2)$(l)Riscos:$()$(br)Causa o efeito Convulsão e raios quando irritado."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Empoeirado",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:dusty\"}",
+      "scale": 0.9
+    }
+  ]
+}

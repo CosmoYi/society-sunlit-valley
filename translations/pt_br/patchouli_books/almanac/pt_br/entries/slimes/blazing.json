@@ -1,0 +1,17 @@
+{
+  "name": "Flamejante",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:blazing\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Bioma: Blackstone Caves (Caverna da Caveira)$(li)Estrutura: Fortaleza do Nether, Baús de Bastion, Spawners de Slime do Nether$(li)Locais de Escavação: Blocos do Nether$(br2)$(l)Riscos:$()$(br)Inicia incêndios quando faminto e aumenta o dano de fogo quando irritado."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Flamejante",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:blazing\"}",
+      "scale": 0.9
+    }
+  ]
+}

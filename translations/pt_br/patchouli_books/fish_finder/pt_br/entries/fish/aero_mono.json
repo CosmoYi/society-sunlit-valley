@@ -1,0 +1,19 @@
+{
+  "name": "Mono Aéreo",
+  "category": "patchouli:peixe",
+  "icon": "unusualfishmod:raw_aero_mono",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 128$(li)§0❄ §bInverno§0$(li)Água: Doce$(li)Clima: Qualquer$(li)Hora: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:aero_mono",
+      "scale": 0.8,
+      "rotate": true,
+      "offset": -0.3,
+      "text": "Suprimento de ar? Pensei que você fosse um peixe."
+    }
+  ]
+}

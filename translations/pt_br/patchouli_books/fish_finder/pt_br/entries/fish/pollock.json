@@ -1,0 +1,18 @@
+{
+  "name": "Paloco",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:pollock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 56$(li)§0❆ §bInverno§0$(li)Água: Oceano$(li)Clima: Chuva Neve$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:pollock",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Tem cenoura grátis e cenoura paga? Pollocks."
+    }
+  ]
+}

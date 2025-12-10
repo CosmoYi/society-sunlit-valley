@@ -1,0 +1,17 @@
+{
+  "name": "Urso Pardo",
+  "category": "patchouli:pets",
+  "icon": "buzzier_bees:honey_apple",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Selo Beeomonican$(br2)$(l)Notas$()$(br)Só pode ser encontrado através de um ovo de desova (spawn egg), que está oculto na pesquisa JEI."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "buzzier_bees:grizzly_bear",
+      "scale": 0.6,
+      "text": "Eu me pergunto de onde eles vêm..."
+    }
+  ]
+}

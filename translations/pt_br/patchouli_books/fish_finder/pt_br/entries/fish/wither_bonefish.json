@@ -1,0 +1,19 @@
+{
+  "name": "Peixe-Osso Wither",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:wither_bonefish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 412$(li)Dimensão: Nether$(li)Bioma: Vale de Areia de Almas"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:wither_bonefish",
+      "scale": 0.8,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Bem, eu estive pulando por toda parte, mas minhas visões estavam diminuindo lentamente."
+    }
+  ]
+}

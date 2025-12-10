@@ -1,0 +1,28 @@
+{
+  "name": "Bagas Nojentas 🍂",
+  "category": "patchouli:crops",
+  "icon": "autumnity:foul_berries",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 4$(li)🍂 §4Outono§r$(li)Colheita: 2/4$(li)Estágios de Crescimento: 4/5$(li)Estágios de Rebrota: 1/2$(br2)$(l)Notas$()$(br)Encontrado em biomas de Floresta de Bordo$(br)Sem sementes, simplesmente plante o fruto.$(br)Tem 2 estágios de colheita"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Arbusto Alto de Frutas Fétidas",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["U"],
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "U": "autumnity:tall_foul_berry_bush[age=3,half=upper]",
+          "0": "autumnity:tall_foul_berry_bush[age=3,half=lower]",
+          "F": "minecraft:grass_block"
+        }
+      }
+    }
+  ]
+}

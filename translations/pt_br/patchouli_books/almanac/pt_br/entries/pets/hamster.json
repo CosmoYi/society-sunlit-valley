@@ -1,0 +1,18 @@
+{
+  "name": "Hamster",
+  "category": "patchouli:pets",
+  "icon": "hamsters:hamster",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presentes Possíveis:$()$(br)Gnomo Minúsculo$(br)$(l)Item de Domesticação:$()$(br)Sementes$()$(br2)$(l)Notas$()$(br)Pode ser encontrado em planícies. Eles não gostam de ser pegos, e isso irá zerar a afeição deles."
+    },
+    
+    {
+      "type": "patchouli:entity",
+      "entity": "hamsters:hamster",
+      "scale": 0.7,
+      "text": "Pode explodir quando alimentado"
+    }
+  ]
+}

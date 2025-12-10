@@ -1,0 +1,19 @@
+{
+  "name": "Peixe Olho",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:eyeball_fish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 408$(li)Dimensão: Nether$(li)Bioma: Floresta Carmesim"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:eyeball_fish",
+      "scale": 0.5,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Referência a Terraria???"
+    }
+  ]
+}

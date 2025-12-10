@@ -1,0 +1,17 @@
+{
+  "name": "Gato",
+  "category": "patchouli:pets",
+  "icon": "minecraft:cod",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Possíveis Presentes:$()$(br)Chapéu de Orelhas de Neko, Fóssil de Ocelote$(br2)$(l)Domesticação$()$(br)Peixe"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:cat",
+      "scale": 0.7,
+      "text": "Dê o nome de Coquito ao seu gato laranja e Basil ao cinza."
+    }
+  ]
+}

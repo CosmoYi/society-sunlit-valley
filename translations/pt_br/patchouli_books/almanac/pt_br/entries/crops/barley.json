@@ -1,0 +1,26 @@
+{
+  "name": "Cevada 🍂❆",
+  "category": "patchouli:crops",
+  "icon": "farm_and_charm:barley",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 11$(li)🍂 §4Outono §r❆ §bInverno$(li)Preço da Semente: :coin: 2$(li)Colheita: 2$(li)Tempo de Crescimento: 4 dias"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Cevada",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "farm_and_charm:barley_crop[age=4]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

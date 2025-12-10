@@ -1,0 +1,17 @@
+{
+  "name": "Bolinha",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:orby\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Locais:$()$(li)Estrutura: Cidade Antiga$(br2)$(l)Riscos:$()$(br)Possui Força I e causa o efeito de Escuridão quando irritado. Transforma efeitos negativos de outros Slimes em positivos. Segura um item dado a ele até ser morto/dividido."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Bolinha",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:orby\"}",
+      "scale": 0.9
+    }
+  ]
+}

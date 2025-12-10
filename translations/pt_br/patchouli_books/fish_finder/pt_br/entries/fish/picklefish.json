@@ -1,0 +1,18 @@
+{
+  "name": "Peixe Picles",
+  "category": "patchouli:fish",
+  "icon": "unusualfishmod:raw_picklefish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 48$(li)§0🍂 §4Outono§0$(li)Água: Oceano$(li)Clima: Chuva Neve$(li)Horário: Noite"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:picklefish",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Eu não vou fazer a piada — você pode fazer."
+    }
+  ]
+}

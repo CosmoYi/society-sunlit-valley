@@ -1,0 +1,28 @@
+{
+  "name": "Babosa 🔥",
+  "category": "patchouli:crops",
+  "icon": "atmospheric:aloe_leaves",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 16$(li)🔥 §6Verão§r$(li)Colheita: 1-2$(li)Estágios de Crescimento: 5-8$(br2)$(l)Notas$()$(br)Encontrada no bioma Flourishing Dunes.$(br)Colheitável no estágio 5.$(br)Dropa Flores Amarelas nos estágios mais altos."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Aloe Vera",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["1"],
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "1": "atmospheric:tall_aloe_vera[age=8,half=upper]",
+          "0": "atmospheric:tall_aloe_vera[age=8,half=lower]",
+          "F": "minecraft:sand"
+        }
+      }
+    }
+  ]
+}

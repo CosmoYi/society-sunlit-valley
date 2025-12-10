@@ -1,0 +1,17 @@
+{
+  "name": "Cochineal",
+  "category": "patchouli:animals",
+  "icon": "atmospheric:carmine_husk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Coleta: Carmine Husk, Fruta-do-Dragão (50% de chance) $(li)Drops: Carmine Husk$(br2)$(l)Notas$()$(br)Coletar requer 1+ corações."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "atmospheric:cochineal",
+      "scale": 0.5,
+      "text": "O material dos pesadelos — espero que seus blocos bonitos valham a pena."
+    }
+  ]
+}
