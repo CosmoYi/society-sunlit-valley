@@ -1,0 +1,17 @@
+{
+  "name": "Gosmento",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:slimy\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Estrutura: Spawners de Slime$(li)Locais de Escavação: Mundo Superior (Overworld)$(br2)$(l)Riscos:$()$(br)Quando transformado em um Largo, ele ficará irritado se não se alimentar de ambas as dietas (uma após a outra)."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Gosmento",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:slimy\"}",
+      "scale": 0.9
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Maçã 🍂",
+    "category": "patchouli:tree_crops",
+    "icon": "minecraft:apple",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Status$()$(li):coin: 8$(li)🍂 §4Outono§r $(li)Rendimento: 4$(li)Estágios de crescimento: 8$(br2)$(l)Notas$()$(li)Veja: $(l:trees/pams/apple)Pé de Maçã$(/l)$(li)Veja: $(l:trees/letsdo/apple)Pé de Maçã Escura$(/l)"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Pé de Maçã",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "F": "pamhc2trees:pamapple[age=7]"
+                },
+                "pattern": [
+                    ["0"],
+                    ["F"]
+                ]
+            }
+        }
+    ]
+}

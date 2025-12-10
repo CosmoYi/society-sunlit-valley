@@ -1,0 +1,17 @@
+{
+  "name": "Chorão",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:weeping\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Biomas: Biomas do Nether fora do Vale da Areia das Almas$(br2)$(l)Riscos:$()$(br)Chora periodicamente, enchendo a área com água."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Chorão",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:weeping\"}",
+      "scale": 0.9
+    }
+  ]
+}

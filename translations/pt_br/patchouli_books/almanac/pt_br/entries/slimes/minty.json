@@ -1,0 +1,17 @@
+{
+  "name": "Mentolado",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:minty\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Fusão de Coração$(br2)$(l)Riscos:$()$(br)Ataca jogadores, tem Força III, voa e causa o efeito Bêbado (Drunk) quando irritado. Tem uma chance de reviver quando morto por ataques de alto dano. Extremamente perigoso."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Mentolado",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:minty\"}",
+      "scale": 0.9
+    }
+  ]
+}

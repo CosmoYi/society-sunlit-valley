@@ -1,0 +1,17 @@
+{
+  "name": "Doce",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:sweet\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Fusão de Coração$(br2)$(l)Riscos:$()$(br)Causa o efeito Velocidade (Speed) quando irritado. Temperamento extremamente volátil."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Doce",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:sweet\"}",
+      "scale": 0.9
+    }
+  ]
+}

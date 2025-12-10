@@ -1,0 +1,17 @@
+{
+  "name": "Suculento",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:juicy\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Bioma: Lush Caverns (Caverna da Caveira)$(li)Estrutura: Colmeias de Abelhas (Caverna da Caveira)$(li)Fusão de Coração$(br2)$(l)Riscos:$()$(br)Sobe paredes! Causa o efeito Bêbado (Drunk) quando irritado."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Suculento",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:juicy\"}",
+      "scale": 0.9
+    }
+  ]
+}

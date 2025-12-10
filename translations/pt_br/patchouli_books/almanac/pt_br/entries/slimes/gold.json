@@ -1,0 +1,17 @@
+{
+  "name": "Dourado",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:gold\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Fusão de Coração$(br2)$(l)Riscos:$()$(br)Causa o efeito Mau Presságio (Bad Omen) quando irritado e drena 512 :coin: das contas bancárias de jogadores próximos por vez. Temperamento extremamente volátil."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Dourado",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:gold\"}",
+      "scale": 0.9
+    }
+  ]
+}
