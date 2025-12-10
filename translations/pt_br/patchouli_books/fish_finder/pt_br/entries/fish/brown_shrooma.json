@@ -1,0 +1,18 @@
+{
+  "name": "Peixomelo Marrom",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:brown_shrooma",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 264$(li)§0❆ §bInverno§0$(li)Água: Oceano$(li)Clima: Chuva Neve$(li)Horário: Qualquer"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:brown_shrooma",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Ele continua dizendo \"Não venha para \"."
+    }
+  ]
+}

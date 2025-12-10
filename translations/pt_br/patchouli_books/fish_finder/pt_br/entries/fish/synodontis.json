@@ -1,0 +1,18 @@
+{
+  "name": "Peixe-Gato Synodontis",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:synodontis",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 112$(li)\u00a70🔥 \u00a76Verão\u00a70$(li)Água: Rio$(li)Clima: Limpo$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:synodontis",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Parece um gatinho."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Pato",
+  "category": "patchouli:animals",
+  "icon": "untitledduckmod:duck_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: :coin: 512$(li)Ovo: Ovo de Pato$(li)Drops: Carne de Pato Crua, Pena de Pato$(br2)$(l)Notas$()$(br)Patos com fome não botam ovos, e patos infelizes botam muito menos."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "untitledduckmod:duck",
+      "scale": 0.8,
+      "text": "Com penas mais finas e mais carne, patos são melhores criados para drops do que galinhas."
+    }
+  ]
+}

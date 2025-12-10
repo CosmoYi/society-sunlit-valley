@@ -1,0 +1,19 @@
+{
+  "name": "Peixe Obsidiana",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:obsidianfish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 512$(li)Dimensão: Nether$(li)Bioma: Basalt Deltas"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:obsidianfish",
+      "scale": 0.8,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Ele realmente gosta de jogos de RPG. Não que possa jogar algum."
+    }
+  ]
+}

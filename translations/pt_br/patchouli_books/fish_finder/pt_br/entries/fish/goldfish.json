@@ -1,0 +1,18 @@
+{
+  "name": "Peixe Dourado",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:goldfish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 512$(li)\uD83D\uDD25 §6Verão§0$(li)Água: Oceano$(li)Clima: Limpo$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:starshell_turtle",
+      "scale": 0,
+      "rotate": true,
+      "text": "Boa sorte pegando um desses, sendo sincero."
+    }
+  ]
+}

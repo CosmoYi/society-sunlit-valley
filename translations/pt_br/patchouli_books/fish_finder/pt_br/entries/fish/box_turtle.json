@@ -1,0 +1,18 @@
+{
+  "name": "Tartaruga-de-caixa",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:box_turtle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 320$(li)🔥 §6Verão §0$(li)Água: Rio$(li)Clima: Chuva & Neve$(li)Horário: Noite"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:box_turtle",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Ela vai comer seu dedinho."
+    }
+  ]
+}

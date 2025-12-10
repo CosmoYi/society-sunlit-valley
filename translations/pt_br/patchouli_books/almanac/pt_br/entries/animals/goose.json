@@ -1,0 +1,17 @@
+{
+  "name": "Ganso",
+  "category": "patchouli:animals",
+  "icon": "untitledduckmod:goose_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Ovo de Ganso$(li)Drops: Ganso Cru, Pé de Ganso$(br2)$(l)Notas$()$(br)Gansos famintos não botam ovos, e gansos infelizes botam muito menos.. Podem ser domesticados com Capim-Marinho"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "untitledduckmod:goose",
+      "scale": 0.8,
+      "text": "Criaturas odiosas que roubarão seus itens e se defenderão quando atacadas."
+    }
+  ]
+}

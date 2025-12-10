@@ -1,0 +1,6 @@
+{
+    "name": "Slimes",
+	"description": "Fornece informações sobre onde encontrar Slimes Esplêndidos, bem como os riscos ao criá-los. Alguns Slimes só podem ser obtidos ao criar seus Corações de Slime em uma Prensa de Plorts. Isso é conhecido como “Fusão de Corações” nesta seção.",
+    "icon": "splendid_slimes:slime_heart{slime:{id:\"splendid_slimes:slimy\"}}",
+    "category": "patchouli:slimes"
+}

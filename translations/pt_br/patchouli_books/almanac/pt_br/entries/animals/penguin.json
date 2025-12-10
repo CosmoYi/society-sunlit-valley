@@ -1,0 +1,17 @@
+{
+  "name": "Pinguim",
+  "category": "patchouli:animals",
+  "icon": "society:penguin_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Ovo de Pinguim$(li)Drops: Pena$(br2)$(l)Notas$()$(br)Ovos exigem 2+ corações. Podem ser encontrados em oceanos congelados e biomas de Picos de Gelo."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:penguin",
+      "scale": 0.5,
+      "text": "Eu sou tipo um pinguim, mas versão mob do Minecraft!"
+    }
+  ]
+}

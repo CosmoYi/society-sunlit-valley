@@ -1,0 +1,17 @@
+{
+  "name": "Galiraptor",
+  "category": "patchouli:animals",
+  "icon": "farmlife:galliraptor_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Ovo de Galiraptor$(li)Drops: Galiraptor Cru, Pena$(br2)$(l)Notas$()$(br)Criado usando um Soro de Mutação Lunar em um Goober. Galiraptores com fome não botam ovos, e Galiraptores infelizes botam muito menos."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "farmlife:galliraptor",
+      "scale": 0.7,
+      "text": "É pré-histórico? Ou pós-histórico?"
+    }
+  ]
+}

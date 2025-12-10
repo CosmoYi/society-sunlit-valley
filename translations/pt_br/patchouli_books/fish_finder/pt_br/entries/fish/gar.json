@@ -1,0 +1,18 @@
+{
+  "name": "Peixe-Jacaré",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:gar",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 88$(li)\u00a70🍂 \u00a74Outono\u00a70$(li)Água: Doce$(li)Clima: Chuva Neve$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:gar",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Alguém pegue suas *gar*chas."
+    }
+  ]
+}

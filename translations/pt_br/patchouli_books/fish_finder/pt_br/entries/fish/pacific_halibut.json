@@ -1,0 +1,18 @@
+{
+  "name": "Linguado do Pacífico",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:pacific_halibut",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 400$(li)§0❆ §bWinter§0$(li)Água: Oceano$(li)Clima: Qualquer$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:pacific_halibut",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Amo um bom city pop."
+    }
+  ]
+}

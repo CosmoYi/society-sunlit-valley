@@ -1,0 +1,18 @@
+{
+  "name": "Peixe Koi",
+  "category": "patchouli:fish",
+  "icon": "crittersandcompanions:koi_fish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 340$(li)\u00a70🔥 \u00a76Verão\u00a70$(li)Água: Doce$(li)Clima: Limpo$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "crittersandcompanions:koi_fish",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Pare de ser tão 'koi'..."
+    }
+  ]
+}

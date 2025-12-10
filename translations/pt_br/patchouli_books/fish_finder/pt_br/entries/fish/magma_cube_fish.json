@@ -1,0 +1,19 @@
+{
+  "name": "Peixe Cubo de Magma",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:magmacubefish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 620$(li)Dimensão: Nether$(li)Bioma: Basalt Deltas"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:magmacubefish",
+      "scale": 0.5,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Um habitante saltitante de lava inchado"
+    }
+  ]
+}

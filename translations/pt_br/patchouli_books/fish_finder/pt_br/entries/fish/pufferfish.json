@@ -1,0 +1,18 @@
+{
+  "name": "Baiacu",
+  "category": "patchouli:fish",
+  "icon": "minecraft:pufferfish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 16$(li)§0🌼 §2Primavera§0 🔥 §6Verão§0 🍂 §4Outono§0$(li)Água: Oceano$(li)Clima: Limpo$(li)Horário: Noite"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:pufferfish",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Ele tem um mod de habilidades bem decente."
+    }
+  ]
+}

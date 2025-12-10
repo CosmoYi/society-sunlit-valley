@@ -1,0 +1,17 @@
+{
+  "name": "Flamingo",
+  "category": "patchouli:animals",
+  "icon": "society:flamingo_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Ovo de Flamingo$(li)Drops: Pena$(br2)$(l)Notas$()$(br)Ovos exigem 4+ corações. Não pode procriar."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:flamingo",
+      "scale": 0.5,
+      "text": "Mostre sua tonalidade natural, Flamingo!"
+    }
+  ]
+}

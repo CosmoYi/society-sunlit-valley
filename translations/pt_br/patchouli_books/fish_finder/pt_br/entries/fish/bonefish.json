@@ -1,0 +1,19 @@
+{
+  "name": "Peixe-Osso",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:bonefish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 364$(li)Dimensão: Nether$(li)Bioma: Nether Wastes"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:bonefish",
+      "scale": 0.8,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Um peacebone foi encontrado na ala dos dinossauros."
+    }
+  ]
+}

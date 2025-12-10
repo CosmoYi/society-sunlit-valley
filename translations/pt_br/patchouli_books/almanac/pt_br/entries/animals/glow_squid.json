@@ -1,0 +1,17 @@
+{
+  "name": "Lula Brilhante",
+  "category": "patchouli:animals",
+  "icon": "minecraft:glow_ink_sac",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Saco de Tinta$(li)Recarga do Leite: 1 dia$(li)Coleta: Tentáculos de Lula Brilhante (20% de chance), Tinta Lendária (10% de chance) $(li)Drops: Saco de Tinta Brilhante$(br2)$(l)Notas$()$(br)Coleta desbloqueada com 5+ corações de afeição"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:glow_squid",
+      "scale": 0.4,
+      "text": "Ordenhar uma lula?."
+    }
+  ]
+}

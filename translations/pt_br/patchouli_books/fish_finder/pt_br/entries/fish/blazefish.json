@@ -1,0 +1,19 @@
+{
+  "name": "Peixe-Labareda",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:blazefish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 408$(li)Dimensão: Nether$(li)Bioma: Qualquer"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:blazefish",
+      "scale": 0.5,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "É meio como se fosse Urânio, mas de fogo."
+    }
+  ]
+}
