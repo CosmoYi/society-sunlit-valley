@@ -1,0 +1,19 @@
+{
+  "name": "Goby Âmbar",
+  "category": "patchouli:fish",
+  "icon": "unusualfishmod:raw_amber_goby",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 288$(li)\u00a70\ud83c\udf42 \u00a74Outono\u00a70$(li)Água: Doce$(li)Clima: Limpo$(li)Horário: Noite"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:amber_goby",
+      "scale": 0.8,
+      "rotate": true,
+      "offset": -0.3,
+      "text": "Âmbar como o cabelo da amada."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Pirarucu",
+  "category": "patchouli:fish",
+  "icon": "aquaculture:arapaima",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 224$(li)\u00a70\ud83d\udd25 \u00a76Verão\u00a70$(li)Água: Doce$(li)Clima: Chuva Neve$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "aquaculture:arapaima",
+      "scale": 0.8,
+      "rotate": true,
+      "default_rotation": 180,
+      "offset": -0.3,
+      "text": "Grandalhão :)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Gourami Caído",
+  "category": "patchouli:fish",
+  "icon": "unusualfishmod:raw_drooping_gourami",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 176$(li)§0🌼 §2Primavera§0$(li)Água: Oceano$(li)Clima: Qualquer$(li)Horário: Dia"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:drooping_gourami",
+      "scale": 0.8,
+      "rotate": true,
+      "offset": -0.8,
+      "text": "Droop dropp glip glorp."
+    }
+  ]
+}

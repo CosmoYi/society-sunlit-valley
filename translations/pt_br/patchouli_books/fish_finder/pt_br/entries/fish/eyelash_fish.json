@@ -1,0 +1,18 @@
+{
+  "name": "Peixe Cílio",
+  "category": "patchouli:fish",
+  "icon": "unusualfishmod:raw_eyelash",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 480$(li)§0🌼 §2Primavera§0$(li)Água: Doce$(li)Clima: Limpo$(li)Horário: Noite"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:eyelash",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Angelina Fishlie?"
+    }
+  ]
+}

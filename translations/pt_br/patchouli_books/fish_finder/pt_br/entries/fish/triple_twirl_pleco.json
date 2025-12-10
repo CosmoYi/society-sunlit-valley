@@ -1,0 +1,18 @@
+{
+  "name": "Cascudo de Giro Triplo",
+  "category": "patchouli:fish",
+  "icon": "unusualfishmod:raw_triple_twirl_pleco",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):Moedas: 208$(li)\u00a70❆ \u00a7bInverno\u00a70$(li)Água: Oceano$(li)Clima: Qualquer$(li)Horário: Noite"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "unusualfishmod:triple_twirl_pleco",
+      "scale": 0.8,
+      "rotate": true,
+      "text": "Lá vou eu girando três vezes de novo."
+    }
+  ]
+}

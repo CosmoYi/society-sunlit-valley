@@ -1,0 +1,19 @@
+{
+  "name": "Baiacu de Lava",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:lava_pufferfish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 264$(li)Dimensão: Nether$(li)Bioma: Qualquer"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:lava_pufferfish",
+      "scale": 0.8,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Ele realmente gosta de levar pancada de uma Prensa Mecânica."
+    }
+  ]
+}

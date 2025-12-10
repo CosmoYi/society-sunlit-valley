@@ -1,0 +1,19 @@
+{
+  "name": "Dine Brilhante",
+  "category": "patchouli:fish",
+  "icon": "netherdepthsupgrade:glowdine",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li):coin: 448$(li)Dimensão: Nether$(li)Bioma: Floresta Deformada"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "netherdepthsupgrade:glowdine",
+      "scale": 0.5,
+      "offset": -0.3,
+      "rotate": true,
+      "text": "Peixe irrigador."
+    }
+  ]
+}
