@@ -1,0 +1,17 @@
+{
+  "name": "que Tudo Vê",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:all_seeing\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Fusão de Coração (Heart fusion)$(br2)$(l)Riscos:$()$(br)Sobe paredes e causa o efeito Veneno quando irritado."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime que Tudo Vê",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:all_seeing\"}",
+      "scale": 0.9
+    }
+  ]
+}

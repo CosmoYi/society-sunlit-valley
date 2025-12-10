@@ -1,0 +1,17 @@
+{
+  "name": "Bear",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:bear\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Fusão de Coração (Heart fusion)$(br2)$(l)Riscos:$()$(br)Ama você e te deixa pegajoso de mel"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Bear",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:bear\"}",
+      "scale": 0.9
+    }
+  ]
+}

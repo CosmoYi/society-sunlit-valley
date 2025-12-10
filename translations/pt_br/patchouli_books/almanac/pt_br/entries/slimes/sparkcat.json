@@ -1,0 +1,17 @@
+{
+  "name": "Gato Faísca",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:sparkcat\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Estrutura: Spawners de Slime de Umbra Barrens (Caverna da Caveira)$(li)Fusão de Coração$(br2)$(l)Riscos:$()$(br)Causa o efeito Ataque de Raio (Lightning Strike) quando irritado. Explode violentamente quando furioso e é muito escorregadio. Temperamento extremamente volátil."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Sparkcat",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:sparkcat\"}",
+      "scale": 0.9
+    }
+  ]
+}

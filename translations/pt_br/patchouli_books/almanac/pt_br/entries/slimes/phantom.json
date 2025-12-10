@@ -1,0 +1,17 @@
+{
+  "name": "Fantasma",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:phantom\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text", 
+      "text": "$(l)Localizações:$()$(li)Bioma: Umbra Barrens (Caverna da Caveira)$(br2)$(l)Riscos:$()$(br)Voa e causa o efeito Hearthstone (teleporta você para o seu ponto de renascimento) quando irritado."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Fantasma",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:phantom\"}",
+      "scale": 0.9
+    }
+  ]
+}

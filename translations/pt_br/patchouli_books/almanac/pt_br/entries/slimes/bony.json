@@ -1,0 +1,17 @@
+{
+  "name": "Ossudo",
+  "category": "patchouli:slimes",
+  "icon": "splendid_slimes:plort{plort:{id:\"splendid_slimes:bony\"}}",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Localizações:$()$(li)Bioma: Soul Sand Valley (Vale da Areia das Almas)$(li)Estrutura: Spawners de Slime do Mundo Superior$(li)Locais de Escavação: Todos$(li)Caixas de Balão: Vermelho$(br2)$(l)Riscos:$()$(br)Apenas feliz por estar aqui!"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Slime Ossudo",
+      "entity": "splendid_slimes:splendid_slime{Breed:\"splendid_slimes:bony\"}",
+      "scale": 0.9
+    }
+  ]
+}

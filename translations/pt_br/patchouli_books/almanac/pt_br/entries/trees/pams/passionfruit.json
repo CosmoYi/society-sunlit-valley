@@ -1,0 +1,83 @@
+{
+    "name": "Pé de Maracujá 🌼",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:passionfruit_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Status$()$(li)🌼 §2Primavera§r $(li)Tamanho: 1x1$(li)Produz:$(l:tree_crops/passionfruit)8x Maracujá$(/l)$(br2)$(l)Notas$()$(li)Mudas ganhas na Máquina de Prêmios."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Pé de Maracujá",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:jungle_leaves",
+                    "L": "minecraft:jungle_leaves",
+                    "W": "minecraft:jungle_log[axis=y]",
+                    "F": "pamhc2trees:pampassionfruit[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        " FFF ",
+                        " FWF ",
+                        " FFF ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Pé de Pêssego 🔥",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:peach_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Status$()$(li)🔥 §6Verão§r $(li)Preço: :coin: 16,384$(li)Tamanho: 1x1$(li)Produz:$(l:tree_crops/peach)8x Pêssegos$(/l)$(br2)$(l)Notas$()$(li)Mudas compradas no Mercado."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Pé de Pêssego",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:oak_leaves",
+                    "L": "minecraft:oak_leaves",
+                    "W": "minecraft:oak_log[axis=y]",
+                    "F": "pamhc2trees:pampeach[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        " FFF ",
+                        " FWF ",
+                        " FFF ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            }
+        }
+    ]
+}

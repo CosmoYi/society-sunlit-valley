@@ -1,0 +1,82 @@
+{
+    "name": "Pé de Canela 🍂❆",
+    "category": "patchouli:trees",
+    "icon": "pamhc2trees:cinnamon_sapling",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Status$()$(li)🍂 §4Outono§r ❆ §bInverno§r $(li)Tamanho: 1x1$(li)Produz:$(l:tree_crops/cinnamon)4-6 Canelas$(/l)$(br2)$(l)Notas$()$(li)Mudas obtidas com o Comerciante Exótico."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name ": "Pé de Canela",
+            "enable_visualize": false,
+            "multiblock": {
+                "mapping": {
+                    "0": "minecraft:jungle_leaves",
+                    "L": "minecraft:jungle_leaves",
+                    "W": "pamhc2trees:pamcinnamon[age=7]"
+                },
+                "pattern": [
+                    [
+                        "     ",
+                        "     ",
+                        "  0  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  L  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        " LLL ",
+                        " LWL ",
+                        " LLL ",
+                        "     "
+                    ],
+                    [
+                        "LLLLL",
+                        "LLLLL",
+                        "LLWLL",
+                        "LLLLL",
+                        "LLLLL"
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ],
+                    [
+                        "     ",
+                        "     ",
+                        "  W  ",
+                        "     ",
+                        "     "
+                    ]
+                ]
+            }
+        }
+    ]
+}
