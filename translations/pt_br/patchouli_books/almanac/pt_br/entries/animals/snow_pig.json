@@ -1,0 +1,17 @@
+{
+  "name": "Porco da Neve",
+  "category": "patchouli:animals",
+  "icon": "snowpig:frozen_porkchop",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li)Preço: Não vendido$(li)Forrageio: Trufa (20% de chance)$(li)Drops: Costelinha de Porco Congelada$(br2)$(l)Notas$()$(br)Forragear exige 4+ corações de afeição. Pode ser encontrado em biomas nevados e não é afetado pelo frio do Inverno."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "snowpig:snow_pig",
+      "scale": 0.7,
+      "text": "Um Porco que parece ter sido consumido pela geada. Talvez exista uma forma de criar esses..."
+    }
+  ]
+}

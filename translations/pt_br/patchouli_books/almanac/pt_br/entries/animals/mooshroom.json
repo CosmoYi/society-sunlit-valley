@@ -1,0 +1,17 @@
+{
+  "name": "Mooshroom",
+  "category": "patchouli:animals",
+  "icon": "minecraft:red_mushroom",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li)Preço: Não vendido$(li)Leite: Leite$(li)Tempo de Recarga do Leite: 1 dia$(li)Forrageio: Trufa (20% de chance), assentos de cogumelo (2% de chance)$(li)Drops: Carne Crua, Couro$(br2)$(l)Notas$()$(br)Forragear trufas requer 4+ corações de afeição. Assentos de cogumelo requerem 8+."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:mooshroom",
+      "scale": 0.8,
+      "text": "Uma raridade que produz cogumelos com elegância."
+    }
+  ]
+}

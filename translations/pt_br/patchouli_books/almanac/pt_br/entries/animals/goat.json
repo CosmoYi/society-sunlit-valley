@@ -1,0 +1,17 @@
+{
+  "name": "Cabra",
+  "category": "patchouli:animals",
+  "icon": "society:large_goat_milk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: :coin: 16.384$(li)Leite: Leite de Cabra$(li)Recarga do Leite: 2 dias$(li)Drops: Chifre de Cabra$(br2)$(l)Notas$()$(br)Chifres de cabra são um produto de Aventureiro, que pode ser bem aproveitado"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:goat",
+      "scale": 0.8,
+      "text": "Difíceis de criar, mas o valor de seus chifres e queijos compensa o esforço."
+    }
+  ]
+}

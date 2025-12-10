@@ -1,0 +1,26 @@
+{
+  "name": "Mirtilo 🔥",
+  "category": "patchouli:crops",
+  "icon": "society:blueberry",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 24$(li)🔥 §6Verão§r$(li)Preço da Semente: :coin: 4$(li)Colheita: 3-4$(li)Tempo de Crescimento: 7 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Mirtilo",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "society:blueberry[age=7]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Vaca",
+  "category": "patchouli:animals",
+  "icon": "society:large_milk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: :coin: 512$(li)Leite: Leite$(li)Recarga do Leite: 1 dia$(li)Drops: Carne Crua, Couro"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:cow",
+      "scale": 0.8,
+      "text": "O animal de fazenda básico. Fácil de criar, mas não muito valioso."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Farejador",
+  "category": "patchouli:animals",
+  "icon": "minecraft:sniffer_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li)Preço: Não vendido$(li)Ovo: Ovo de Farejador$(li)Forrageio: Fragmentos de Artefato$(br2)$(l)Notas$()$(br)Forragear exige 5+ corações."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:sniffer",
+      "scale": 0.8,
+      "text": "Eles adoram cavar a terra em busca de coisas antigas."
+    }
+  ]
+}

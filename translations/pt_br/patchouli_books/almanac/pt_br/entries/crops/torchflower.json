@@ -1,0 +1,26 @@
+{
+  "name": "PlanTocha 🔥",
+  "category": "patchouli:crops",
+  "icon": "minecraft:torchflower",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 128$(li)🔥 §6Verão§r$(li)Colheita: 1$(li)Tempo de Crescimento: 4 days$(br2)$(l)Notas$()$(br)Sementes escavadas por Farejadores (Sniffers)"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Flor da Tocha",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "minecraft:torchflower",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

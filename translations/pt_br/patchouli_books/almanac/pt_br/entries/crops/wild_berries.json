@@ -1,0 +1,26 @@
+{
+  "name": "Frutas Silvestres ❆",
+  "category": "patchouli:crops",
+  "icon": "windswept:wild_berries",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 8$(li)❆ §bInverno$(li)Rendimento: 1-2$(li)Tempo de crescimento: 2/3 dias$(li)Tempo de rebrota: 1/2 dias$(br2)$(l)Notas:$()$(br)Encontradas em biomas nevados.$(br)Não possuem sementes, apenas plante a fruta."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Arbusto de Frutas Silvestres",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "windswept:wild_berry_bush[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

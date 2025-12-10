@@ -1,0 +1,17 @@
+{
+  "name": "Coelho",
+  "category": "patchouli:animals",
+  "icon": "minecraft:rabbit_foot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: :coin: 4.096$(li)Forrageio: Lã Fina (50% de chance), Pé de Coelho (16% de chance)$(li)Drops: Coelho Cru, Pele de Coelho$(br2)$(l)Notas$()$(br)Forragear Lã Fina exige 3+ corações, e Pé de Coelho exige 7+."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:rabbit",
+      "scale": 0.8,
+      "text": "Eles odeiam receber carinho, mas se gostarem de você o suficiente vão te dar pés extras... De algum jeito..."
+    }
+  ]
+}

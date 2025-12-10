@@ -1,0 +1,17 @@
+{
+  "name": "Ovelha",
+  "category": "patchouli:animals",
+  "icon": "society:large_sheep_milk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li)Preço: :coin: 1,024$(li)Leite: Leite de Ovelha$(li)Recarga do Leite: 2 dias$(li)Ao tosquiar: Lã, Lã Fina (50% de chance) $(li)Drops: Carne de Carneiro Crua, Lã$(br2)$(l)Notas$()$(br)Lã Fina só cai com 5+ corações de afeição"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:sheep",
+      "scale": 0.8,
+      "text": "Um animal de fazenda versátil com muitas utilidades. Menos do que ideal para ordenha."
+    }
+  ]
+}

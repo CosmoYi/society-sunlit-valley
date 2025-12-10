@@ -1,0 +1,17 @@
+{
+  "name": "Búfalo-d'Água",
+  "category": "patchouli:animals",
+  "icon": "society:large_buffalo_milk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Leite de Búfalo$(li)Recarga do Leite: 1 dia$(li)Drops: Carne de Búfalo Crua, Couro$(br2)$(l)Notas$()$(br)Encontrado ao longo de rios, especialmente em biomas de Savana."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "meadow:water_buffalo",
+      "scale": 0.7,
+      "text": "Grandes e robustos, seus drops e leite são altamente valorizados."
+    }
+  ]
+}

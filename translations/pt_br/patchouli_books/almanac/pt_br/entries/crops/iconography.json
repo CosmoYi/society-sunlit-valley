@@ -1,0 +1,17 @@
+{
+  "sortnum": -1,
+  "name": "Iconografia",
+  "category": "patchouli:crops",
+  "icon": "minecraft:written_book",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Para facilitar a visualização das colheitas e suas estações neste capítulo, os seguintes ícones são usados:$(li)🌼 §2Primavera$(li)🔥 §6Verão$(li)🍂 §4Outono$(li)❆ §bInverno$(li)🌐 §5O ano todo"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Duração do Crescimento",
+      "text": "$(li)Tempo de Crescimento: A colheita cresce às 6:00 AM.$(li)Estágios de Crescimento: A colheita cresce aleatoriamente."
+    }
+  ]
+}

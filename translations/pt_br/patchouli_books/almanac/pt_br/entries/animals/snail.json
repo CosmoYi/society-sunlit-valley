@@ -1,0 +1,17 @@
+{
+  "name": "Caracol",
+  "category": "patchouli:animals",
+  "icon": "autumnity:snail_shell_piece",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li)Preço: Não vendido$(li)Forrageio: Concha de Caracol$(li)Drops: Gosma de Caracol$(br2)$(l)Notas$()$(br)Forragear exige 3+ corações."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "autumnity:snail",
+      "scale": 0.8,
+      "text": "Eles odeiam carinho, mas se gostarem de você o bastante vão te dar seus pés extras... De algum jeito..."
+    }
+  ]
+}

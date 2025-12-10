@@ -1,0 +1,17 @@
+{
+  "name": "Ovelha Lanosa",
+  "category": "patchouli:animals",
+  "icon": "meadow:rocky_wool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Leite de Ovelha$(li)Recarga do Leite: 2 dias$(li)Drops ao tosquiar: Lã, Lã Fina (50% de chance) $(li)Drops: Carneiro Cru, Lã$(br2)$(l)Notas$()$(br)Lã Fina só cai com 5+ corações de afeição"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "meadow:wooly_sheep",
+      "scale": 0.8,
+      "text": "Uma ovelha com 4 variantes que dropam lã com padrões."
+    }
+  ]
+}

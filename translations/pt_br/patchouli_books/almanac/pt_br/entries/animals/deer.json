@@ -1,0 +1,17 @@
+{
+  "name": "Cervo",
+  "category": "patchouli:animals",
+  "icon": "society:dried_foul_berries",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Forrageio: Frutas Secas (25% de chance)$(li)Drops: Carne de Cervo, Couro$(br2)$(l)Notas$()$(br)Forrageio requer 3+ corações. Pode ser encontrado em biomas de Floresta."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:deer",
+      "scale": 0.7,
+      "text": "Cervos costumam procurar frutas silvestres e as compartilham se gostarem de você! Mas por que elas vêm secas...?"
+    }
+  ]
+}

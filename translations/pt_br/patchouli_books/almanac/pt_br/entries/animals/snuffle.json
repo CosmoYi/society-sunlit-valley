@@ -1,0 +1,17 @@
+{
+  "name": "Snuffle",
+  "category": "patchouli:animals",
+  "icon": "snuffles:snuffle_fluff",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Corte: Penugem de Snuffle, Penugem Congelada, Lã Fina (50% de chance), Pelo Congelado (20% de chance) $(li)Drops: Lágrima Congelada$(br2)$(l)Notas$()$(br)Lã Fina só cai com 5+ corações de afeição. Pelo Congelado requer 7+. A pelagem cresce lentamente com o tempo e fica congelada na neve."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "snuffles:snuffle",
+      "scale": 0.8,
+      "text": "Pode ser alimentado com Bolas de Slime para mudar o penteado!!!"
+    }
+  ]
+}

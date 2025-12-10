@@ -1,0 +1,17 @@
+{
+  "name": "Distráptor",
+  "category": "patchouli:animals",
+  "icon": "species:wraptor_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Ovo de Distráptor $(br2)$(l)Notas$()$(br)Ovos exigem 2+ corações. Podem ser encontrados nas Florestas Distorcidas. Vão sumir se não tiverem uma etiqueta!"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "species:wraptor",
+      "scale": 0.8,
+      "text": "Eles odeiam ficar longe do conforto quente do Nether."
+    }
+  ]
+}

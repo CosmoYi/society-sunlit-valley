@@ -1,0 +1,17 @@
+{
+  "name": "Tri-Touro Doméstico",
+  "category": "patchouli:animals",
+  "icon": "society:large_tri_bull_milk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Leite de Tri-Touro$(li)Recarga do Leite: 1 dia$(li)Drops: Pernil de Tri-Touro Cru, Couro $(br2)$(l)Notas$()$(br)Criado ao usar um Soro de Mutação Lunar em uma Vaca."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "farmlife:domestic_tribull",
+      "scale": 0.6,
+      "text": "Ele não é deste mundo... Comer seu queijo limpa você de um efeito de poção."
+    }
+  ]
+}

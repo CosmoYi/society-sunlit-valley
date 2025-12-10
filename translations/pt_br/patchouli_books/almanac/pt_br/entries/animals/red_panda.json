@@ -1,0 +1,17 @@
+{
+  "name": "Panda-Vermelho",
+  "category": "patchouli:animals",
+  "icon": "society:ruby",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Forrageio: Rubi (20% de chance), Rubi Imaculado (10% de chance)$(br2)$(l)Notas$()$(br)Forragear exige 3+ corações. Pode ser domado com Sweet Berries. Pandas-vermelhos têm dificuldade com fertilidade e Poções Milagrosas têm alta chance de falhar..."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "crittersandcompanions:red_panda",
+      "scale": 0.8,
+      "text": "Pequenos caçadores de tesouros vermelhos."
+    }
+  ]
+}

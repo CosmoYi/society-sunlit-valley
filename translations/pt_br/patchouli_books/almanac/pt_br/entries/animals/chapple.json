@@ -1,0 +1,17 @@
+{
+  "name": "Chapple",
+  "category": "patchouli:animals",
+  "icon": "minecraft:apple",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Maçã$(li)Drops: Frango Cru, Pena$(br2)$(l)Notas$()$(br)Chapples com fome ou infelizes (menos de 2 corações de afeição) não botam Maçãs"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "etcetera:chapple",
+      "scale": 0.8,
+      "text": "Uma mutação estranha nascida de um Eggple encontrado em um baú de loot."
+    }
+  ]
+}

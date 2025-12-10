@@ -1,0 +1,17 @@
+{
+  "name": "Guaxinim",
+  "category": "patchouli:animals",
+  "icon": "furniture:trash_bag",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Forrageio: ...lixo? (50% de chance)$(li)Drops: Lata$(br2)$(l)Notas$()$(br)Forragear exige 3+ corações. Pode ser encontrado em biomas de Planícies."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:raccoon",
+      "scale": 0.7,
+      "text": "Esses pequenos são melhores amigos dos Slimes Podres!"
+    }
+  ]
+}

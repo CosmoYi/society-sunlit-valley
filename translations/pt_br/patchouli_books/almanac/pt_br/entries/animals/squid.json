@@ -1,0 +1,17 @@
+{
+  "name": "Lula",
+  "category": "patchouli:animals",
+  "icon": "minecraft:ink_sac",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Saco de Tinta$(li)Recarga do Leite: 1 dia$(li)Forrageio: Tentáculos de Lula (20% de chance), Tinta Antiga (10% de chance) $(li)Drops: Saco de Tinta$(br2)$(l)Notas$()$(br)Itens de forrageio só aparecem com 5+ corações de afeição"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:squid",
+      "scale": 0.4,
+      "text": "Ordenhar uma lula?."
+    }
+  ]
+}

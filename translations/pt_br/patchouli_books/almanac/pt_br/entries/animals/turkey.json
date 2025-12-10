@@ -1,0 +1,17 @@
+{
+  "name": "Peru",
+  "category": "patchouli:animals",
+  "icon": "autumnity:turkey_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Ovo de Peru$(li)Drops: Peru Cru, Pena$(br2)$(l)Notas$()$(br)Perus famintos não botam ovos, e perus infelizes botam muito menos... Perus botam ovos mais devagar que outras aves."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "autumnity:turkey",
+      "scale": 0.8,
+      "text": "Todos são sempre gratos por sua deliciosa maionese de peru."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Chapple Dourado",
+  "category": "patchouli:animals",
+  "icon": "minecraft:golden_apple",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Maçã Dourada$(li)Drops: Frango Cru, Pena$(br2)$(l)Notas$()$(br)Chapples famintos ou infelizes (menos de 2 corações de afeição) não botam Maçãs"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "etcetera:chapple{Type:golden}",
+      "scale": 0.8,
+      "text": "Uma estranha mutação nascida de um Eggple Dourado encontrado em Bastiões."
+    }
+  ]
+}

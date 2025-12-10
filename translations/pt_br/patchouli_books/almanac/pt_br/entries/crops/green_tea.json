@@ -1,0 +1,26 @@
+{
+  "name": "Chá Verde 🌼🔥🍂",
+  "category": "patchouli:crops",
+  "icon": "herbalbrews:green_tea_leaf",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 4$(li)🌼 §2Primavera§r 🔥 §6Verão§r 🍂 §4Outono$(li)Colheita: 1$(li)Tempo de Crescimento: 3 days$(br2)$(l)Notas$()$(br)Encontrado em Balões Verdes.$(br)Blocos de Folha de Chá Verde podem ser colocados no mundo para secar lentamente"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Chá",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "herbalbrews:tea_plant[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Linho 🌼",
+  "category": "patchouli:crops",
+  "icon": "supplementaries:flax",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 68$(li)🌼 §2Primavera$(li)Preço da Semente: :coin: 8$(li)Colheita: 1$(li)Tempo de Crescimento: 7 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Linho",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["1"],
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "1": "supplementaries:flax[age=7,half=upper]",
+          "0": "supplementaries:flax[age=7,half=lower]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

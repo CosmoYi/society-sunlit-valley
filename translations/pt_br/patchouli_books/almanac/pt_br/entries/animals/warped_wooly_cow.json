@@ -1,0 +1,18 @@
+{
+  "name": "Vaca Lanosa Distorcida",
+  "category": "patchouli:animals",
+  "icon": "society:large_warped_milk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Leite Distorcido$(li)Recarga do Leite: 2 dias$(li)Ao tosquiar: Lã Distorcida$(li)Drops: Lã Distorcida, Carne Crua, Couro$(br2)$(l)Notas$()$(br)Elas surgem aleatoriamente nas florestas distorcidas."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Vaca Lanuda Distorcida",
+      "entity": "meadow:wooly_cow{Variant:2}",
+      "scale": 0.8,
+      "text": "Queijos feitos com seu leite são uma iguaria caríssima. Versão do Nether da Vaca Lanosa"
+    }
+  ]
+}

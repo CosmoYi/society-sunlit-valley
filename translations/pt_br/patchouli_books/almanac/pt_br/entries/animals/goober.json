@@ -1,0 +1,17 @@
+{
+  "name": "Espirrão",
+  "category": "patchouli:animals",
+  "icon": "species:petrified_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Ovo: Ovo Petrificado (25% de chance)$(br2)$(l)Notas$()$(br)Ovos exigem 5+ corações."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "species:goober",
+      "scale": 0.8,
+      "text": "Seus ovos precisam do calor da Magma para chocarem."
+    }
+  ]
+}

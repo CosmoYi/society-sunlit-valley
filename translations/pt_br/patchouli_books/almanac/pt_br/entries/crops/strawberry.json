@@ -1,0 +1,26 @@
+{
+  "name": "Morango 🌼",
+  "category": "patchouli:crops",
+  "icon": "farm_and_charm:strawberry",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 18$(li)🌼 §2Primavera§r$(li)Preço da Semente: :coin: 3$(li)Colheita: 1$(li)Tempo de Crescimento: 5 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Morango",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "farm_and_charm:strawberry_crop[age=5]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Panda",
+  "category": "patchouli:animals",
+  "icon": "pamhc2trees:mangoitem",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li)Preço: Não vendido$(li)Forrageio: Frutas tropicais aleatórias (75% de chance)$(br2)$(l)Notas$()$(br)Forragear requer 2+ corações. Pandas têm dificuldades com fertilidade e Poções Milagrosas têm grande chance de falhar..."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:panda",
+      "scale": 0.8,
+      "text": "Eles adoram dividir as frutas que encontram. De onde será que eles tiram tantas frutas...?"
+    }
+  ]
+}

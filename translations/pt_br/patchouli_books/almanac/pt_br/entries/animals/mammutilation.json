@@ -1,0 +1,53 @@
+{
+  "name": "Mammutilado",
+  "category": "patchouli:animals",
+  "icon": "species:ichor_bottle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li)Leite: Frasco de Ícor$(li)Tempo de Recarga do Leite: 2 dias$(li)Drops: Nenhum$(br2)$(l)Notas$()$(br)Eles devem ser reconstruídos como mostrado à direita e atingidos por um raio. Seus restos podem ser encontrados congelados no gelo debaixo d'água..."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Construa, então espere por um raio",
+      "enable_visualize": true,
+      "symmetrical": true,
+      "multiblock": {
+        "pattern": [
+          [
+            " BBB ",
+            "SBBBN",
+            " BBB ",
+            "     "
+          ],
+          [
+            " BBB ",
+            " B0B ",
+            "TBPBT",
+            "T   T"
+          ],
+          [
+            " BBB ",
+            " BBB ",
+            " BBB ",
+            "     "
+          ]
+        ],
+        "mapping": {
+          "T": "minecraft:bone_block[axis=x]",
+          "P": "minecraft:carved_pumpkin[facing=east]",
+          "B": "#species:mammutilation_body_blocks",
+          "0": "#species:mammutilation_body_blocks",
+          "S": "minecraft:lightning_rod[facing=north]",
+          "N": "minecraft:lightning_rod[facing=south]"
+        }
+      }
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "species:mammutilation",
+      "scale": 0.8,
+      "text": "Uma abominação da natureza, perdida no tempo..."
+    }
+  ]
+}

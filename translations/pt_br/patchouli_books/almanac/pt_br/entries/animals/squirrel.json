@@ -1,0 +1,17 @@
+{
+  "name": "Esquilo",
+  "category": "patchouli:animals",
+  "icon": "pamhc2trees:hazelnutitem",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Forrageio: Frutas Vermelhas, Avelã (25% de chance)$(li)Drops: Avelã$(br2)$(l)Notas$()$(br)Forrageio requer 2+ corações. Pode ser encontrado nos biomas de Planícies e Florestas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "wildernature:squirrel",
+      "scale": 0.7,
+      "text": "Ser capaz de escalar árvores faz deles um animal particularmente difícil de criar."
+    }
+  ]
+}

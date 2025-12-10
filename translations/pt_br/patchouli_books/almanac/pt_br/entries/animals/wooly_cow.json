@@ -1,0 +1,24 @@
+{
+  "name": "Vaca Lanosa",
+  "category": "patchouli:animals",
+  "icon": "meadow:highland_wool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: Não vendido$(li)Leite: Leite$(li)Recarga do Leite: 1 dia$(li)Drops ao tosquiar: Lã Umbra ou Highland$(li)Drops: Lã Umbra ou Highland, Carne Bovina Crua, Couro$(br2)$(l)Notas$()$(br)Ambas as variantes podem ser encontradas em biomas de Campo Florido (Meadow) e Floresta de Carvalho Escuro."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Vaca Lanuda Highland",
+      "entity": "meadow:wooly_cow{Variant:0}",
+      "scale": 0.8,
+      "text": "Um tipo fofíssimo de vaca conhecida por sua lã única."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Vaca Lanuda Umbra",
+      "entity": "meadow:wooly_cow{Variant:1}",
+      "scale": 0.8
+    }
+  ]
+}

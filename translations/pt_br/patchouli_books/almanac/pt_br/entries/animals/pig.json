@@ -1,0 +1,17 @@
+{
+  "name": "Porco",
+  "category": "patchouli:animals",
+  "icon": "society:truffle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Status$()$(li)Preço: :coin: 8.192$(li)Forrageamento: Trufa (20% de chance)$(li)Drops: Carne de Porco Crua$(br2)$(l)Notas$()$(br)O forrageamento requer 4+ corações de afeição."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:pig",
+      "scale": 0.7,
+      "text": "Simpáticos e temperamentalmente tranquilos, eles precisam de bastante atenção antes de desenterrar valiosas Trufas."
+    }
+  ]
+}

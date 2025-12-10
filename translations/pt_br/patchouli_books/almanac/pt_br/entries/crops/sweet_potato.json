@@ -1,0 +1,26 @@
+{
+  "name": "Batata Doce 🍂",
+  "category": "patchouli:crops",
+  "icon": "veggiesdelight:sweet_potato",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Estatísticas$()$(li):coin: 20$(li)🍂 §4Outono$(li)Preço da Semente: :coin: 64$(li)Colheita: 1-4$(li)Tempo de Crescimento: 5 days$(br2)$(l)Notas$()$(br)Sementes compradas apenas do Mestre Cultivador."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Plantação de Batata Doce",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "veggiesdelight:sweet_potato_crop[age=5]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}
