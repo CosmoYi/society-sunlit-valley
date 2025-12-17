@@ -1,15 +1,15 @@
 {
-    "name": "Fruta do Dragão ❆",
-    "category": "patchouli:colheitas_de_árvores",
+    "name": "Pitaya ❆",
+    "category": "patchouli:tree_crops",
     "icon": "pamhc2trees:dragonfruititem",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Estatísticas$()$(li):coin: 128$(li)🍂 §4Outono§r$(li)Colheita: 1$(li)Fases de crescimento: 8$(br2)$(l)Notas$()$(li)Ver: $(l:trees/pams/dragonfruit)Árvore de Fruta do Dragão$(/l)"
+            "text": "$(l)Estatísticas$()$(li):coin: 128$(li)🍂 §4Outono§r$(li)Colheita: 1$(li)Fases de crescimento: 8$(br2)$(l)Notas$()$(li)Veja: $(l:trees/pams/dragonfruit)Árvore de Pitaia$(/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Árvore de Fruta do Dragão",
+            "name": "Árvore de Pitaia",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

@@ -1,15 +1,15 @@
 {
-    "name": "Canela 🍂❆",
-    "category": "patchouli:colheitas_de_árvores",
+    "name": "Cinnamon 🍂❆",
+    "category": "patchouli:tree_crops",
     "icon": "pamhc2trees:cinnamonitem",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Estatísticas$()$(li):coin: 160$(li)🍂 §4Outono§r ❆ §bInverno§r$(li)Colheita: 1$(li)Fases de crescimento: 8$(br2)$(l)Notas$()$(li)Ver: $(l:trees/pams/cinnamon)Árvore de Canela$(/l)"
+            "text": "$(l)Stats$()$(li):coin: 160$(li)🍂 §4Autumn§r ❆ §bWinter§r$(li)Yield: 1$(li)Grow stages: 8$(br2)$(l)Notes$()$(li)See: $(l:trees/pams/cinnamon)Cinnamon Tree$(/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Árvore de Canela",
+            "name ": "Plum Tree",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {

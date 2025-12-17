@@ -1,15 +1,15 @@
 {
-    "name": "Cereja 🌼",
-    "category": "patchouli:colheitas_de_árvores",
+    "name": "Cherry 🌼",
+    "category": "patchouli:tree_crops",
     "icon": "vinery:cherry",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(l)Estatísticas$()$(li):coin: 12$(li)🌼 §2Primavera§r $(li)Colheita: 4$(li)Fases de crescimento: 8$(br2)$(l)Notas$()$(li)Ver: $(l:trees/pams/cherry)Árvore de Cereja$(/l)$(li)Ver: $(l:trees/letsdo/darkcherry)Árvore de Cereja Escura$(/l)"
+            "text": "$(l)Stats$()$(li):coin: 12$(li)🌼 §2Spring§r $(li)Yield: 4$(li)Grow stages: 8$(br2)$(l)Notes$()$(li)See: $(l:trees/pams/cherry)Cherry Tree$(/l)$(li)See: $(l:trees/letsdo/darkcherry)Dark Cherry Tree$(/l)"
         },
         {
             "type": "patchouli:multiblock",
-            "name ": "Árvore de Cereja",
+            "name ": "Apple Tree",
             "enable_visualize": false,
             "multiblock": {
                 "mapping": {
