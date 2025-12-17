@@ -1,0 +1,44 @@
+{
+  "itemGroup.ribbits.general": "Ribbits",
+
+  "block.ribbits.brown_toadstool": "Bloco de Cogumelo Marrom",
+  "block.ribbits.red_toadstool": "Bloco de Cogumelo Vermelho",
+  "block.ribbits.toadstool_stem": "Caule de Cogumelo",
+  "block.ribbits.swamp_lantern": "Lanterna do Pântano",
+  "block.ribbits.giant_lilypad": "Vitória-Régia Exuberante",
+  "block.ribbits.swamp_daisy": "Margarida do Pântano",
+  "block.ribbits.toadstool": "Cogumelo",
+  "block.ribbits.mossy_oak_planks": "Tábuas de Carvalho com Musgo",
+  "block.ribbits.mossy_oak_planks_stairs": "Escadas de Tábuas de Carvalho com Musgo",
+  "block.ribbits.mossy_oak_planks_slab": "Laje de Tábuas de Carvalho com Musgo",
+  "block.ribbits.mossy_oak_planks_fence": "Cerca de Carvalho com Musgo",
+  "block.ribbits.mossy_oak_planks_fence_gate": "Portão de Cerca de Carvalho com Musgo",
+  "block.ribbits.mossy_oak_door": "Porta de Carvalho com Musgo",
+  "block.ribbits.umbrella_leaf": "Folha de Guarda-Chuva",
+
+  "item.ribbits.ribbit_nitwit_spawn_egg": "Ovo de Invocação do Ribbit Lerdão",
+  "item.ribbits.ribbit_fisherman_spawn_egg": "Ovo de Invocação do Ribbit Pescador",
+  "item.ribbits.ribbit_gardener_spawn_egg": "Ovo de Invocação do Ribbit Jardineiro",
+  "item.ribbits.ribbit_merchant_spawn_egg": "Ovo de Invocação do Ribbit Mercador",
+  "item.ribbits.ribbit_sorcerer_spawn_egg": "Ovo de Invocação do Ribbit Feiticeiro",
+  "item.ribbits.maraca": "Maracá",
+
+  "entity.ribbits.ribbit": "Ribbit",
+
+  "subtitles.entity.ribbit.ambient": "Ribbit coaxando",
+  "subtitles.entity.ribbit.death": "Ribbit morre",
+  "subtitles.entity.ribbit.hurt": "Ribbit se machuca",
+  "subtitles.entity.ribbit.step": "Ribbit pula",
+  "subtitles.entity.ribbit.magic": "Ribbit feiticeiro lança um feitiço",
+  "subtitles.music.ribbit.bass": "Ribbit toca baixo",
+  "subtitles.music.ribbit.bongo": "Ribbit toca bongôs",
+  "subtitles.music.ribbit.flute": "Ribbit toca flauta",
+  "subtitles.music.ribbit.guitar": "Ribbit toca guitarra",
+  "subtitles.music.ribbit.maraca": "Jogador toca maracá",
+
+  "text.autoconfig.ribbits-fabric-1_20_1.title": "Ribbits",
+  "text.autoconfig.ribbits-fabric-1_20_1.option.general.prideFlagAllYear": "Exibir Bandeiras do Orgulho o Ano Todo",
+  "text.autoconfig.ribbits-fabric-1_20_1.option.general.prideFlagAllYear.@Tooltip": "Se ativado, Ribbits do Orgulho existirão o ano inteiro em vez de apenas em junho",
+
+  "ribbits.options.supporter_hat_button": "Chapéu de Apoiador do Ribbits"
+}

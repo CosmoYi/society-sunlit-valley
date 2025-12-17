@@ -1,0 +1,88 @@
+{
+  "entity.untitledduckmod.duck": "Pato",
+  "item.untitledduckmod.duck_spawn_egg": "Ovo de Invocação de Pato",
+  "item.untitledduckmod.duck_egg": "Ovo de Pato",
+  "item.untitledduckmod.raw_duck": "Pato Cru",
+  "item.untitledduckmod.cooked_duck": "Pato Cozido",
+  "item.untitledduckmod.duck_feather": "Pena de Pato",
+
+  "entity.untitledduckmod.goose": "Ganso",
+  "item.untitledduckmod.goose_spawn_egg": "Ovo de Invocação de Ganso",
+
+  "untitledduckmod.subtitle.duck_ambient": "Pato grasna",
+  "untitledduckmod.subtitle.duckling_ambient": "Patinho pia",
+  "untitledduckmod.subtitle.duck_hurt": "Pato grasna de dor",
+  "untitledduckmod.subtitle.duckling_hurt": "Patinho pia desesperadamente",
+  "untitledduckmod.subtitle.duck_death": "Pato morre",
+  "untitledduckmod.subtitle.duckling_death": "Patinho morre",
+  "untitledduckmod.subtitle.duck_lay_egg": "Ovo de pato cai",
+  "untitledduckmod.subtitle.duck_sack_use": "Usa saco de pato",
+
+  "item.untitledduckmod.duck_sack": "Saco de Pato",
+  "item.untitledduckmod.empty_duck_sack": "Saco de Pato Vazio",
+  "item.untitledduckmod.duck_sack.named": "Saco de Pato com %s",
+
+  "untitledduckmod.subtitle.goose_honk": "Ganso grasna",
+  "item.untitledduckmod.goose_egg": "Ovo de Ganso",
+  "item.untitledduckmod.raw_goose": "Ganso Cru",
+  "item.untitledduckmod.cooked_goose": "Ganso Cozido",
+  "item.untitledduckmod.goose_foot": "Pé de Ganso",
+  "untitledduckmod.subtitle.goose_lay_egg": "Ovo de ganso cai",
+  "untitledduckmod.subtitle.goose_death": "Ganso morre",
+  "untitledduckmod.subtitle.gosling_ambient": "Gansinho pia",
+  "untitledduckmod.subtitle.gosling_death": "Gansinho morre",
+  "untitledduckmod.subtitle.gosling_hurt": "Gansinho se machuca",
+
+  "effect.untitledduckmod.intimidation": "Intimidação",
+  "item.minecraft.potion.effect.intimidation": "Poção de Intimidação",
+  "item.minecraft.lingering_potion.effect.intimidation": "Poção Prolongada de Intimidação",
+  "item.minecraft.splash_potion.effect.intimidation": "Poção Arremessável de Intimidação",
+
+  "tag.item.untitledduckmod.goose_food": "Comida de Ganso",
+  "tag.item.untitledduckmod.goose_breeding_food": "Comida para Reprodução de Ganso",
+  "tag.item.untitledduckmod.goose_taming_food": "Comida para Domar Ganso",
+  "tag.item.untitledduckmod.duck_food": "Comida de Pato",
+  "tag.item.untitledduckmod.duck_breeding_food": "Comida para Reprodução de Pato",
+  "tag.item.untitledduckmod.duck_taming_food": "Comida para Domar Pato",
+
+  "untitledduckmod.config.title": "Configurações do Untitled Duck",
+  "untitledduckmod.config.category.ducks": "Patos",
+  "untitledduckmod.config.category.geese": "Gansos",
+  "untitledduckmod.config.category.intimidation": "Intimidação",
+  "untitledduckmod.config.category.common": "Geral",
+
+  "untitledduckmod.config.ducks": "Patos",
+  "untitledduckmod.config.geese": "Gansos",
+
+  "untitledduckmod.config.duck_spawn_weight": "Frequência de Surgimento de Patos",
+  "untitledduckmod.config.duck_min_group_size": "Tamanho Mínimo do Grupo de Patos",
+  "untitledduckmod.config.duck_max_group_size": "Tamanho Máximo do Grupo de Patos",
+  "untitledduckmod.config.duck_fishing_change": "Chance de Pesca dos Patos",
+  "untitledduckmod.config.duck_tamed_not_follow": "Pato Domesticado Não Segue",
+  "untitledduckmod.config.duck_baby_random_size": "Tamanho Aleatório de Patinhos",
+
+  "untitledduckmod.config.goose_spawn_weight": "Frequência de Surgimento de Gansos",
+  "untitledduckmod.config.goose_min_group_size": "Tamanho Mínimo do Grupo de Gansos",
+  "untitledduckmod.config.goose_max_group_size": "Tamanho Máximo do Grupo de Gansos",
+  "untitledduckmod.config.goose_tamed_not_follow": "Ganso Domesticado Não Segue",
+  "untitledduckmod.config.goose_baby_random_size": "Tamanho Aleatório de Gansinhos",
+
+  "untitledduckmod.config.intimidation_blacklist": "Lista Negra de Intimidação",
+  "untitledduckmod.config.food_healing_value": "Valor de Cura da Comida",
+  "untitledduckmod.config.food_healing_value.tooltip": "A comida pode curar a vida de patos e gansos",
+
+  "untitledduckmod.config.duck_spawn_weight.tooltip": "Com que frequência os patos surgem (quanto maior, mais frequente)",
+  "untitledduckmod.config.goose_spawn_weight.tooltip": "Com que frequência os gansos surgem (quanto maior, mais frequente)",
+  "untitledduckmod.config.duck_min_group_size.tooltip": "Tamanho mínimo do grupo em que os patos surgem",
+  "untitledduckmod.config.duck_max_group_size.tooltip": "Tamanho máximo do grupo em que os patos surgem",
+  "untitledduckmod.config.duck_fishing_change.tooltip": "Chance de os patos conseguirem pescar",
+  "untitledduckmod.config.duck_baby_random_size.tooltip": "O tamanho do modelo do patinho será aleatório e afetará o tamanho adulto",
+  "untitledduckmod.config.goose_baby_random_size.tooltip": "O tamanho do modelo do gansinho será aleatório e afetará o tamanho adulto",
+  "untitledduckmod.config.goose_min_group_size.tooltip": "Tamanho mínimo do grupo em que os gansos surgem",
+  "untitledduckmod.config.goose_max_group_size.tooltip": "Tamanho máximo do grupo em que os gansos surgem",
+  "untitledduckmod.config.duck_tamed_not_follow.tooltip": "Quando domesticado, o pato não seguirá mais (apenas vagueia)",
+  "untitledduckmod.config.goose_tamed_not_follow.tooltip": "Quando domesticado, o ganso não seguirá mais (apenas vagueia)",
+  "untitledduckmod.config.intimidation_blacklist.tooltip": "O efeito de intimidação não funciona em mobs desta lista",
+
+  "config.jade.plugin_untitledduckmod.lay_egg": "Tempo de postura de ovos"
+}

@@ -1,0 +1,61 @@
+{
+  "itemGroup.verdantvibes": "Vibrações Verdejantes",
+
+  "block.verdantvibes.gardening_table": "Mesa de Jardinagem",
+
+  "block.verdantvibes.monstera": "Costela-de-Adão",
+  "block.verdantvibes.monstera.info": "Monstera deliciosa",
+  "block.verdantvibes.potted_monstera": "Costela-de-Adão em Vaso",
+
+  "block.verdantvibes.snake_plant": "Espada-de-São-Jorge",
+  "block.verdantvibes.snake_plant.info": "Dracaena trifasciata",
+  "block.verdantvibes.potted_snake_plant": "Espada-de-São-Jorge em Vaso",
+
+  "block.verdantvibes.parlour_palm": "Palmeira-de-Sala",
+  "block.verdantvibes.parlour_palm.info": "Chamaedorea elegans",
+  "block.verdantvibes.potted_parlour_palm": "Palmeira-de-Sala em Vaso",
+
+  "block.verdantvibes.money_tree": "Árvore-da-Fortuna",
+  "block.verdantvibes.money_tree.info": "Pachira aquatica",
+  "block.verdantvibes.potted_money_tree": "Árvore-da-Fortuna em Vaso",
+
+  "block.verdantvibes.lobelia": "Lobélia Azul",
+  "block.verdantvibes.lobelia.info": "Lobelia siphilitica",
+  "block.verdantvibes.potted_lobelia": "Lobélia Azul em Vaso",
+
+  "block.verdantvibes.tall_dragon_tree": "Dracena Alta",
+  "block.verdantvibes.dragon_tree": "Dracena",
+  "block.verdantvibes.dragon_tree.info": "Dracaena marginata",
+  "block.verdantvibes.potted_dragon_tree": "Dracena em Vaso",
+
+  "block.verdantvibes.candy_tuft": "Flor-de-Neve",
+  "block.verdantvibes.candy_tuft.info": "Iberis sempervirens",
+
+  "block.verdantvibes.periwinkle": "Vinca",
+  "block.verdantvibes.periwinkle.info": "Vinca minor",
+
+  "block.verdantvibes.ivy": "Hera",
+  "block.verdantvibes.ivy.info": "Hedera helix",
+  "block.verdantvibes.potted_ivy": "Hera em Vaso",
+
+  "block.verdantvibes.cattails": "Taboas",
+  "block.verdantvibes.cattails.info": "Typha latifolia",
+
+  "block.verdantvibes.burnweed": "Erva-Foguete",
+  "block.verdantvibes.burnweed.info": "Erechtites hieracifolia",
+  "block.verdantvibes.potted_burnweed": "Erva-Foguete em Vaso",
+
+  "block.verdantvibes.bracket_mushroom": "Fungo-de-Prateleira",
+  "block.verdantvibes.bracket_mushroom.info": "Ganoderma applanatum",
+
+  "entity.minecraft.villager.verdantvibes.gardener": "Jardineiro",
+
+  "verdantvibes.advancements.botanicalbeginnings.title": "Começos Botânicos",
+  "verdantvibes.advancements.botanicalbeginnings.description": "Vamos exibir isso em um vaso!",
+
+  "verdantvibes.advancements.horticulturalhoarder.title": "Colecionador Hortícola",
+  "verdantvibes.advancements.horticulturalhoarder.description": "Colete todas as novas plantas que podem ser colocadas em vasos!",
+
+  "verdantvibes.advancements.potterspivot.title": "Vasos em Outro Nível",
+  "verdantvibes.advancements.potterspivot.description": "Shift + Clique Direito para girar sua planta! Insano."
+}
