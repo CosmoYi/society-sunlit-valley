@@ -1,0 +1,12 @@
+{
+  "attribute.shippingbin.crop_sell_multiplier": "Multiplicador de Venda de Cultivos",
+  "attribute.shippingbin.gem_sell_multiplier": "Multiplicador de Venda de Gemas",
+  "attribute.shippingbin.meat_sell_multiplier": "Multiplicador de Venda de Carne",
+  "attribute.shippingbin.sell_multiplier": "Multiplicador de Venda",
+  "attribute.shippingbin.wood_sell_multiplier": "Multiplicador de Venda de Madeira",
+  "block.shippingbin.basic_shipping_bin": "Caixa de Remessa Básica",
+  "block.shippingbin.smart_shipping_bin": "Caixa de Remessa Inteligente",
+  "category.shippingbin.trading": "Comércio",
+  "category.shippingbin.trading.attribute": "Bônus: %s",
+  "shippingbin.toast.trade": "%s %s %s foi vendido por %s %s"
+}
